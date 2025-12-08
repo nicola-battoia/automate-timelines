@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "file": "/Users/nico/YT/automation-tests/recording/nicola.mp4",
+      "clips": [
+        {
+          "start": 1440,
+          "duration": 2880,
+          "rate": 24
+        },
+        {
+          "start": 86400,
+          "duration": 2880,
+          "rate": 24
+        },
+        {
+          "start": 100800,
+          "duration": 2880,
+          "rate": 24
+        }
+      ]
+    },
+    {
+      "file": "/Users/nico/YT/automation-tests/recording/hwei.mp4",
+      "clips": [
+        {
+          "start": 1440,
+          "duration": 2880,
+          "rate": 24
+        },
+        {
+          "start": 86400,
+          "duration": 2880,
+          "rate": 24
+        },
+        {
+          "start": 100800,
+          "duration": 2880,
+          "rate": 24
+        }
+      ]
+    }
+  ]
+}
