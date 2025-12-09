@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-#
-# SPDX-License-Identifier: Apache-2.0
-# Copyright Contributors to the OpenTimelineIO project
-
 """
 Generate a timeline where:
 - You provide a list of source media files.
@@ -12,19 +7,9 @@ Generate a timeline where:
 """
 
 import opentimelineio as otio
-from pydantic import BaseModel
 from typing import List, Optional
 
-
-class ClipSpec(BaseModel):
-    start: int
-    duration: int
-
-
-class SourceMedia(BaseModel):
-    file_path: str
-    rate: int
-    clips: List[ClipSpec]
+from models.data_models import ClipSpec, SourceMedia
 
 
 # ----------------------------------------------------------------------

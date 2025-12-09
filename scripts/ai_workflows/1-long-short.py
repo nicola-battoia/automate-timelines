@@ -1,13 +1,34 @@
+"""
+Long-to-Short Clip Extraction Workflow
+
+This script analyzes a podcast transcript and uses AI to extract interesting clips
+for creating a short-form intro video. It converts timestamp-based clips to frame
+ranges and builds an OTIO timeline.
+"""
+
+# ----------------------------------------------------------------------
+# IMPORTS
+# ----------------------------------------------------------------------
+
+# Standard library
 import os
 import logging
-from typing import Dict, List
 from pathlib import Path
+from typing import List
 
+# Third-party
 from openai import OpenAI
-from pydantic import BaseModel, Field, RootModel, field_validator, model_validator
+import opentimelineio as otio
+
+# Local imports
+from models.data_models import ClipSpec, SourceMedia, ClipsList
+from create_timelines.otio_builder import PerMediaTimelineBuilder
 
 
-# Set up logging configuration
+# ----------------------------------------------------------------------
+# LOGGING CONFIGURATION
+# ----------------------------------------------------------------------
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -16,84 +37,39 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-model = "gpt-4o-mini"
+# ----------------------------------------------------------------------
+# CONFIGURATION
+# ----------------------------------------------------------------------
 
-# --------------------------------------------------------------
-# Step 1: Define the data models
-# --------------------------------------------------------------
+# AI Model Configuration
+MODEL_NAME = "gpt-5-mini"
 
+# Input Paths
+TRANSCRIPT_PATH = Path(
+    "/Users/nico/hack/gitHub/automate-timelines/data/transcripts/youtube-subtitles-example.srt"
+)
 
-def _timestamp_to_seconds(ts: str) -> float:
-    """
-    Convert 'HH:MM:SS,mmm' to total seconds as float.
-    Example: '01:23:48,320' -> 5028.320
-    """
-    try:
-        hh, mm, rest = ts.split(":")
-        ss, ms = rest.split(",")
-        return int(hh) * 3600 + int(mm) * 60 + int(ss) + int(ms) / 1000.0
-    except Exception as exc:
-        raise ValueError(f"Invalid timestamp format: {ts!r}") from exc
+# Video Settings
+FPS = 24  # Frames per second
 
+# Media Files
+MEDIA_PATHS = [
+    "/Users/nico/YT/automation-tests/recording/nicola.mp4",
+    "/Users/nico/YT/automation-tests/recording/hwei.mp4",
+]
 
-class ClipSelection(BaseModel):
-    """Clip segment to extract from a source media file"""
-
-    start: str = Field(
-        description="Start time of the clip in 'HH:MM:SS,mmm' format "
-        "(YouTube transcript style)",
-        examples=["01:23:48,320"],
-    )
-    end: str = Field(
-        description="End time of the clip in 'HH:MM:SS,mmm' format "
-        "(YouTube transcript style)",
-        examples=["01:23:53,639"],
-    )
-
-    @field_validator("start", "end")
-    @classmethod
-    def validate_timestamp(cls, v: str) -> str:
-        # Will raise if invalid; we don't store the parsed value here,
-        # just validate and keep the original string.
-        _timestamp_to_seconds(v)
-        return v
-
-    @model_validator(mode="after")
-    def check_order(self) -> "ClipSelection":
-        if _timestamp_to_seconds(self.end) <= _timestamp_to_seconds(self.start):
-            raise ValueError("end must be strictly after start")
-        return self
+# Output Path
+OUTPUT_OTIO_PATH = Path(
+    "/Users/nico/hack/gitHub/automate-timelines/data/timelines/per_media_tracks_gpt_5_mini.otio"
+)
 
 
-class ClipsList(BaseModel):
-    """List of clip selections"""
-
-    clips: List[ClipSelection] = Field(description="List of clip selections")
-
-
-class SourceMedia(BaseModel):
-    """Source media file definition with its clip selections"""
-
-    file_path: str = Field(description="Absolute path to the source media file")
-    rate: int = Field(description="Frame rate (fps) of the source media")
-    clips: List[ClipSelection] = Field(
-        description="Clip segments to pull from this source media"
-    )
-
-
-class SourceMediaList(RootModel[List[SourceMedia]]):
-    """Collection of source media entries to process"""
-
-    root: List[SourceMedia]
-
-
-# --------------------------------------------------------------
-# Step 2: Define prompts
-# --------------------------------------------------------------
+# ----------------------------------------------------------------------
+# AI PROMPT
+# ----------------------------------------------------------------------
 
 ORCHESTRATOR_PROMPT = """
-Analyze this podcast interview transcript and extract clips from the whole episode to create an interesting intro of roughly two minutes. 
+Analyze this podcast interview transcript and extract clips from the whole episode to create an interesting intro of roughly two minutes.
 
 Return your response in this format:
 
@@ -113,12 +89,17 @@ List of clip selections in the format of HH:MM:SS,mmm
 Transcript: {transcript}
 """
 
-srt_path = Path(
-    "/Users/nico/hack/gitHub/automate-timelines/data/transcripts/youtube-subtitles-example.srt"
-)
 
-# Flatten SRT entries into a single transcript string
-lines = srt_path.read_text(encoding="utf-8").splitlines()
+# ----------------------------------------------------------------------
+# MAIN EXECUTION
+# ----------------------------------------------------------------------
+
+# Initialize OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# Step 1: Load and process transcript
+logger.info(f"Loading transcript from {TRANSCRIPT_PATH}")
+lines = TRANSCRIPT_PATH.read_text(encoding="utf-8").splitlines()
 spoken = []
 for line in lines:
     line = line.strip()
@@ -127,19 +108,40 @@ for line in lines:
     spoken.append(line)
 transcript = " ".join(spoken)
 
-print(transcript)
-
-
-# --------------------------------------------------------------
-# Step 2: Call the model
-# --------------------------------------------------------------
-
+# Step 2: Call AI model to extract clips
+logger.info(f"Calling {MODEL_NAME} to extract clips")
 completion = client.beta.chat.completions.parse(
-    model="gpt-4o",
-    messages=[{"role": "system", "content": ORCHESTRATOR_PROMPT}],
+    model=MODEL_NAME,
+    messages=[
+        {"role": "system", "content": ORCHESTRATOR_PROMPT.format(transcript=transcript)}
+    ],
     response_format=ClipsList,
 )
 
-# --------------------------------------------------------------
-# Step 3: Parse the response
-# --------------------------------------------------------------
+clips_list = completion.choices[0].message.parsed
+logger.info(f"Extracted {len(clips_list.clips)} clips from transcript")
+
+# Step 3: Convert timestamp-based clips to frame-based clips
+logger.info(f"Converting clips to frame ranges at {FPS} fps")
+builder_clips = [clip.to_clip_spec(FPS) for clip in clips_list.clips]
+
+# Step 4: Create source media list with clips for each media file
+source_media_list = [
+    SourceMedia(
+        file_path=path,
+        rate=FPS,
+        clips=builder_clips,
+    )
+    for path in MEDIA_PATHS
+]
+
+# Step 5: Build OTIO timeline
+logger.info("Building OTIO timeline")
+builder = PerMediaTimelineBuilder()
+timeline = builder.build_timeline(source_media_list)
+
+# Step 6: Write timeline to file
+logger.info(f"Writing timeline to {OUTPUT_OTIO_PATH}")
+otio.adapters.write_to_file(timeline, OUTPUT_OTIO_PATH)
+
+logger.info("Workflow complete!")
