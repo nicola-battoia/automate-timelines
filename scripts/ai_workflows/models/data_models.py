@@ -46,6 +46,12 @@ class ClipSelection(BaseModel):
         "(YouTube transcript style)",
         examples=["01:23:53,639"],
     )
+    transcript_text: str = Field(
+        description="Exact transcript text from the transcript",
+    )
+    notes: str = Field(
+        description="Brief note about why you choose this segment",
+    )
 
     @field_validator("start", "end")
     @classmethod

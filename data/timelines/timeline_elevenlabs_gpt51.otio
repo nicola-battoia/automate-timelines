@@ -35,12 +35,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 753.0
+                                "value": 987.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2.0
+                                "value": 3947.0
                             }
                         },
                         "effects": [],
@@ -57,12 +57,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -83,12 +83,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 574.0
+                                "value": 906.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2709.0
+                                "value": 12357.0
                             }
                         },
                         "effects": [],
@@ -105,12 +105,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -131,12 +131,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 1364.0
+                                "value": 332.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 75037.0
+                                "value": 23653.0
                             }
                         },
                         "effects": [],
@@ -153,12 +153,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -179,12 +179,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 862.0
+                                "value": 95.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 99437.0
+                                "value": 58188.0
                             }
                         },
                         "effects": [],
@@ -201,12 +201,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -240,12 +240,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 753.0
+                                "value": 987.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2.0
+                                "value": 3947.0
                             }
                         },
                         "effects": [],
@@ -262,12 +262,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -288,12 +288,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 574.0
+                                "value": 906.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2709.0
+                                "value": 12357.0
                             }
                         },
                         "effects": [],
@@ -310,12 +310,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -336,12 +336,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 1364.0
+                                "value": 332.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 75037.0
+                                "value": 23653.0
                             }
                         },
                         "effects": [],
@@ -358,12 +358,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -384,12 +384,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 862.0
+                                "value": 95.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 99437.0
+                                "value": 58188.0
                             }
                         },
                         "effects": [],
@@ -406,12 +406,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -445,12 +445,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 753.0
+                                "value": 987.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2.0
+                                "value": 3947.0
                             }
                         },
                         "effects": [],
@@ -467,12 +467,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -493,12 +493,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 574.0
+                                "value": 906.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2709.0
+                                "value": 12357.0
                             }
                         },
                         "effects": [],
@@ -515,12 +515,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -541,12 +541,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 1364.0
+                                "value": 332.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 75037.0
+                                "value": 23653.0
                             }
                         },
                         "effects": [],
@@ -563,12 +563,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -589,12 +589,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 862.0
+                                "value": 95.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 99437.0
+                                "value": 58188.0
                             }
                         },
                         "effects": [],
@@ -611,12 +611,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -650,12 +650,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 753.0
+                                "value": 987.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2.0
+                                "value": 3947.0
                             }
                         },
                         "effects": [],
@@ -672,12 +672,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -698,12 +698,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 574.0
+                                "value": 906.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 2709.0
+                                "value": 12357.0
                             }
                         },
                         "effects": [],
@@ -720,12 +720,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -746,12 +746,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 1364.0
+                                "value": 332.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 75037.0
+                                "value": 23653.0
                             }
                         },
                         "effects": [],
@@ -768,12 +768,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,
@@ -794,12 +794,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 862.0
+                                "value": 95.0
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 24.0,
-                                "value": 99437.0
+                                "value": 58188.0
                             }
                         },
                         "effects": [],
@@ -816,12 +816,12 @@
                                     "duration": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 100297.0
+                                        "value": 54336.0
                                     },
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1",
                                         "rate": 24.0,
-                                        "value": 2.0
+                                        "value": 3947.0
                                     }
                                 },
                                 "available_image_bounds": null,

@@ -1,0 +1,5899 @@
+1
+00:00:00,500 --> 00:00:07,080
+Hi, Hwei. Thank you so much for, for doing
+this. I took this chance to, to learn a
+
+2
+00:00:07,080 --> 00:00:08,380
+bit more about you,
+
+3
+00:00:09,460 --> 00:00:14,639
+uh, [laughs] because I think that you have
+very cool things to, to share.
+
+4
+00:00:14,640 --> 00:00:18,860
+Let, let's hope so. Thanks for having me,
+and I really look forward to our good
+
+5
+00:00:18,860 --> 00:00:22,740
+-conversation today.
+-[laughs] Cool. Amazing. So
+
+6
+00:00:23,620 --> 00:00:27,020
+let's get started. Uh, you were, you were
+sharing the
+
+7
+00:00:27,940 --> 00:00:29,610
+-most amazing stories-
+-[laughs]
+
+8
+00:00:29,610 --> 00:00:31,330
+-... so I'll [laughs]-
+-That's it
+
+9
+00:00:31,330 --> 00:00:31,330
+...
+
+10
+00:00:32,100 --> 00:00:37,360
+I'll go from, from there because there is,
+uh, some magic there. So-
+
+11
+00:00:37,360 --> 00:00:40,180
+-Mm-hmm
+-... yeah, before that, maybe a brief
+
+12
+00:00:40,180 --> 00:00:46,620
+introduction on what we might touch on. We
+know each other from the program Data
+
+13
+00:00:46,620 --> 00:00:47,960
+-Freelancer-
+-Yeah
+
+14
+00:00:47,960 --> 00:00:54,380
+... where, where you h- helped people to
+get started in the, their data and AI
+
+15
+00:00:54,380 --> 00:01:00,700
+freelance journey. And I was curious, um,
+preparing for, for this interview, uh,
+
+16
+00:01:00,700 --> 00:01:05,880
+where all this started. I think there's
+always interesting stories there.
+
+17
+00:01:05,880 --> 00:01:10,860
+Well, your question make me, like, um,
+kind of like rewind to many, many years
+
+18
+00:01:10,860 --> 00:01:11,700
+-ago.
+-Yeah [laughs].
+
+19
+00:01:11,700 --> 00:01:17,060
+Uh, I just, like, graduated from high
+school, and, uh, to be honest, I'm, I'm,
+
+20
+00:01:17,060 --> 00:01:19,820
+-like, not very tech-savvy at that time.
+-Mm-hmm.
+
+21
+00:01:19,820 --> 00:01:23,220
+Like, I just, [laughs] I just learned how
+to use the internet for, like, the second
+
+22
+00:01:23,220 --> 00:01:29,660
+or the third year. Um, [laughs] uh, and
+then, um, I came across this thing called
+
+23
+00:01:29,660 --> 00:01:36,119
+YouTube, and then, uh, for some divine
+intervention, I just watched a
+
+24
+00:01:36,120 --> 00:01:36,740
+Microsoft
+
+25
+00:01:37,400 --> 00:01:42,660
+Vision 2020 video. So that was like, you
+can imagine, like, I mean, we are now in
+
+26
+00:01:42,660 --> 00:01:43,420
+2025-
+
+27
+00:01:44,320 --> 00:01:49,820
+-[laughs]
+-... but I was watching, like, a, a video
+
+28
+00:01:49,820 --> 00:01:51,800
+of what Microsoft envisioned Vision
+
+29
+00:01:52,480 --> 00:01:53,320
+2020 to be
+
+30
+00:01:54,080 --> 00:01:57,590
+-in twen- in, in 2008.
+-Mm-hmm.
+
+31
+00:01:57,590 --> 00:02:04,380
+So [laughs] and my 2008 high school self
+just got, like, blown
+
+32
+00:02:04,380 --> 00:02:10,440
+away, uh, with that video because it is,
+you know, it starts with like, "You can
+
+33
+00:02:10,440 --> 00:02:15,730
+communicate with, uh, people in another
+country." It's auto-translated [laughs].
+
+34
+00:02:15,730 --> 00:02:22,280
+And then, uh, there's this like, you know,
+like, uh, transparent glass panel with
+
+35
+00:02:22,280 --> 00:02:27,740
+text popping up like, "Oh, your, your
+thing is done. Oh, this person has this
+
+36
+00:02:27,740 --> 00:02:32,320
+update." You'd see dashboard and
+everything. At that time, it was just,
+
+37
+00:02:32,320 --> 00:02:34,860
+like, unfathomable. And so
+
+38
+00:02:35,580 --> 00:02:40,300
+out of curiosity, because I was, like,
+like, too... Was still amazed, uh, with
+
+39
+00:02:40,300 --> 00:02:47,280
+that thing, I commented under the video,
+[laughs] uh, and says like, uh, "Wow,
+
+40
+00:02:47,280 --> 00:02:51,230
+this is such a great video. I am a high
+school graduate, uh,
+
+41
+00:02:51,960 --> 00:02:56,880
+trying to figure out what should I study
+for university. Can anybody [laughs] tell
+
+42
+00:02:56,880 --> 00:03:02,300
+me what should I study in the university
+just to be a part of this magic?" And
+
+43
+00:03:02,300 --> 00:03:08,140
+then, [laughs] a stranger of, a, a
+stranger in the internet, whoever sees
+
+44
+00:03:08,140 --> 00:03:10,560
+this comment, um,
+
+45
+00:03:11,560 --> 00:03:14,980
+that person replied that says, "You should
+just go for computer science."
+
+46
+00:03:14,980 --> 00:03:17,600
+-[laughs]
+-And I'm like, "Whoever that is, thank you
+
+47
+00:03:17,600 --> 00:03:23,160
+so much. You're one of the reason [laughs]
+why I'm here today, uh, as a data
+
+48
+00:03:23,160 --> 00:03:26,799
+scientist and AI engineer in 2025."
+[laughs]
+
+49
+00:03:26,800 --> 00:03:30,870
+We need... We all need to thank that, that
+YouTube commenter. [laughs]
+
+50
+00:03:30,870 --> 00:03:32,880
+-[laughs]
+-The magic of YouTube.
+
+51
+00:03:32,880 --> 00:03:33,750
+-Yeah.
+-Amazing.
+
+52
+00:03:33,750 --> 00:03:35,700
+-A gesture of kindness. Yeah.
+-Yes.
+
+53
+00:03:35,700 --> 00:03:38,240
+-So it's sparked by inspiration really-
+-Mm-hmm
+
+54
+00:03:38,240 --> 00:03:43,380
+-... of magic-making.
+-Okay, so from, from there, you, you
+
+55
+00:03:43,380 --> 00:03:48,079
+started the traditional path of computer
+science.
+
+56
+00:03:48,140 --> 00:03:51,040
+Actually, software engineering. So, um-
+
+57
+00:03:51,680 --> 00:03:52,600
+-Okay.
+-So at that time,
+
+58
+00:03:53,780 --> 00:03:56,850
+-I was living in, uh, a small town-
+-Okay
+
+59
+00:03:56,850 --> 00:04:02,250
+... that is like four hours away from the
+capital city, um, of Malaysia, Kuala
+
+60
+00:04:02,250 --> 00:04:03,360
+-Lumpur.
+-Mm-hmm.
+
+61
+00:04:03,360 --> 00:04:09,560
+And so I pick one university to go and
+study. Um, but, uh,
+
+62
+00:04:09,560 --> 00:04:16,440
+so, you know, like, at that time, you do
+foundation in IT, and after one year, um,
+
+63
+00:04:16,440 --> 00:04:21,940
+I, I was going to, like, computer science.
+But then, uh, the, the school admission
+
+64
+00:04:21,940 --> 00:04:25,599
+says, "Hey, you are the only one who
+registered for computer science. Do you
+
+65
+00:04:25,600 --> 00:04:28,520
+-mind, like, changing a course?" [laughs]
+-Really? Okay.
+
+66
+00:04:28,520 --> 00:04:32,479
+And so I changed, yeah. And so I changed
+to software engineering, um, actually
+
+67
+00:04:32,480 --> 00:04:35,310
+software engineering with mult- with
+multimedia.
+
+68
+00:04:35,310 --> 00:04:36,580
+-Mm-hmm.
+-And so in that four years,
+
+69
+00:04:37,660 --> 00:04:43,280
+um, a fascinating tech came out, which is
+called, uh, AR and VR, so augmented
+
+70
+00:04:43,280 --> 00:04:45,219
+-reality and virtual reality.
+-Mm-hmm.
+
+71
+00:04:45,220 --> 00:04:50,540
+And so me and my friends, we were just,
+uh, involved in, um, like,
+
+72
+00:04:51,980 --> 00:04:57,980
+just projects using augmented reality, and
+then we participated in, you know, like,
+
+73
+00:04:57,980 --> 00:05:04,200
+Microsoft Imagine Cup and things like
+this. Yeah, so that was bachelor's time.
+
+74
+00:05:04,200 --> 00:05:10,340
+-Good time. [laughs] It's been some time.
+-Cool, and, and then how... Because now
+
+75
+00:05:10,340 --> 00:05:12,880
+you're, you're not in Malaysia anymore,
+right?
+
+76
+00:05:12,880 --> 00:05:19,120
+[laughs] Yes. 10 years. 10 years in
+Germany now.
+
+77
+00:05:19,120 --> 00:05:20,160
+-Okay.
+-Yeah.
+
+78
+00:05:20,160 --> 00:05:24,010
+-And how, how do you like Germany?
+-It's great.
+
+79
+00:05:24,680 --> 00:05:28,500
+-Mm-hmm.
+-I just saw one of the first Christmas,
+
+80
+00:05:28,500 --> 00:05:32,980
+Christmas market booths [laughs] today
+that's getting set up.
+
+81
+00:05:32,980 --> 00:05:35,640
+-Mm-hmm. Okay.
+-So yeah, Christmas market is one of the
+
+82
+00:05:35,640 --> 00:05:40,460
+things that I look forward each year in
+Germany. But yeah, Germany is
+
+83
+00:05:41,220 --> 00:05:45,400
+for this 10 years, I think, uh, I really
+have to thank this country for it because-
+
+84
+00:05:45,400 --> 00:05:45,570
+Mm-hmm
+
+85
+00:05:45,570 --> 00:05:51,420
+... it really, um, grows me as a person. I
+feel like, I, I feel like I've, I've
+
+86
+00:05:51,420 --> 00:05:55,880
+-grown a lot in this last 10 years.
+-Really? Okay. And you, you think-
+
+87
+00:05:55,880 --> 00:05:58,720
+-Yeah
+-... uh, that Germany help you to, to,
+
+88
+00:05:59,400 --> 00:06:04,660
+-to grow personally? In, in which way?
+-Hmm. Yeah, I would say fundamentally, uh-
+
+89
+00:06:04,660 --> 00:06:07,419
+-Okay
+-... because, you know, like, I, I've
+
+90
+00:06:07,420 --> 00:06:12,260
+basically uprooted myself in one culture,
+one country, one environment, and then
+
+91
+00:06:12,260 --> 00:06:15,306
+being put into, like, such a different
+environment....
+
+92
+00:06:15,306 --> 00:06:17,616
+-Mm-hmm.
+-And so, I think the greatest things that
+
+93
+00:06:17,616 --> 00:06:20,016
+Germany has made space for me
+
+94
+00:06:20,816 --> 00:06:27,616
+is to... is to know who I am as a person,
+what I prefer, what my
+
+95
+00:06:27,616 --> 00:06:29,276
+thoughts and preferences are,
+
+96
+00:06:30,496 --> 00:06:35,916
+and what do I want. And then I can go
+towards that. And so, I would say in
+
+97
+00:06:35,916 --> 00:06:42,056
+general, like this, um, individual-
+individuation, uh-
+
+98
+00:06:42,056 --> 00:06:44,716
+-Mm-hmm
+-... this is what, uh, Germany has given me
+
+99
+00:06:44,716 --> 00:06:50,196
+-space to grow into.
+-Cool. Yeah, I, I've lived in Germany as
+
+100
+00:06:50,196 --> 00:06:56,296
+well, and I, I think there are some, some
+very traditional aspects of, of German
+
+101
+00:06:56,296 --> 00:06:57,476
+-culture.
+-Mm-hmm.
+
+102
+00:06:57,476 --> 00:07:04,476
+But also there is, um, a big part of
+letting everyone be who they want to be-
+
+103
+00:07:04,476 --> 00:07:05,416
+That's right
+
+104
+00:07:05,416 --> 00:07:07,046
+-... in all weird ways. They-
+-[laughs]
+
+105
+00:07:07,046 --> 00:07:10,796
+-... they accept and are very- [laughs]
+-Yeah
+
+106
+00:07:10,796 --> 00:07:11,016
+... very
+
+107
+00:07:11,636 --> 00:07:17,416
+particular, you know. And there is n- not
+n- not that much judgment around that
+
+108
+00:07:18,016 --> 00:07:18,696
+-compared to-
+-Yeah
+
+109
+00:07:18,696 --> 00:07:21,196
+... to other countries or other cultures.
+Yeah.
+
+110
+00:07:21,196 --> 00:07:22,946
+-Yeah. That's right. And so-
+-Mm-hmm
+
+111
+00:07:22,946 --> 00:07:23,296
+... like,
+
+112
+00:07:24,016 --> 00:07:29,496
+I, I think this is the, the right place,
+um, that I'm being put in-
+
+113
+00:07:29,496 --> 00:07:31,656
+-Mm-hmm
+-... to actually grow as a person. Like, I
+
+114
+00:07:31,656 --> 00:07:35,716
+know I am not anybody's shadow this way.
+I'm just me.
+
+115
+00:07:36,156 --> 00:07:42,736
+Okay, cool. I, I, I remember that, uh, y-
+you shared with me some, some time ago
+
+116
+00:07:42,736 --> 00:07:48,276
+that, that maybe you realized a few, a few
+changes when, when you went back to, to
+
+117
+00:07:48,276 --> 00:07:51,356
+-Malaysia after, after some time, right?
+-Mm-hmm.
+
+118
+00:07:51,356 --> 00:07:56,056
+I, I mean, this happen to me as well. When
+I go back to my hometown, home place,
+
+119
+00:07:56,056 --> 00:07:57,496
+after some times, I realize
+
+120
+00:07:58,556 --> 00:08:03,496
+I've, I've, I'm not anymore the person
+was, that was living there, and, uh, I
+
+121
+00:08:03,496 --> 00:08:09,496
+cannot fit anymore in that place because
+I've grown in different ways, right?
+
+122
+00:08:09,496 --> 00:08:11,866
+-Yeah, I think no matter where you go-
+-Mm-hmm
+
+123
+00:08:11,866 --> 00:08:18,826
+... if you are an expat, um, you feel like
+the version of home that you... that,
+
+124
+00:08:18,826 --> 00:08:23,756
+that you were familiar with but you
+leave, um, will just be a snapshot in the
+
+125
+00:08:23,756 --> 00:08:29,046
+past because, I mean, Malaysia has grown
+so much in these recent years.
+
+126
+00:08:29,046 --> 00:08:30,556
+-Mm-hmm.
+-And so, I think as
+
+127
+00:08:31,176 --> 00:08:34,145
+an expat, no matter where you go, um,
+
+128
+00:08:34,876 --> 00:08:35,696
+you feel like
+
+129
+00:08:36,476 --> 00:08:41,796
+you never belong in the place that, um,
+you grow into-
+
+130
+00:08:41,796 --> 00:08:44,495
+-Mm-hmm
+-... but you're also never home anymore,
+
+131
+00:08:44,496 --> 00:08:51,476
+because home as... has also evolved. But I
+don't think that is... I don't
+
+132
+00:08:51,476 --> 00:08:53,965
+think there's any issue with that because-
+
+133
+00:08:53,965 --> 00:08:55,636
+-Mm-hmm
+-... this is the path that
+
+134
+00:08:56,376 --> 00:08:58,396
+all of us expats have chosen
+
+135
+00:08:59,136 --> 00:09:06,096
+and what's most important is to... as long
+as you are feeling you, uh,
+
+136
+00:09:06,096 --> 00:09:09,556
+and as long as you're living
+authentically, home is where you are. Home
+
+137
+00:09:09,556 --> 00:09:15,936
+is not the snapshot that you're left
+alone with. Home is also not
+
+138
+00:09:15,936 --> 00:09:22,906
+like... y- you don't necessarily feel like
+100% fitting in, uh, into anything, but I
+
+139
+00:09:22,906 --> 00:09:25,096
+am pretty sure, like a lot of locals
+
+140
+00:09:25,896 --> 00:09:30,775
+will also share that, uh, maybe they also
+don't feel like they fit into the place
+
+141
+00:09:30,776 --> 00:09:34,096
+-that they have been like growing up in.
+-Mm-hmm.
+
+142
+00:09:34,096 --> 00:09:35,886
+So I think essentially,
+
+143
+00:09:37,136 --> 00:09:41,736
+having this... having this experience just
+teach us
+
+144
+00:09:43,256 --> 00:09:48,136
+to realize that... m- to realize that home
+is really where you are.
+
+145
+00:09:49,076 --> 00:09:53,156
+Yeah. That's, [laughs] that's, that's the
+goal, right? And to, to
+
+146
+00:09:54,236 --> 00:09:59,636
+build your home where, where you are, um,
+be, be good with, with you, which is a
+
+147
+00:09:59,636 --> 00:10:02,775
+-journey in, in itself, I, I guess.
+-Mm.
+
+148
+00:10:02,776 --> 00:10:04,396
+-Yeah.
+-Yeah.
+
+149
+00:10:04,396 --> 00:10:06,436
+-Interesting. [laughs]
+-[laughs]
+
+150
+00:10:06,436 --> 00:10:12,296
+And where, where in all this, um, AI fits?
+[laughs]
+
+151
+00:10:12,296 --> 00:10:17,516
+Oh, okay. Where, where do we... where
+we... what, what did we, uh, have the
+
+152
+00:10:17,516 --> 00:10:21,656
+story last time? Yeah, software
+engineering.
+
+153
+00:10:21,656 --> 00:10:24,136
+-Mm-hmm.
+-And I came to Germany to study, um,
+
+154
+00:10:24,136 --> 00:10:28,196
+intelligent adaptive systems, so I started
+my master's in the University of Hamburg
+
+155
+00:10:29,056 --> 00:10:35,556
+in 2015, so [laughs] 10 years ago. Um,
+yeah. So, uh, that
+
+156
+00:10:35,556 --> 00:10:41,896
+is, um... that three years, uh, is such a
+eye-opener
+
+157
+00:10:42,496 --> 00:10:43,236
+-because-
+-Mm-hmm
+
+158
+00:10:43,236 --> 00:10:46,476
+... that's when I really learned the ins
+and outs, like,
+
+159
+00:10:47,676 --> 00:10:48,616
+hardcore research
+
+160
+00:10:49,336 --> 00:10:54,536
+and application of machine learning, deep
+learning. I was working on this, uh,
+
+161
+00:10:54,536 --> 00:10:59,856
+humanoid robotics projects and some
+sensors, you know, pairing that with
+
+162
+00:10:59,856 --> 00:11:05,056
+machine learning and training humanoid
+robotics and doing computer vision and all
+
+163
+00:11:05,056 --> 00:11:05,356
+that.
+
+164
+00:11:06,536 --> 00:11:13,036
+What, what do you think of, uh, the last,
+um, humanoid robot thing that, um, came
+
+165
+00:11:13,036 --> 00:11:15,196
+-out last week, I think?
+-Mm-hmm.
+
+166
+00:11:15,196 --> 00:11:17,336
+-This, to me, weird-
+-[laughs]
+
+167
+00:11:17,336 --> 00:11:23,176
+... robot with the, with the sweater that
+[laughs]... you know, the Neo, Neo I think
+
+168
+00:11:23,176 --> 00:11:25,036
+-it's called, uh, Neo-
+-Yeah
+
+169
+00:11:25,036 --> 00:11:26,796
+-... something.
+-Yeah.
+
+170
+00:11:26,796 --> 00:11:28,776
+-I think-
+-I wouldn't give up things, but the, the,
+
+171
+00:11:28,776 --> 00:11:33,406
+the humanoid robot, uh, the humanoid robot
+that I was working on-
+
+172
+00:11:33,406 --> 00:11:36,276
+-Mm-hmm
+-... uh, also starts with N. [laughs]
+
+173
+00:11:36,276 --> 00:11:38,366
+-Okay.
+-Um [laughs]-
+
+174
+00:11:38,366 --> 00:11:41,366
+-Interesting.
+-Um, yeah. Um-
+
+175
+00:11:41,366 --> 00:11:44,296
+-Mm-hmm
+-... you, you guys sort of share very
+
+176
+00:11:44,296 --> 00:11:46,766
+similar names. Um, but then
+
+177
+00:11:48,376 --> 00:11:51,235
+when I think about that version of the
+robot with-
+
+178
+00:11:51,236 --> 00:11:55,086
+-Mm-hmm
+-... this version, I think-
+
+179
+00:11:55,086 --> 00:11:55,086
+-Yeah
+-...
+
+180
+00:11:55,756 --> 00:11:57,246
+it, it, it, it needs some...
+
+181
+00:11:58,876 --> 00:12:01,196
+-maybe give it five more years-
+-Mm-hmm
+
+182
+00:12:01,196 --> 00:12:05,056
+... uh, for another breakthrough. Um, I
+think it's more like
+
+183
+00:12:05,976 --> 00:12:10,216
+maybe humanoid robotic is developing a
+little bit, you know, needing... it, it's
+
+184
+00:12:10,216 --> 00:12:15,036
+needing more time for all the
+non-deterministic situations,
+
+185
+00:12:15,036 --> 00:12:18,276
+non-deterministic scenarios in real life,
+um-
+
+186
+00:12:19,352 --> 00:12:24,432
+-Gosh.
+-So, I feel that... Yeah. [laughs] Uh-
+
+187
+00:12:24,432 --> 00:12:25,182
+-It takes-
+-... if-
+
+188
+00:12:25,182 --> 00:12:28,952
+... much more time than, than people
+expect, right?
+
+189
+00:12:28,952 --> 00:12:30,512
+Yeah, but I think it's also the, the,
+
+190
+00:12:31,552 --> 00:12:35,032
+the perception. The audience perception of
+it.
+
+191
+00:12:35,032 --> 00:12:37,152
+-Mm-hmm.
+-Because humanoid robotics, this can... It
+
+192
+00:12:37,152 --> 00:12:39,682
+-can be borderline like uncanny, you know?
+-Yeah.
+
+193
+00:12:39,682 --> 00:12:45,212
+And so, [laughs] and so, mm, the, the mode
+of presentation has to be a little bit
+
+194
+00:12:45,212 --> 00:12:46,572
+-careful because-
+-Mm-hmm
+
+195
+00:12:46,572 --> 00:12:52,812
+... if you, if you present things like,
+hey, you have a person that is maneuvering
+
+196
+00:12:52,812 --> 00:12:54,182
+the robot, which means, like,
+
+197
+00:12:54,872 --> 00:12:57,132
+-what about the privacy inside? I, I'd-
+-Yeah
+
+198
+00:12:57,132 --> 00:13:00,452
+-... um ... [laughs]
+-That, that's definitely-
+
+199
+00:13:00,452 --> 00:13:01,382
+-Mm-hmm
+-... unexpected.
+
+200
+00:13:01,992 --> 00:13:04,932
+-[laughs] Yeah.
+-Yeah. But I think that is the safest way
+
+201
+00:13:04,932 --> 00:13:06,172
+-for the team-
+-Uh-huh
+
+202
+00:13:06,172 --> 00:13:06,762
+... to actually
+
+203
+00:13:07,592 --> 00:13:08,952
+s- um,
+
+204
+00:13:10,212 --> 00:13:12,172
+in a, in a more controllable way
+
+205
+00:13:13,092 --> 00:13:15,112
+-ensuring the accuracy-
+-Yeah
+
+206
+00:13:15,112 --> 00:13:19,872
+... of the humanoid robot. And so I would
+give it some grace, but I also totally
+
+207
+00:13:19,872 --> 00:13:20,512
+understand
+
+208
+00:13:21,112 --> 00:13:24,672
+how uncanny it can feel when,
+
+209
+00:13:25,452 --> 00:13:32,052
+when us just put ourself in the shoes of
+the consumer, of the user, and then
+
+210
+00:13:32,052 --> 00:13:34,072
+extrapolate this presentation
+
+211
+00:13:34,752 --> 00:13:38,402
+-into what might be in the future.
+-Mm-hmm.
+
+212
+00:13:38,402 --> 00:13:38,772
+Um, so
+
+213
+00:13:39,452 --> 00:13:44,832
+yeah. If you, if anybody's thinking about,
+you know, "Shit, the future is doom,"
+
+214
+00:13:44,832 --> 00:13:48,672
+[laughs] I can totally understand. Like,
+this is just a, I think, the handling of
+
+215
+00:13:48,672 --> 00:13:51,132
+the presentation into what
+
+216
+00:13:51,912 --> 00:13:58,212
+the audience might feel. Like, that, that,
+that, that can be more considerate.
+
+217
+00:13:58,212 --> 00:14:04,112
+Yeah. Right, because they, the, the end
+goal, I mean, not, not everyone will, will
+
+218
+00:14:04,112 --> 00:14:05,002
+see it the same way, but
+
+219
+00:14:06,212 --> 00:14:07,462
+most people would love to have
+
+220
+00:14:08,412 --> 00:14:14,192
+someone, if it is a robot, it's fine to
+then do all the household stuff for you,
+
+221
+00:14:14,192 --> 00:14:18,562
+right? That, that, that is great. But
+it... I feel the technology will
+
+222
+00:14:19,552 --> 00:14:25,312
+need more time than, than expected, even
+if Elon Musk, I think, will, is saying
+
+223
+00:14:25,312 --> 00:14:25,472
+that
+
+224
+00:14:26,332 --> 00:14:28,011
+in the next few years will be
+
+225
+00:14:28,692 --> 00:14:33,712
+there in every home, something like that.
+But you have been working, for example,
+
+226
+00:14:33,712 --> 00:14:36,821
+-um, on this from 2015, right?
+-Hmm.
+
+227
+00:14:36,821 --> 00:14:36,992
+And
+
+228
+00:14:37,992 --> 00:14:43,992
+you, you think, uh, uh, it has advance a
+lot in these 10 years or it's a long
+
+229
+00:14:44,812 --> 00:14:49,272
+-incremental journey?
+-I don't think it's going to be
+
+230
+00:14:49,272 --> 00:14:54,351
+incremental. I think it's going to be
+exponential, uh, from the rate of
+
+231
+00:14:54,352 --> 00:14:56,332
+development. Um,
+
+232
+00:14:57,652 --> 00:15:02,321
+I think it still depends on how the world
+is moving
+
+233
+00:15:03,292 --> 00:15:03,802
+and
+
+234
+00:15:04,612 --> 00:15:08,832
+being somebody who have worked briefly,
+um,
+
+235
+00:15:09,852 --> 00:15:16,492
+in humanoid robotics afterwards, I mean, I
+have some years in research, um, also in
+
+236
+00:15:16,492 --> 00:15:18,672
+synthetic patient data generation feel,
+
+237
+00:15:20,072 --> 00:15:20,912
+what I think is
+
+238
+00:15:21,992 --> 00:15:28,692
+I can almost hear two sides of things. Um,
+one is the voice of the rest of the world
+
+239
+00:15:28,692 --> 00:15:29,462
+who are not
+
+240
+00:15:30,272 --> 00:15:32,512
+in the research and who are not in the
+work,
+
+241
+00:15:33,332 --> 00:15:37,672
+uh, having to apply it. Their, their
+concern is real.
+
+242
+00:15:37,672 --> 00:15:40,472
+-Mm-hmm.
+-And so that should not be ignored. That
+
+243
+00:15:40,472 --> 00:15:46,312
+should be leaned in and listened to. It
+has to be a dialogue, um,
+
+244
+00:15:46,952 --> 00:15:48,352
+for how this, um,
+
+245
+00:15:49,732 --> 00:15:55,532
+for how this can be done in a way that
+essentially is affecting everybody, to be
+
+246
+00:15:55,532 --> 00:16:01,152
+honest. Um, and people, like, voices from
+all sides has to be
+
+247
+00:16:01,152 --> 00:16:03,902
+-considered.
+-Yeah. Yeah.
+
+248
+00:16:03,902 --> 00:16:09,712
+Um, but then on the other hand, um, for us
+who are the practitioners of the field,
+
+249
+00:16:09,712 --> 00:16:16,552
+of the tech, I see a lot of possibilities.
+I see a lot of values to be done,
+
+250
+00:16:16,552 --> 00:16:16,862
+-um-
+-Mm-hmm
+
+251
+00:16:17,572 --> 00:16:22,272
+... especially in the work that I do for
+clients right now. Um,
+
+252
+00:16:22,952 --> 00:16:24,052
+what I see is
+
+253
+00:16:25,552 --> 00:16:27,632
+intention really matters and
+
+254
+00:16:29,152 --> 00:16:29,592
+what
+
+255
+00:16:30,212 --> 00:16:36,382
+problems are you solving and for who. Um,
+humans have to come up with this
+
+256
+00:16:37,291 --> 00:16:43,552
+first and foremost, and then the tech
+comes in too. You know, make it, make it
+
+257
+00:16:43,552 --> 00:16:45,912
+happen in reality. And so
+
+258
+00:16:47,112 --> 00:16:49,332
+I think what we can control right now is
+
+259
+00:16:49,992 --> 00:16:56,812
+whoever is needing the solution and
+whoever, like us, is executing or
+
+260
+00:16:56,812 --> 00:17:00,972
+implementing these solutions, figuring out
+for what
+
+261
+00:17:01,572 --> 00:17:03,452
+and for who. It's kind of
+
+262
+00:17:04,192 --> 00:17:05,252
+our due diligence.
+
+263
+00:17:06,271 --> 00:17:12,271
+Um, and when it's done right, I do see a
+lot of possibilities, uh, with the current
+
+264
+00:17:12,271 --> 00:17:18,552
+LM advancements. Uh, and it's just like
+the, the, the, the
+
+265
+00:17:18,552 --> 00:17:21,612
+-general, um, you know, gen AI feel-
+-Mm-hmm
+
+266
+00:17:21,612 --> 00:17:26,291
+... how it's evolving. Uh, it, it is
+really fascinating.
+
+267
+00:17:26,291 --> 00:17:31,102
+Yeah. I mean, we, we of course sh- share
+this fascination, right?
+
+268
+00:17:31,102 --> 00:17:34,612
+-Yeah.
+-Because we see all the possibilities. Um,
+
+269
+00:17:34,612 --> 00:17:38,132
+but in the, in the last years as this has
+become a
+
+270
+00:17:38,892 --> 00:17:44,352
+universal phenomenon and everybody is, is
+talking about generative AI and all this
+
+271
+00:17:44,352 --> 00:17:51,232
+stuff, there are all sorts of, of voices
+and things going on. Uh, people are
+
+272
+00:17:51,232 --> 00:17:52,852
+scared or are,
+
+273
+00:17:53,552 --> 00:18:00,232
+um, thoughts around, you know, all these
+things. AGI will, will take, um, many
+
+274
+00:18:00,232 --> 00:18:00,852
+jobs and
+
+275
+00:18:01,592 --> 00:18:06,772
+political things going on. So it's, it's a
+mess, right? [laughs] We, we enjoy it
+
+276
+00:18:06,772 --> 00:18:11,652
+because we, we like to build things. I
+think that's, that's the spirit, and we
+
+277
+00:18:11,652 --> 00:18:16,432
+see it's just, uh, as a technology, right?
+Um,
+
+278
+00:18:17,372 --> 00:18:19,672
+but most people which are not into this
+
+279
+00:18:20,332 --> 00:18:26,075
+will hear the news, hear whatever, and-...
+understand what they, what they can with,
+
+280
+00:18:26,075 --> 00:18:27,896
+-with the information that they have.
+-Hmm.
+
+281
+00:18:27,896 --> 00:18:34,416
+So there is definitely a bridge there, uh,
+to, to... There is a gap to, to,
+
+282
+00:18:35,096 --> 00:18:40,195
+to fill between these two, uh, worlds.
+Right?
+
+283
+00:18:40,196 --> 00:18:42,535
+-Yeah.
+-And, um, yeah. I guess, as you were
+
+284
+00:18:42,535 --> 00:18:49,426
+saying, it's, it's important to, to pick
+the, the right things, uh, in a way and
+
+285
+00:18:49,426 --> 00:18:55,495
+do it well, but also communicate it in,
+in, in the right way, uh, so that people
+
+286
+00:18:55,495 --> 00:19:01,396
+understand and don't have a weird
+expectation or, or fears, you know. Is
+
+287
+00:19:01,396 --> 00:19:05,995
+that something that, that, that you feel,
+that, uh, that you feel, uh, when, when
+
+288
+00:19:05,995 --> 00:19:11,775
+you work with, with clients or, uh,
+interact with, uh, less technical people?
+
+289
+00:19:13,216 --> 00:19:20,116
+You mean, uh, when deal... When
+communicating with less technical clients?
+
+290
+00:19:20,116 --> 00:19:21,626
+Mm-hmm.
+
+291
+00:19:21,626 --> 00:19:28,295
+Um, am I understanding correctly that...
+Do you think I feel that they care about
+
+292
+00:19:28,295 --> 00:19:32,055
+the for what and for who, or how should
+I... How should I understand your
+
+293
+00:19:32,055 --> 00:19:36,555
+-question?
+-Yeah. Eh, if, if you, you feel that there
+
+294
+00:19:36,555 --> 00:19:43,116
+is, um, a disconnection between, um, how
+you see this technology and
+
+295
+00:19:43,116 --> 00:19:49,436
+what, uh, less technical people expect
+from the technology or what they-
+
+296
+00:19:49,436 --> 00:19:52,636
+-Mm-hmm
+-... um, uh, think about it. If they have
+
+297
+00:19:53,596 --> 00:19:56,716
+fears or, um,
+
+298
+00:19:57,535 --> 00:20:01,755
+-how do you say this? Yeah.
+-For the clients that c- I come across-
+
+299
+00:20:01,755 --> 00:20:03,025
+-Mm-hmm
+-... usually, um,
+
+300
+00:20:04,476 --> 00:20:08,206
+usually, it is not like I go and pitch
+that they need a solution.
+
+301
+00:20:08,206 --> 00:20:09,795
+-Mm-hmm.
+-It's more like they come to me that says
+
+302
+00:20:09,795 --> 00:20:14,576
+they need a solution. And so I would say
+in my biased
+
+303
+00:20:15,616 --> 00:20:18,765
+small sample size experience, um,
+
+304
+00:20:19,535 --> 00:20:20,255
+there's less fear
+
+305
+00:20:20,876 --> 00:20:26,315
+when a client comes to me and said they
+need a certain solution to be made. Um,
+
+306
+00:20:27,015 --> 00:20:31,574
+there can be, you know, the application of
+machine learning or even, like,
+
+307
+00:20:31,576 --> 00:20:36,534
+statistics, um, like traditional, uh, data
+insights-
+
+308
+00:20:36,535 --> 00:20:39,366
+-Mm-hmm
+-... predictive modeling, or the bridge of,
+
+309
+00:20:39,366 --> 00:20:45,596
+like, taking predictive modeling insights
+and then pair that with, um, LM
+
+310
+00:20:45,596 --> 00:20:49,456
+generation based on these insights. Um,
+but usually
+
+311
+00:20:50,076 --> 00:20:55,176
+when they come to me, they already know
+what they want. But then it's up to us to
+
+312
+00:20:55,176 --> 00:20:58,495
+say, "Okay, what is the best way to go
+about it?
+
+313
+00:21:00,436 --> 00:21:06,216
+Do we care enough for the project to carry
+on a good work for the client? Is the for
+
+314
+00:21:06,216 --> 00:21:10,765
+what and for who aligned with the
+implementer as well?" It's like, do I feel
+
+315
+00:21:10,765 --> 00:21:14,126
+proud to put this piece of project in my
+portfolio?
+
+316
+00:21:14,936 --> 00:21:17,396
+-Mm-hmm.
+-Uh, I think this is then regarding the
+
+317
+00:21:17,396 --> 00:21:22,515
+fit. And if it doesn't fit, just feel free
+to, you know, uh, politely excuse
+
+318
+00:21:22,515 --> 00:21:24,755
+-yourself of this opportunity.
+-Mm-hmm.
+
+319
+00:21:24,755 --> 00:21:29,015
+Uh, but then, uh, what I am striving for
+is
+
+320
+00:21:30,755 --> 00:21:32,956
+try to do things that,
+
+321
+00:21:34,936 --> 00:21:38,476
+that are for good, because this is part of
+my values.
+
+322
+00:21:39,795 --> 00:21:43,995
+But for good is also kind of like, hey,
+it's... it can be anything. Um-
+
+323
+00:21:43,995 --> 00:21:44,146
+Yeah
+
+324
+00:21:44,995 --> 00:21:46,676
+[laughs] But for me, it's kind of like
+
+325
+00:21:49,235 --> 00:21:53,636
+something that I told, told a lot of our
+members, our community members, is
+
+326
+00:21:54,275 --> 00:21:58,216
+when you look back at the things that you
+do, even as a freelancer, content creator
+
+327
+00:21:58,216 --> 00:22:04,055
+or whatnot, um, it's okay to feel cringe,
+but you don't really want to feel shame.
+
+328
+00:22:04,055 --> 00:22:07,476
+-Hmm. Hmm. I see.
+-And so it's kind of like intention
+
+329
+00:22:07,476 --> 00:22:11,416
+-matters.
+-Okay. So what's, what's an example of
+
+330
+00:22:11,416 --> 00:22:15,916
+something that you have been... you have
+worked on that you're proud of it?
+
+331
+00:22:17,096 --> 00:22:18,476
+-Quite many.
+-Mm-hmm.
+
+332
+00:22:18,476 --> 00:22:20,755
+So right now, I am developing
+
+333
+00:22:21,636 --> 00:22:27,916
+a, an automated tool for a consumer goods
+company to
+
+334
+00:22:29,156 --> 00:22:33,775
+help the data scientists come up with
+stability tests. So basically, stability
+
+335
+00:22:33,775 --> 00:22:39,995
+test is like, um, you know, when consumer
+goods have a expiry date, they have r- to
+
+336
+00:22:39,995 --> 00:22:43,995
+really, like, test their products over
+some time and then use some algorithm to
+
+337
+00:22:43,995 --> 00:22:47,636
+-come up with, um, expiry date.
+-Okay.
+
+338
+00:22:47,636 --> 00:22:53,896
+So to me, I feel like this is a meaningful
+project because I get to save the data
+
+339
+00:22:53,896 --> 00:22:54,576
+scientist's time
+
+340
+00:22:55,416 --> 00:23:00,995
+who come up with expiry date for consumer
+goods, which this consumer goods will be
+
+341
+00:23:00,995 --> 00:23:07,096
+used by many, many people. And then
+another project that I help, uh, to do
+
+342
+00:23:07,855 --> 00:23:14,716
+is, um, the, the pollutants monitoring of
+the Rhine water, uh,
+
+343
+00:23:14,716 --> 00:23:15,605
+-system.
+-Mm-hmm. Okay.
+
+344
+00:23:15,605 --> 00:23:21,815
+So basically, like, um, basically, like,
+part of Germany and the Netherlands share
+
+345
+00:23:21,815 --> 00:23:25,666
+the same water system. And then, um,
+
+346
+00:23:26,436 --> 00:23:27,535
+I help build
+
+347
+00:23:28,136 --> 00:23:30,136
+sort of like a predictive modeling
+
+348
+00:23:31,295 --> 00:23:31,576
+tool
+
+349
+00:23:32,576 --> 00:23:39,196
+to kind of like say, "Hey, can we..." You
+know, it's all sparse data, so and then
+
+350
+00:23:39,196 --> 00:23:42,775
+data is kind of like inconsistent and
+everything, so a lot of processing is
+
+351
+00:23:42,775 --> 00:23:46,476
+involved. But that tool now manage to,
+
+352
+00:23:47,436 --> 00:23:49,096
+uh, kind of like predict
+
+353
+00:23:49,916 --> 00:23:55,295
+pollutants in time. To say like, "Hey,
+when a pollutant is being detected
+
+354
+00:23:55,295 --> 00:23:56,035
+abnormally
+
+355
+00:23:56,775 --> 00:23:58,275
+at upstream rivers,
+
+356
+00:23:58,896 --> 00:24:03,495
+then by this and this time, it, it's going
+to flow to the border to the
+
+357
+00:24:03,495 --> 00:24:05,706
+-Netherlands," and things like this.
+-Mm-hmm.
+
+358
+00:24:05,706 --> 00:24:07,956
+And so this is something that
+
+359
+00:24:09,235 --> 00:24:12,616
+when being used correctly can really
+benefit maybe
+
+360
+00:24:13,616 --> 00:24:18,216
+the lives of a region of people. Like, I
+don't know... I don't know the future
+
+361
+00:24:18,216 --> 00:24:21,315
+usage of this tool, but the implementation
+of it,
+
+362
+00:24:21,976 --> 00:24:24,995
+the intention behind developing these kind
+of tools,
+
+363
+00:24:25,876 --> 00:24:29,976
+-uh-... to, to me-
+-So, in this project... Oh, sorry to
+
+364
+00:24:29,976 --> 00:24:33,896
+-interrupt.
+-No. All good, all good. So this is one of
+
+365
+00:24:33,896 --> 00:24:36,456
+the, one of the examples of saying
+
+366
+00:24:37,196 --> 00:24:38,916
+some of the projects that I feel proud of.
+
+367
+00:24:39,816 --> 00:24:45,996
+Yeah, yeah, that, that, that makes sense.
+Just, um, explain a bit, uh, the, the
+
+368
+00:24:45,996 --> 00:24:50,696
+difference between because that's where I
+think it gets confusing for, for people.
+
+369
+00:24:50,696 --> 00:24:57,536
+For example, for this last project, is it,
+um, generative AI? Is it deep learning?
+
+370
+00:24:57,536 --> 00:25:03,035
+-It is traditional machine learning? Um-
+-Yeah, statistical machine learning.
+
+371
+00:25:03,036 --> 00:25:07,276
+-Okay. What does it mean?
+-It is not even
+
+372
+00:25:09,096 --> 00:25:13,696
+the classical machine learning. Like we
+just use statistics as the background
+
+373
+00:25:13,696 --> 00:25:15,996
+algorithm of it.
+
+374
+00:25:16,596 --> 00:25:19,476
+-Okay. So-
+-No gen AI.
+
+375
+00:25:19,476 --> 00:25:21,296
+-Mm-hmm.
+-No deep learning,
+
+376
+00:25:22,616 --> 00:25:23,216
+no
+
+377
+00:25:24,116 --> 00:25:28,316
+neural networks, [laughs] not even random
+forests.
+
+378
+00:25:28,316 --> 00:25:30,476
+-Mm-hmm.
+-It's just pure statistics.
+
+379
+00:25:30,476 --> 00:25:33,876
+-Yeah. [laughs]
+-Oftentimes, this is just enough to solve
+
+380
+00:25:33,876 --> 00:25:38,156
+-the problem reliably.
+-Mm-hmm. Mm-hmm. Because, uh, there is
+
+381
+00:25:38,156 --> 00:25:40,876
+maybe a tendency now to use
+
+382
+00:25:41,936 --> 00:25:45,376
+generative AI with these large language
+models-
+
+383
+00:25:45,376 --> 00:25:48,196
+-Mm-hmm
+-... for, um, to solve any kind of problems
+
+384
+00:25:48,196 --> 00:25:53,216
+or I... There is this, um, possibility at
+least, right?
+
+385
+00:25:53,216 --> 00:25:54,836
+-Mm-hmm.
+-And, um, from
+
+386
+00:25:55,796 --> 00:26:01,996
+simple things like using ChatGPT as a, as
+a consumer, as a user, and you are asking
+
+387
+00:26:01,996 --> 00:26:06,676
+-it to, to translate apple to Italian-
+-Yeah
+
+388
+00:26:06,676 --> 00:26:08,736
+... and, and it's like using, um,
+
+389
+00:26:09,716 --> 00:26:10,276
+I don't know, a
+
+390
+00:26:11,156 --> 00:26:13,346
+-atomic bomb to, to kill-
+-[laughs]
+
+391
+00:26:13,346 --> 00:26:14,926
+-... a mosquito, right? I, I've heard-
+-Yeah
+
+392
+00:26:14,926 --> 00:26:16,606
+-... someone saying that.
+-[laughs]
+
+393
+00:26:16,606 --> 00:26:19,836
+[laughs] Because we, we d- I mean, we
+
+394
+00:26:20,456 --> 00:26:22,506
+can think about it but, um, the normal
+
+395
+00:26:23,176 --> 00:26:25,996
+people using ChatGPT doesn't realize that
+
+396
+00:26:27,056 --> 00:26:32,256
+it's, it's a huge technology, right? And
+there are data centers and, uh,
+
+397
+00:26:32,256 --> 00:26:39,036
+transformers and all i- incredible
+technology behind it that transfer for
+
+398
+00:26:39,036 --> 00:26:42,436
+every simple, uh, conversation that you
+have-
+
+399
+00:26:42,436 --> 00:26:44,496
+-Mm-hmm
+-... with ChatGPT, right?
+
+400
+00:26:44,496 --> 00:26:45,296
+-Mm-hmm.
+-While for
+
+401
+00:26:46,156 --> 00:26:52,416
+many, many things, it's, it's not needed
+that, that so intelligent
+
+402
+00:26:52,416 --> 00:26:54,276
+technology. You know what I mean?
+
+403
+00:26:55,236 --> 00:26:57,976
+Yeah, but I would say that's a big
+distinction-
+
+404
+00:26:57,976 --> 00:27:02,676
+-Mm-hmm
+-... between, um, between the predictive
+
+405
+00:27:02,676 --> 00:27:03,236
+modeling
+
+406
+00:27:03,916 --> 00:27:04,396
+models
+
+407
+00:27:04,996 --> 00:27:08,976
+with, uh, gen AI or LM models because
+
+408
+00:27:09,616 --> 00:27:14,676
+predictive modeling is largely
+discriminative models. And then the LM,
+
+409
+00:27:14,676 --> 00:27:21,116
+like the things that, you know, ChatGPT or
+whoever's coined the term, like AI-
+
+410
+00:27:21,116 --> 00:27:23,396
+-Mm-hmm
+-... the big umbrella term, they are
+
+411
+00:27:23,396 --> 00:27:25,126
+-largely generative.
+-Yeah.
+
+412
+00:27:25,126 --> 00:27:29,716
+And so they have different usage. So in,
+in, in terms of, like, what you said,
+
+413
+00:27:30,496 --> 00:27:34,856
+you know, I, I want to do translation,
+then a generative model can do that very
+
+414
+00:27:34,856 --> 00:27:41,676
+well because, um, you know, you can, you
+can put, like, a, like a, you know, good
+
+415
+00:27:41,676 --> 00:27:46,716
+prom and then it's going to come up with
+an equivalent version of, like, the
+
+416
+00:27:46,716 --> 00:27:53,636
+translation. But then in predictive
+modeling projects, what it needs is
+
+417
+00:27:53,636 --> 00:27:55,946
+-not creativity.
+-Mm-hmm.
+
+418
+00:27:55,946 --> 00:28:02,016
+What it needs is not generating new stuff
+but to reliably, based on past data
+
+419
+00:28:02,016 --> 00:28:09,016
+points, to accurately predict things. So
+if you take time series forecasting as an
+
+420
+00:28:09,016 --> 00:28:15,556
+example, um, maybe they have very sparse
+data, they don't need a model,
+
+421
+00:28:15,556 --> 00:28:22,536
+like an LM, to tell, "Hey, can you help me
+detect anomalies at which point
+
+422
+00:28:22,536 --> 00:28:27,856
+in time when this happens?" Because a
+generative model is most likely to make
+
+423
+00:28:27,856 --> 00:28:30,156
+-things up.
+-Mm-hmm.
+
+424
+00:28:30,156 --> 00:28:34,876
+But a predictive model, a discriminative
+model, is going to train a model based on
+
+425
+00:28:34,876 --> 00:28:35,616
+the past data
+
+426
+00:28:36,556 --> 00:28:41,696
+and then if the quality's good and if the
+model is... ha- has been trained
+
+427
+00:28:41,696 --> 00:28:43,625
+successfully, it can then
+
+428
+00:28:44,336 --> 00:28:50,326
+accurately predict, in time, uh, what
+would be the... what would the anoli- amo-
+
+429
+00:28:50,326 --> 00:28:52,796
+-no- [laughs] anomaly be.
+-Anomaly. Mm-hmm.
+
+430
+00:28:52,796 --> 00:28:53,616
+-Yeah.
+-Okay.
+
+431
+00:28:53,616 --> 00:28:57,156
+So they are for kinda, like, different
+usage and that is why
+
+432
+00:28:58,496 --> 00:28:58,856
+I think
+
+433
+00:28:59,476 --> 00:29:03,416
+there are certain use cases for, um,
+
+434
+00:29:04,156 --> 00:29:10,736
+LMs. There are certain use cases that, um,
+the discriminative machine learning
+
+435
+00:29:10,736 --> 00:29:15,516
+models or statistical models will still be
+in, in demand because they are inherently
+
+436
+00:29:15,516 --> 00:29:17,956
+-for different, different things.
+-Mm-hmm.
+
+437
+00:29:18,796 --> 00:29:24,296
+What's the n- the current or, or next
+thing that you would like to, to work on?
+
+438
+00:29:24,296 --> 00:29:29,416
+What's, what that excites you right now?
+What are you, um, I don't know,
+
+439
+00:29:29,416 --> 00:29:31,096
+experimenting with for
+
+440
+00:29:31,736 --> 00:29:38,546
+-a future client project or...
+-Um, I think right now I was too focused on
+
+441
+00:29:39,156 --> 00:29:43,906
+becoming a s- problem solver for worthy
+problems. So-
+
+442
+00:29:43,906 --> 00:29:47,536
+-Okay
+-... for every project that comes, um, it's
+
+443
+00:29:47,536 --> 00:29:54,396
+important for me to, to satisfy, like, to
+be convinced of the for what and for
+
+444
+00:29:54,396 --> 00:30:00,696
+who. So, if you, if you come with me that
+says, "Hey, we, we, we want
+
+445
+00:30:00,696 --> 00:30:04,506
+-a water pollutant monitoring system-"
+-Mm-hmm.
+
+446
+00:30:04,506 --> 00:30:11,436
+"... to do this and it's going to be used
+by, uh, used by this and this person,"
+
+447
+00:30:11,436 --> 00:30:11,786
+if
+
+448
+00:30:13,156 --> 00:30:18,496
+I feel convinced of this, like, okay, like
+goes, aligns with my values, I'm going to
+
+449
+00:30:18,496 --> 00:30:19,636
+say yes. Because
+
+450
+00:30:20,416 --> 00:30:26,476
+to me, based on my previous experience in
+academia, in industry, I know where to
+
+451
+00:30:26,476 --> 00:30:33,450
+look for solutions. And so it's like right
+now, the tools that I have a-...
+
+452
+00:30:33,450 --> 00:30:34,230
+in my toolbox
+
+453
+00:30:35,000 --> 00:30:35,920
+is machine learning,
+
+454
+00:30:36,560 --> 00:30:38,879
+deep learning, statistics,
+
+455
+00:30:39,780 --> 00:30:44,620
+LMs, AI engineering. And so for all of
+those things paired with software
+
+456
+00:30:44,620 --> 00:30:49,260
+engineering, you can basically look for
+any solution. You can, you can come up
+
+457
+00:30:49,260 --> 00:30:53,860
+with any solutions. But what I think is,
+um,
+
+458
+00:30:55,200 --> 00:30:57,1000
+it, as long as there's a worthy problem to
+solve,
+
+459
+00:30:58,900 --> 00:31:03,280
+then it doesn't matter what does it take,
+because every
+
+460
+00:31:04,780 --> 00:31:10,840
+freelance project that I'm taking on, it's
+just so different. And so-
+
+461
+00:31:10,840 --> 00:31:12,790
+-Mm-hmm
+-... back to your question is kind of like,
+
+462
+00:31:12,790 --> 00:31:17,640
+it doesn't matter what problem for me to
+solve, I know I have the toolbox. I, I
+
+463
+00:31:17,640 --> 00:31:22,050
+-have enough cards to pull out and-
+-Mm-hmm
+
+464
+00:31:22,050 --> 00:31:26,760
+... fundamentally, I know where to look
+for solutions. Um, and so for me right
+
+465
+00:31:26,760 --> 00:31:27,100
+now-
+
+466
+00:31:28,060 --> 00:31:30,220
+-Yeah, I love it
+-... I, ri- right now, it's kind of like,
+
+467
+00:31:30,220 --> 00:31:34,180
+yeah, if a data science problem comes to
+me, then great. If a
+
+468
+00:31:34,800 --> 00:31:41,220
+predictive modeling plus LM, um, project
+comes to me, then great. Um, I'm just
+
+469
+00:31:41,220 --> 00:31:44,760
+-looking for worthy problems to solve.
+-So
+
+470
+00:31:46,180 --> 00:31:51,320
+back to, to your beginning, now you know
+how to make the magic happen.
+
+471
+00:31:51,320 --> 00:31:53,620
+-[laughs]
+-So you're more focused on
+
+472
+00:31:54,540 --> 00:31:58,799
+make sure that it aligns with you, right?
+Uh, you keep repeating this-
+
+473
+00:31:58,800 --> 00:31:58,900
+Hm
+
+474
+00:31:59,780 --> 00:32:02,840
+-... for, for what and for, for who.
+-Yeah.
+
+475
+00:32:02,840 --> 00:32:04,820
+Uh, and so you, you, you
+
+476
+00:32:05,420 --> 00:32:10,160
+just search for alignment there. That's
+the important part for you. And then you
+
+477
+00:32:10,160 --> 00:32:16,010
+know that you, you, you have so many tools
+now, uh, that you can find af-
+
+478
+00:32:16,010 --> 00:32:20,990
+-solution, right?
+-Yeah, that's a very good-
+
+479
+00:32:20,990 --> 00:32:23,379
+-Mm-hmm
+-... uh, depiction of where I'm going. Uh,
+
+480
+00:32:23,380 --> 00:32:23,1000
+-I'm also-
+-[clears throat]
+
+481
+00:32:24,000 --> 00:32:26,700
+I'm also interested to, you know, like go
+back to
+
+482
+00:32:27,360 --> 00:32:31,060
+my main expertise, which is computer
+vision. I feel like that is getting-
+
+483
+00:32:31,060 --> 00:32:34,620
+-Yeah
+-... so much less practice since I left,
+
+484
+00:32:34,620 --> 00:32:37,740
+-uh, my master's degree.
+-Okay.
+
+485
+00:32:37,740 --> 00:32:40,630
+-Yeah.
+-So you would like to work on that again?
+
+486
+00:32:40,630 --> 00:32:43,739
+-Mm-hmm.
+-Yeah. It would be great. It's so fun.
+
+487
+00:32:43,739 --> 00:32:45,300
+-Yeah.
+-Yeah.
+
+488
+00:32:45,300 --> 00:32:48,869
+-Yeah, search for it, right? There are-
+-Yeah. [laughs]
+
+489
+00:32:48,869 --> 00:32:52,059
+-[laughs]
+-Just need some good portfolio items and
+
+490
+00:32:52,060 --> 00:32:58,940
+-then I will start applying. [laughs]
+-Cool. And, um, the, I guess the, the
+
+491
+00:32:58,940 --> 00:33:01,100
+other, correct me if I'm wrong, the other
+
+492
+00:33:02,580 --> 00:33:08,160
+big part for, for you, uh, I don't know if
+it is half-half or, or different, is
+
+493
+00:33:08,160 --> 00:33:09,260
+helping other people
+
+494
+00:33:10,960 --> 00:33:11,500
+in their
+
+495
+00:33:12,240 --> 00:33:13,730
+-freelancing or-
+-Mm-hmm
+
+496
+00:33:13,730 --> 00:33:16,480
+... business, uh, journey, right? How,
+how-
+
+497
+00:33:16,480 --> 00:33:19,290
+-Yeah, that's how we met. [laughs]
+-Yeah, that's how we met. Yeah.
+
+498
+00:33:19,290 --> 00:33:24,100
+-[laughs]
+-And, and yeah, you shared with me
+
+499
+00:33:24,740 --> 00:33:25,1000
+many things with, about
+
+500
+00:33:26,900 --> 00:33:28,110
+personal growth and
+
+501
+00:33:29,180 --> 00:33:35,080
+everything related to this kind of
+journey, but how, how it started for you.
+
+502
+00:33:35,080 --> 00:33:35,440
+Uh,
+
+503
+00:33:36,360 --> 00:33:37,330
+-when, when you-
+-For the coaching?
+
+504
+00:33:37,330 --> 00:33:42,119
+... decided to... I guess before then
+that, uh, from what, what I know about
+
+505
+00:33:42,120 --> 00:33:45,060
+your journey, when did you
+
+506
+00:33:47,139 --> 00:33:50,740
+started to have the desire, um, or
+conviction to,
+
+507
+00:33:51,520 --> 00:33:57,600
+uh, be a freelancer, be independent, uh,
+something happened there?
+
+508
+00:33:58,740 --> 00:34:01,260
+Hm. So the first time that I, I
+
+509
+00:34:02,440 --> 00:34:06,720
+dabble into freelancing was 2020. And at
+that time,
+
+510
+00:34:07,460 --> 00:34:10,179
+so I... [laughs] Continue on the story,
+uh-
+
+511
+00:34:10,179 --> 00:34:11,420
+-Yeah
+-... that we left off just now.
+
+512
+00:34:11,420 --> 00:34:14,699
+-Uh-huh.
+-I, I started three years, uh, for my
+
+513
+00:34:14,699 --> 00:34:15,820
+-master's-
+-Mm-hmm
+
+514
+00:34:15,820 --> 00:34:21,520
+... uh, in intelligent adaptive systems.
+And afterwards I took on a full-time job
+
+515
+00:34:21,520 --> 00:34:27,239
+as a data science consultant, which means
+my company sent me to different
+
+516
+00:34:27,239 --> 00:34:29,540
+organizations and enterprises
+
+517
+00:34:29,540 --> 00:34:35,219
+across Germany to work on data science
+projects, um, for those
+
+518
+00:34:35,219 --> 00:34:42,080
+companies. And afterwards, um, in 2020,
+shortly before that, I feel
+
+519
+00:34:42,080 --> 00:34:48,320
+like this doesn't align with me so much.
+And so I quit. Um, and then I said, like,
+
+520
+00:34:48,320 --> 00:34:52,420
+I, I really want to, you know, like try to
+be, you know, establishing myself and
+
+521
+00:34:52,420 --> 00:34:53,920
+see, um,
+
+522
+00:34:54,620 --> 00:35:00,740
+how is it being self-employed. Um, and I
+tried that. Um, but at that time
+
+523
+00:35:01,660 --> 00:35:02,620
+I feel like
+
+524
+00:35:03,700 --> 00:35:04,700
+it's also like,
+
+525
+00:35:05,300 --> 00:35:08,740
+how do you say? It's also like an
+opportunity come by,
+
+526
+00:35:09,420 --> 00:35:09,900
+where
+
+527
+00:35:10,700 --> 00:35:14,320
+back in my master's time I was already
+interested in
+
+528
+00:35:15,000 --> 00:35:19,110
+things to do with medical healthcare, with
+machine learning.
+
+529
+00:35:19,110 --> 00:35:22,460
+-Mm-hmm.
+-And in the middle of doing freelancing,
+
+530
+00:35:22,460 --> 00:35:28,830
+this PhD opportunity came to me. And so I
+took on this PhD opportunity and working
+
+531
+00:35:28,830 --> 00:35:32,840
+that many hours, which means I have to, t-
+uh, you know, like give up on
+
+532
+00:35:32,840 --> 00:35:34,800
+freelancing. Uh, but then
+
+533
+00:35:35,700 --> 00:35:40,060
+I only took on this, uh, research position
+for two years, and then I decided to quit
+
+534
+00:35:40,060 --> 00:35:46,560
+again. So first freelancing experience is
+in 2020. Like, it doesn't last very long.
+
+535
+00:35:46,560 --> 00:35:52,279
+I think at most, like half a year, one
+year. And then I started properly, um,
+
+536
+00:35:52,279 --> 00:35:56,950
+after I end the contract on this research
+position. Um,
+
+537
+00:35:58,020 --> 00:35:59,260
+and that was
+
+538
+00:36:00,420 --> 00:36:04,720
+maybe 2024. Uh,
+
+539
+00:36:05,720 --> 00:36:06,120
+wait.
+
+540
+00:36:07,300 --> 00:36:10,550
+-2023? 2024. '03 or '04.
+-Okay.
+
+541
+00:36:10,550 --> 00:36:10,940
+So
+
+542
+00:36:11,980 --> 00:36:17,120
+I was being given a golden opportunity
+again, because that time Dave just happens
+
+543
+00:36:17,120 --> 00:36:22,140
+to open up this data freelancer program,
+and then I had the privilege
+
+544
+00:36:22,820 --> 00:36:29,360
+to join the program, uh, in the first
+year. And I could still remember how
+
+545
+00:36:29,360 --> 00:36:34,080
+much Dave and the community has helped me.
+You know, in the first year it's a
+
+546
+00:36:34,080 --> 00:36:39,904
+smaller group and everybody is kind of
+like very close together. Um...... and
+
+547
+00:36:39,904 --> 00:36:46,654
+Dave is, like, hosting these Q&A calls
+like he still does, um, today. And then I,
+
+548
+00:36:46,654 --> 00:36:50,763
+I started freelancing properly using what
+was being taught in the program. Like, I
+
+549
+00:36:50,764 --> 00:36:51,284
+essentially
+
+550
+00:36:52,424 --> 00:36:59,104
+apply, tried to apply everything. Um, and
+a year after that, I- I think
+
+551
+00:37:00,644 --> 00:37:01,084
+a year
+
+552
+00:37:02,484 --> 00:37:03,704
+after that, then
+
+553
+00:37:04,484 --> 00:37:09,444
+Dave just says, "Hey, we need a customer
+success manager and coach." [laughs] "Um,
+
+554
+00:37:09,444 --> 00:37:14,724
+would you be interested to take on this
+position?" And then I was, uh, I was just
+
+555
+00:37:14,724 --> 00:37:21,044
+being humbled by the trust that Dave, uh,
+put on me. I feel like Dave, um, customer
+
+556
+00:37:21,044 --> 00:37:25,174
+success is not written anywhere on my
+resume. [laughs] But
+
+557
+00:37:25,844 --> 00:37:30,104
+thanks for trusting me. It seems like a
+very meaningful role to take on. I'm
+
+558
+00:37:30,104 --> 00:37:34,814
+willing to try. Like, let's, let's give it
+a try. And now it's been, like, one and a
+
+559
+00:37:34,814 --> 00:37:40,284
+-half years.
+-Okay. Yeah. Like, there is so much, I
+
+560
+00:37:40,284 --> 00:37:42,684
+-feel, to unpack there.
+-[laughs]
+
+561
+00:37:42,684 --> 00:37:48,034
+Uh, when, when you started, uh,
+freelancing and, and
+
+562
+00:37:49,004 --> 00:37:52,584
+y- you des- you, you felt that you needed
+help,
+
+563
+00:37:53,824 --> 00:37:55,574
+-uh, so you, you searched for-
+-Mm-hmm
+
+564
+00:37:55,574 --> 00:38:00,804
+... or you, you come across, uh, Dave, uh,
+from, from YouTube, I guess.
+
+565
+00:38:00,804 --> 00:38:04,364
+-Yeah.
+-And, and, and joined the program. What,
+
+566
+00:38:04,364 --> 00:38:08,064
+what was that, uh, you needed back then?
+
+567
+00:38:08,664 --> 00:38:09,784
+Hmm. So
+
+568
+00:38:10,744 --> 00:38:16,944
+when, when Dave's program came out, um...
+I actually, before this... So in 2020 I
+
+569
+00:38:16,944 --> 00:38:22,204
+already joined some, like, freelancing
+programs, but that one was more, like,
+
+570
+00:38:22,204 --> 00:38:23,724
+it's either general freelancing
+
+571
+00:38:24,724 --> 00:38:29,563
+or, like, a Python base. So, it's not
+exactly like machine learning.
+
+572
+00:38:29,564 --> 00:38:32,184
+-Mm-hmm.
+-So when Dave's program is there, I know
+
+573
+00:38:32,184 --> 00:38:37,844
+that he's a data scientist and he's, um,
+doing very successfully in freelancing as
+
+574
+00:38:37,844 --> 00:38:40,084
+a data scientist. And
+
+575
+00:38:40,184 --> 00:38:45,304
+his demeanor is just very, you know, down
+to earth, as we know, and very smart. And
+
+576
+00:38:45,304 --> 00:38:51,804
+then I like that he walks the talk. Um,
+that is the, the,
+
+577
+00:38:51,804 --> 00:38:56,424
+the, the decision where I decided to kind
+of, like, reach out and express my
+
+578
+00:38:56,424 --> 00:39:02,804
+interest to join the program. Um, what I
+think I needed at that time is
+
+579
+00:39:02,804 --> 00:39:05,344
+to,
+
+580
+00:39:07,244 --> 00:39:08,674
+is to essentially
+
+581
+00:39:11,244 --> 00:39:12,504
+see that I can do it
+
+582
+00:39:14,624 --> 00:39:17,204
+and I appreciate any kinds of guidance
+
+583
+00:39:18,464 --> 00:39:20,564
+that if, if anybody who has
+
+584
+00:39:21,564 --> 00:39:27,084
+w- walked the talk, like, walked this path
+before, to see my blind spot, to give me
+
+585
+00:39:27,084 --> 00:39:27,884
+some advice
+
+586
+00:39:28,764 --> 00:39:35,604
+that I could apply for myself. Um, this is
+why, like, this is mainly why, um, the
+
+587
+00:39:35,604 --> 00:39:37,304
+rel- the, the, the relevance
+
+588
+00:39:38,024 --> 00:39:39,224
+of the program itself
+
+589
+00:39:39,984 --> 00:39:40,904
+paired with
+
+590
+00:39:41,704 --> 00:39:42,444
+thinking that
+
+591
+00:39:43,344 --> 00:39:47,094
+I need some... I need somebody experienced
+
+592
+00:39:48,044 --> 00:39:49,864
+who was on this journey
+
+593
+00:39:50,884 --> 00:39:53,574
+doing very successfully and I can resonate
+with-
+
+594
+00:39:53,574 --> 00:39:57,224
+-Mm-hmm
+-... to help me to go through this process.
+
+595
+00:39:58,244 --> 00:40:00,424
+Yeah. Makes sense, right? And
+
+596
+00:40:01,464 --> 00:40:08,464
+wha- what are some, um, I guess, limiting
+beliefs or something that you
+
+597
+00:40:08,464 --> 00:40:13,324
+personally struggled with during, during
+that, that first year?
+
+598
+00:40:13,324 --> 00:40:15,944
+-[laughs] I told-
+-There is something that comes to mind or
+
+599
+00:40:15,944 --> 00:40:20,243
+-no?
+-[laughs] Yes. I told Dave, uh, in a later
+
+600
+00:40:20,244 --> 00:40:26,104
+interview, I said, uh, "Dave, I didn't
+have confidence. I outsourced my
+
+601
+00:40:26,104 --> 00:40:28,474
+confidence to you, and thanks to you, I'm
+here."
+
+602
+00:40:28,474 --> 00:40:31,384
+-Yeah. [laughs]
+-"I'm in the game." [laughs]
+
+603
+00:40:31,384 --> 00:40:31,993
+-I, I-
+-And then-
+
+604
+00:40:31,993 --> 00:40:36,584
+... I think you, you told me that phrase
+the first time that we met. I wrote it
+
+605
+00:40:36,584 --> 00:40:36,874
+-down.
+-Oh. [laughs]
+
+606
+00:40:36,874 --> 00:40:41,474
+And I [laughs], I, I always remembered it.
+[laughs]
+
+607
+00:40:41,474 --> 00:40:43,314
+[laughs] Yeah, and I'm trying to do that
+to all the-
+
+608
+00:40:43,314 --> 00:40:45,504
+-Yeah
+-... community members now. Like, I'm like,
+
+609
+00:40:46,304 --> 00:40:48,984
+"I know what you need, um, based on,
+
+610
+00:40:49,904 --> 00:40:52,644
+base- based on the fact that I'm also in
+the game."
+
+611
+00:40:52,644 --> 00:40:54,493
+-Mm-hmm.
+-Um,
+
+612
+00:40:55,564 --> 00:40:56,204
+and so
+
+613
+00:40:57,824 --> 00:41:04,104
+if you, if you can leave the rest to us
+and then just say, "I want to go
+
+614
+00:41:04,104 --> 00:41:08,614
+here," we'll help you get there. And so in
+a way-
+
+615
+00:41:08,614 --> 00:41:09,254
+-Yeah
+-... uh, I'm trying to
+
+616
+00:41:10,064 --> 00:41:14,264
+be outsourced, the confidence, [laughs] as
+I, as I unknowingly outsource they've...
+
+617
+00:41:14,264 --> 00:41:18,163
+-my confidence before. [laughs] Yeah.
+-[laughs]
+
+618
+00:41:18,163 --> 00:41:21,534
+-Yeah.
+-You're now passing on, right, to, to them,
+
+619
+00:41:22,163 --> 00:41:26,924
+to us, to, to the other r- rest of the
+people in, in the community?
+
+620
+00:41:26,924 --> 00:41:28,884
+Yeah, but I also think it's my pleasure.
+Like-
+
+621
+00:41:28,884 --> 00:41:33,244
+-Mm-hmm
+-... it, it, it is just such a pleasure to,
+
+622
+00:41:34,484 --> 00:41:37,413
+-to witness everybody's journey because-
+-Mm-hmm
+
+623
+00:41:37,413 --> 00:41:43,254
+... oh, it's better than movies. It's
+better than watching movies. [laughs]
+
+624
+00:41:43,254 --> 00:41:44,983
+-It's real.
+-Like, look at your experience. Like, look
+
+625
+00:41:44,984 --> 00:41:48,204
+at your journey, like, um, from the first
+time that we talk
+
+626
+00:41:49,124 --> 00:41:53,504
+and until today, you have grown a lot and
+you have also achieved some things along
+
+627
+00:41:53,504 --> 00:41:54,574
+-the way.
+-Yeah.
+
+628
+00:41:54,574 --> 00:42:00,024
+And so this takes, like, you know, you see
+a real-life scenario in different people,
+
+629
+00:42:00,024 --> 00:42:02,344
+-you see the stories in different people.
+-Mm-hmm.
+
+630
+00:42:02,344 --> 00:42:05,504
+Um, I think,
+
+631
+00:42:07,244 --> 00:42:10,904
+I think my role is just to remind
+everybody
+
+632
+00:42:12,364 --> 00:42:19,353
+what they know already within themself. I
+just reinforce that, "Nicola, based on
+
+633
+00:42:19,353 --> 00:42:25,924
+what we talk, I think you are this and
+this person." Um, "If this is your goal,
+
+634
+00:42:25,924 --> 00:42:32,244
+I help you hold, uh, the... your, your
+ideal self in my mind, and in my mind,
+
+635
+00:42:33,163 --> 00:42:37,744
+every goal that you told me that you're
+going to achieve, I consider it, I
+
+636
+00:42:37,744 --> 00:42:43,972
+consider it done already. And now I'm just
+walking this process with you."... e- but
+
+637
+00:42:43,972 --> 00:42:46,002
+in my mind, it's already done, and I'm
+just-
+
+638
+00:42:46,002 --> 00:42:47,522
+-Mm-hmm
+-... waiting for one day in the future
+
+639
+00:42:48,412 --> 00:42:52,572
+that you'll come back to tell me that yes,
+"Hui, I'm already in my ideal self." And,
+
+640
+00:42:52,572 --> 00:42:57,162
+a- and I'll be just like, "Yeah, I knew
+it. I knew it a long time ago." [laughs]
+
+641
+00:42:57,162 --> 00:43:01,752
+[laughs] Yeah. Yeah, that, that makes
+sense. But, um,
+
+642
+00:43:02,932 --> 00:43:07,832
+what... now that you have seen people
+going, going through this, what, what are
+
+643
+00:43:07,832 --> 00:43:11,142
+the skills to be coachable?
+
+644
+00:43:12,612 --> 00:43:16,232
+What are the skills to be coachable? Wow,
+that's such a great question. Let me
+
+645
+00:43:16,232 --> 00:43:18,312
+think.
+
+646
+00:43:20,892 --> 00:43:22,112
+I think it's mostly
+
+647
+00:43:23,392 --> 00:43:24,562
+-the humility-
+-Mm-hmm
+
+648
+00:43:24,562 --> 00:43:24,562
+...
+
+649
+00:43:25,772 --> 00:43:27,032
+to see a different
+
+650
+00:43:27,652 --> 00:43:30,392
+perspective of the story.
+
+651
+00:43:31,912 --> 00:43:36,432
+-What do you mean?
+-A lot of people,
+
+652
+00:43:37,692 --> 00:43:38,932
+um... so
+
+653
+00:43:40,532 --> 00:43:43,462
+in my experience, I feel that
+
+654
+00:43:44,512 --> 00:43:46,432
+I cannot help those people
+
+655
+00:43:50,212 --> 00:43:52,132
+who cannot believe in another
+
+656
+00:43:53,852 --> 00:43:56,392
+version of narration. So
+
+657
+00:43:57,632 --> 00:43:58,712
+what they want is,
+
+658
+00:44:00,212 --> 00:44:01,592
+"I'm stuck here.
+
+659
+00:44:02,392 --> 00:44:08,972
+Don't convince me otherwise." And then
+they try to... they're not receptive
+
+660
+00:44:10,332 --> 00:44:15,512
+to the other things. So I would say, first
+of all, the humility to accept that
+
+661
+00:44:16,372 --> 00:44:18,072
+reality has different narration,
+
+662
+00:44:18,872 --> 00:44:25,812
+and you just have to... other- rather than
+seeing it as
+
+663
+00:44:25,812 --> 00:44:26,672
+good or bad,
+
+664
+00:44:28,132 --> 00:44:33,652
+see it as pros and cons. And then see
+yourself as one avatar in the sandbox,
+
+665
+00:44:34,592 --> 00:44:40,202
+and says, "I'm here. This is where I want
+to go. What is beneficial for me to take?"
+
+666
+00:44:40,202 --> 00:44:45,612
+And people with narrate, a certain
+narration, they are very s- you know, very
+
+667
+00:44:45,612 --> 00:44:47,542
+-convinced of something-
+-Mm-hmm
+
+668
+00:44:47,542 --> 00:44:51,541
+... when I see that it, this convincing
+reality
+
+669
+00:44:52,592 --> 00:44:56,192
+does not serve them, uh, and if they,
+
+670
+00:44:57,032 --> 00:44:58,272
+if they are not ready
+
+671
+00:44:59,132 --> 00:45:00,312
+to accept
+
+672
+00:45:00,992 --> 00:45:05,912
+other possibilities, other narration that
+says, "Hey, maybe you can look into here
+
+673
+00:45:05,912 --> 00:45:07,292
+and that," um,
+
+674
+00:45:08,272 --> 00:45:14,332
+I, I think if they are very... if, if they
+decide to stay in this narration, there's
+
+675
+00:45:14,332 --> 00:45:17,752
+-nothing that I can do.
+-I see.
+
+676
+00:45:17,752 --> 00:45:18,302
+-Yeah.
+-So, and during-
+
+677
+00:45:18,302 --> 00:45:22,972
+Also, this is one. Second would be
+accountability.
+
+678
+00:45:22,972 --> 00:45:25,652
+-Okay.
+-This is what we do every week, Nicolas.
+
+679
+00:45:25,652 --> 00:45:29,972
+-[laughs]
+-[laughs] I know that part well.
+
+680
+00:45:29,972 --> 00:45:32,592
+-[laughs] Yeah.
+-Okay. But-
+
+681
+00:45:32,592 --> 00:45:34,502
+-Accountability. Do they follow up?
+-Mm-hmm.
+
+682
+00:45:34,502 --> 00:45:36,261
+Do they follow through, um,
+
+683
+00:45:37,592 --> 00:45:43,332
+with, with the things that they should be
+doing, they said they would do?
+
+684
+00:45:43,332 --> 00:45:47,112
+-Yeah. So-
+-Because action moves the needle, right?
+
+685
+00:45:47,112 --> 00:45:50,041
+-Mm-hmm.
+-Yeah.
+
+686
+00:45:50,041 --> 00:45:52,312
+Yeah. Yeah, yeah, of course. I, I was
+curious to, to
+
+687
+00:45:52,952 --> 00:45:58,112
+dig a bit deeper on, on the first part
+that you... uh, what you said, right?
+
+688
+00:45:58,112 --> 00:45:59,652
+-Mm-hmm.
+-So I'm hearing that if someone
+
+689
+00:46:01,232 --> 00:46:01,472
+has
+
+690
+00:46:03,472 --> 00:46:06,152
+-their own narration, es-
+-Hmm
+
+691
+00:46:06,152 --> 00:46:09,012
+... so it, like a story that they tell
+themself
+
+692
+00:46:09,892 --> 00:46:10,582
+and they,
+
+693
+00:46:11,812 --> 00:46:13,452
+they are not willing to
+
+694
+00:46:14,512 --> 00:46:15,712
+see another story-
+
+695
+00:46:16,632 --> 00:46:20,932
+-Hmm
+-... but they want to g- to get somewhere,
+
+696
+00:46:20,932 --> 00:46:26,912
+uh, to their goals. And y- you, you help
+them s- realize that, uh,
+
+697
+00:46:27,672 --> 00:46:32,252
+to get there, they need to, to change, um,
+the narration,
+
+698
+00:46:33,632 --> 00:46:34,732
+right? So if they-
+
+699
+00:46:35,372 --> 00:46:37,572
+-Mm-hmm
+-... are not flexible in that way or they
+
+700
+00:46:37,572 --> 00:46:37,852
+don't
+
+701
+00:46:38,792 --> 00:46:45,432
+l- listen that there is another, um, uh,
+narration, there is another story that
+
+702
+00:46:45,432 --> 00:46:48,832
+-serves you better to, to get there-
+-Mm-hmm
+
+703
+00:46:50,912 --> 00:46:52,332
+... um, it's difficult to, to help
+
+704
+00:46:52,952 --> 00:46:57,412
+someone stuck in that situation. Is that
+what, what you mean?
+
+705
+00:46:57,412 --> 00:46:58,762
+-Yeah. So-
+-Mm-hmm
+
+706
+00:46:58,762 --> 00:47:02,652
+... if they, i- if they feel that it is
+more,
+
+707
+00:47:04,312 --> 00:47:11,012
+it is more valuable to hold onto the
+current narration that put them in current
+
+708
+00:47:11,012 --> 00:47:11,712
+situation
+
+709
+00:47:12,612 --> 00:47:15,152
+and they are not ready to
+
+710
+00:47:16,632 --> 00:47:21,532
+see elsewhere. You know, like even to be
+open for the possibility, the other
+
+711
+00:47:21,532 --> 00:47:22,192
+narration of
+
+712
+00:47:22,892 --> 00:47:27,432
+maybe there's some other things that you
+can still try or maybe there is some
+
+713
+00:47:27,432 --> 00:47:32,772
+interpretation of your assumptions, uh,
+that you can maybe tweak a little bit.
+
+714
+00:47:32,772 --> 00:47:39,632
+Maybe, maybe that, that can be... that can
+move you forward a little bit. So, um,
+
+715
+00:47:41,752 --> 00:47:44,132
+yeah. So if, if they,
+
+716
+00:47:45,052 --> 00:47:50,032
+if they feel more secure by holding onto
+this,
+
+717
+00:47:51,972 --> 00:47:53,832
+-this narration-
+-Mm-hmm
+
+718
+00:47:53,832 --> 00:47:58,432
+... um, I will honor that. I will make
+space. I- I will make space for that as
+
+719
+00:47:58,432 --> 00:48:05,252
+well to say that, "It's okay. I can see
+that you're not ready to, to, to
+
+720
+00:48:05,252 --> 00:48:11,752
+explore or this narration, um, uh, at this
+moment." And so, um,
+
+721
+00:48:13,252 --> 00:48:14,772
+I, I, I feel that
+
+722
+00:48:15,452 --> 00:48:17,461
+it is also important to
+
+723
+00:48:18,852 --> 00:48:23,222
+make them feel okay that this narration
+right now that
+
+724
+00:48:24,452 --> 00:48:29,272
+they, they ho- like, they hug, like
+hugging a log just to not drown-
+
+725
+00:48:29,272 --> 00:48:31,892
+-Mm-hmm
+-... um, it's okay to
+
+726
+00:48:32,772 --> 00:48:35,152
+acknowledge that and give space
+
+727
+00:48:35,852 --> 00:48:36,892
+for them to
+
+728
+00:48:37,612 --> 00:48:44,612
+-do this until they are ready again.
+-Okay. Yeah. Yeah, I recognize
+
+729
+00:48:44,612 --> 00:48:51,584
+your... y- you have this, um...... way of
+helping
+
+730
+00:48:51,584 --> 00:48:57,864
+people. Uh, yeah, that is, uh, you know,
+everyone has their own, um,
+
+731
+00:48:59,344 --> 00:49:00,384
+way of going to
+
+732
+00:49:01,544 --> 00:49:04,314
+coach someone in, in these situations,
+right?
+
+733
+00:49:04,984 --> 00:49:07,684
+-Mm-hmm.
+-Uh, there are some more, um, I don't know
+
+734
+00:49:07,684 --> 00:49:12,624
+how to call it, more strict in a way, uh,
+but y- you can
+
+735
+00:49:14,824 --> 00:49:15,924
+go and, and
+
+736
+00:49:16,764 --> 00:49:18,644
+take someone from where they are,
+
+737
+00:49:20,064 --> 00:49:25,464
+uh, as you've said, acknowledge that they,
+in this moment, they might need something
+
+738
+00:49:25,464 --> 00:49:29,334
+else, right, that you cannot force them,
+uh,
+
+739
+00:49:29,944 --> 00:49:34,804
+-right? That is a more gradual journey-
+-Hmm
+
+740
+00:49:34,804 --> 00:49:38,944
+... uh, that comes with, with whatever
+time and type of journey-
+
+741
+00:49:38,944 --> 00:49:41,384
+-[laughs]
+-... uh, someone needs, right? [laughs]
+
+742
+00:49:41,384 --> 00:49:44,904
+Have you heard about the story of the
+mushroom man?
+
+743
+00:49:44,904 --> 00:49:50,673
+-Mushroom... No.
+-Okay. So, um-
+
+744
+00:49:50,673 --> 00:49:52,924
+-Tell me.
+-I watched this story from the internet, so
+
+745
+00:49:52,924 --> 00:49:55,844
+I don't know where to cite this from, but
+this story's-
+
+746
+00:49:55,844 --> 00:49:57,483
+-Yeah
+-... stuck with my head. And-
+
+747
+00:49:57,484 --> 00:49:59,744
+-Hmm
+-... I've been sl- I've been secretly
+
+748
+00:49:59,744 --> 00:50:02,164
+applying to all of you guys [laughs] all
+along.
+
+749
+00:50:02,164 --> 00:50:08,124
+-Oh. Let's see.
+-So, [laughs] so the mushroom man is,
+
+750
+00:50:08,124 --> 00:50:14,044
+hmm, there's a guy who is so convinced
+that he is a mushroom, he's not a m-
+
+751
+00:50:14,044 --> 00:50:15,024
+-human.
+-Okay.
+
+752
+00:50:15,024 --> 00:50:17,324
+-So, [laughs], a guy is so convinced-
+-[laughs]
+
+753
+00:50:17,324 --> 00:50:21,804
+... that he's a mushroom, and so he just
+take this umbrella and then just stood on
+
+754
+00:50:21,804 --> 00:50:26,374
+one side all along. Like, he just wants to
+be a mushroom. Like, he's so-
+
+755
+00:50:26,374 --> 00:50:28,144
+-Okay
+-... convinced that he is a mushroom.
+
+756
+00:50:28,144 --> 00:50:31,184
+-Believe me, this.
+-Yeah. [laughs] And then, of course,
+
+757
+00:50:31,244 --> 00:50:35,024
+other people who care for him will say
+like, "You're not a mushroom. You're
+
+758
+00:50:35,024 --> 00:50:37,454
+human." Like, "Come on." [laughs] It's
+like-
+
+759
+00:50:37,454 --> 00:50:38,924
+-Mm-hmm
+-..."Look at yourself. You don't look like
+
+760
+00:50:38,924 --> 00:50:43,724
+a mushroom," but that guy is just so
+convinced to be a mushroom and nobody can
+
+761
+00:50:43,724 --> 00:50:45,534
+change his mind. Um,
+
+762
+00:50:46,744 --> 00:50:48,504
+and so one day, a person comes along
+
+763
+00:50:49,924 --> 00:50:53,804
+and [sighs] he just take another umbrella
+and just sit next to him.
+
+764
+00:50:54,484 --> 00:50:56,164
+-Uh-huh.
+-And then that mushroom guy said,
+
+765
+00:50:57,224 --> 00:51:00,644
+"Hey, what are you doing here?" And then
+that guy just says like,
+
+766
+00:51:01,404 --> 00:51:04,344
+"I'm also a mushroom." [laughs]
+
+767
+00:51:04,984 --> 00:51:09,514
+And then that guy says, "Huh. Oh, we're
+mushroom friends now."
+
+768
+00:51:09,514 --> 00:51:11,624
+-[laughs]
+-And after, you know, sitting, sitting with
+
+769
+00:51:11,624 --> 00:51:18,583
+that guy for, for some time, that, that
+guy just started to stand and
+
+770
+00:51:18,584 --> 00:51:23,604
+walk. And then the mushroom man just
+freaked out. And then [laughs] that
+
+771
+00:51:23,604 --> 00:51:28,824
+mushroom is like, "Hey, you're a mushroom.
+How can you do this?" And then that guy
+
+772
+00:51:28,824 --> 00:51:32,894
+just said, "You don't know? It's 2025.
+Mushrooms can walk."
+
+773
+00:51:32,894 --> 00:51:37,764
+-[sniffs]
+-And then that guy says, "Huh. Interesting.
+
+774
+00:51:37,764 --> 00:51:42,364
+Are you... Okay? Mushrooms can walk?" And
+he's like, "Of course. All mushrooms can
+
+775
+00:51:42,364 --> 00:51:46,604
+walk this year, starting this year." And
+then the mushroom guy just stand up and
+
+776
+00:51:46,604 --> 00:51:52,844
+walked. And so the moral of the story is,
+um,
+
+777
+00:51:54,864 --> 00:51:57,224
+righteousness is not my goal
+
+778
+00:51:57,884 --> 00:51:59,244
+-in coaching.
+-Hmm.
+
+779
+00:51:59,244 --> 00:52:05,504
+Um, the intention to making somebody, um,
+seeing the potential in somebody, that
+
+780
+00:52:05,504 --> 00:52:11,204
+this person is not a mushroom, is a human,
+and he has the place that he needs to go.
+
+781
+00:52:12,204 --> 00:52:15,164
+Um, I don't have to be right. I just have
+to
+
+782
+00:52:15,804 --> 00:52:16,584
+try my best
+
+783
+00:52:17,404 --> 00:52:21,284
+to have the intention to get this person
+into where
+
+784
+00:52:21,924 --> 00:52:26,804
+-they want to go.
+-Yeah. Now, it, it makes... Yeah,
+
+785
+00:52:26,804 --> 00:52:30,833
+definitely, it's how you're helping us. It
+makes sense. [laughs]
+
+786
+00:52:30,833 --> 00:52:35,884
+-[laughs] Now you know my trick. [laughs]
+-Yeah. [laughs] No, this is great. Yeah,
+
+787
+00:52:35,884 --> 00:52:39,304
+and I, I mean, it's... These stories help
+you to
+
+788
+00:52:40,204 --> 00:52:46,484
+fix, uh, fix some, some ideas, but, you
+know, I, I, I see, uh, you know, where,
+
+789
+00:52:46,484 --> 00:52:47,174
+where...
+
+790
+00:52:48,964 --> 00:52:50,754
+from where you, you come from, and, uh,
+
+791
+00:52:52,484 --> 00:52:55,434
+different people need different things.
+Someone
+
+792
+00:52:56,064 --> 00:52:57,364
+works better with a
+
+793
+00:52:58,424 --> 00:53:01,134
+-carrot and stick approach, and, uh-
+-[laughs]
+
+794
+00:53:01,134 --> 00:53:05,524
+... someone who... It's, it's a mush-
+someone is a mushroom. [laughs] They need
+
+795
+00:53:05,524 --> 00:53:09,984
+a different approach to this. Uh, yeah,
+that, yeah, I can relate to that. It
+
+796
+00:53:09,984 --> 00:53:13,144
+-makes, makes sense. And, uh-
+-Yeah, it just happen that I don't have to
+
+797
+00:53:13,144 --> 00:53:14,084
+-be right.
+-Yeah.
+
+798
+00:53:14,084 --> 00:53:18,804
+I don't have to, I don't need to have
+another people told me that I'm right
+
+799
+00:53:19,724 --> 00:53:25,044
+for me to feel good about myself. Like, I
+just, like, I care about another person,
+
+800
+00:53:25,044 --> 00:53:30,204
+and for this care, uh, I would do my best.
+I know, I know my goal. That my goal is
+
+801
+00:53:30,204 --> 00:53:34,544
+-not to be right.
+-Hmm. Mm-hmm. Is to, to get someone
+
+802
+00:53:35,164 --> 00:53:36,644
+where they want to go. Yeah.
+
+803
+00:53:37,444 --> 00:53:39,614
+-Okay, cool. So that's, that's-
+-[clears throat]
+
+804
+00:53:39,614 --> 00:53:45,004
+... let's say, the first, uh, skill that,
+that, that you mentioned. The second
+
+805
+00:53:45,004 --> 00:53:48,284
+-important one is accountability, right?
+-Hmm.
+
+806
+00:53:48,284 --> 00:53:49,444
+And, and so why
+
+807
+00:53:50,304 --> 00:53:50,844
+some of us
+
+808
+00:53:52,664 --> 00:53:53,724
+ask everyone
+
+809
+00:53:54,864 --> 00:53:57,504
+[laughs] some- sometimes we, we are not
+able to
+
+810
+00:53:58,644 --> 00:54:03,964
+do what we say that, uh, we want to do.
+Why we need that
+
+811
+00:54:03,964 --> 00:54:05,844
+accountability?
+
+812
+00:54:07,584 --> 00:54:08,824
+Accountability
+
+813
+00:54:10,004 --> 00:54:16,474
+helps you make progress. And there can be
+many reasons why, mm, you cannot do
+
+814
+00:54:17,424 --> 00:54:20,114
+what you wanted to do. You might be
+lacking
+
+815
+00:54:21,244 --> 00:54:27,224
+skills. You might be lacking some tools.
+You might be lacking the permission that
+
+816
+00:54:27,224 --> 00:54:32,844
+only you can give to yourself. And another
+people just have to remind you that, um,
+
+817
+00:54:33,904 --> 00:54:37,764
+the power is not outside. The power is
+inside.
+
+818
+00:54:37,764 --> 00:54:41,044
+-Hmm.
+-And these are the things that
+
+819
+00:54:42,104 --> 00:54:45,784
+I think in life we just rely on the
+kindness of another person
+
+820
+00:54:46,504 --> 00:54:48,814
+to help you move forward, and that is how
+we,
+
+821
+00:54:50,344 --> 00:54:56,492
+that is how we choose to interact with the
+world, to...To be willing to accept the
+
+822
+00:54:56,492 --> 00:55:03,211
+goodness from other people, and then pass
+it forward.
+
+823
+00:55:03,212 --> 00:55:04,932
+Okay.
+
+824
+00:55:05,752 --> 00:55:06,262
+[sniffs] Okay.
+
+825
+00:55:07,112 --> 00:55:11,572
+Yeah, you know, I was, I was expecting a
+totally different, uh-
+
+826
+00:55:11,572 --> 00:55:14,152
+-[laughs]
+-... totally different answer, and I'm
+
+827
+00:55:14,152 --> 00:55:15,532
+realizing, yeah, that
+
+828
+00:55:16,832 --> 00:55:22,312
+I don't know, in the couple last days,
+and now I'm connecting random dots.
+
+829
+00:55:22,312 --> 00:55:23,082
+-[laughs]
+-Uh,
+
+830
+00:55:23,932 --> 00:55:28,192
+[laughs] excuse me if it doesn't make
+sense. But no, I think it makes some sense
+
+831
+00:55:28,192 --> 00:55:34,132
+because they're... When I think about
+accountability or these kind of topics,
+
+832
+00:55:34,132 --> 00:55:40,892
+uh, coaching and, and people going through
+some personal development journey, I feel
+
+833
+00:55:40,892 --> 00:55:41,082
+the
+
+834
+00:55:43,232 --> 00:55:47,212
+predominant narrative online, especially
+YouTube or
+
+835
+00:55:47,872 --> 00:55:54,192
+the, the influences that I see, thanks to
+the algorithm, algorithm of whatever, are
+
+836
+00:55:55,072 --> 00:56:00,731
+quite strong, right? You know, more
+masculine energy in a way.
+
+837
+00:56:00,732 --> 00:56:03,152
+-Mm-hmm.
+-The Tony Robbins or
+
+838
+00:56:04,632 --> 00:56:08,712
+this kind of motivational stuff, right?
+Makes sense?
+
+839
+00:56:08,712 --> 00:56:14,632
+-Mm-hmm.
+-While in, in your answer, I feel
+
+840
+00:56:14,632 --> 00:56:17,162
+-definitely a different energy, uh-
+-Okay
+
+841
+00:56:17,162 --> 00:56:22,332
+... that is not the predominant one
+because predominant is louder and
+
+842
+00:56:22,332 --> 00:56:22,752
+definitely
+
+843
+00:56:24,232 --> 00:56:27,332
+-more masculine. I, I feel there-
+-Mm-hmm
+
+844
+00:56:28,012 --> 00:56:32,572
+... at least, uh, yeah, as I said, what,
+what we see online, et cetera, is more
+
+845
+00:56:33,532 --> 00:56:36,952
+men doing this, at least, uh, what, what I
+receive from
+
+846
+00:56:37,652 --> 00:56:39,772
+the algorithm. And while
+
+847
+00:56:40,592 --> 00:56:44,072
+the, your angle is, is, is different in
+this-
+
+848
+00:56:44,832 --> 00:56:47,512
+-[laughs]
+-Yeah. And it's, it's a, it's good that
+
+849
+00:56:47,512 --> 00:56:49,942
+-there is another angle, right?
+-Yeah.
+
+850
+00:56:49,942 --> 00:56:52,932
+And that we normally don't, don't see.
+What do you think?
+
+851
+00:56:52,932 --> 00:56:55,952
+Yeah, I'm glad that I contribute a little
+bit to that. Uh-
+
+852
+00:56:55,952 --> 00:56:58,972
+-Yeah
+-... but I also see that, um,
+
+853
+00:56:59,692 --> 00:57:02,302
+-I think you just have to look, um-
+-Mm-hmm
+
+854
+00:57:02,302 --> 00:57:05,171
+... advice like this also exists on the
+internet.
+
+855
+00:57:05,171 --> 00:57:05,481
+-Yeah.
+-Um,
+
+856
+00:57:06,332 --> 00:57:07,241
+I think it's more like,
+
+857
+00:57:08,052 --> 00:57:11,772
+if, if you don't realize, like, you just
+don't know what you don't know. I think,
+
+858
+00:57:11,772 --> 00:57:15,572
+and this happens with a lot of people, and
+especially the, the design of the
+
+859
+00:57:15,572 --> 00:57:17,792
+-algorithm is more like bubble-like.
+-Mm-hmm.
+
+860
+00:57:17,792 --> 00:57:23,172
+Like, you get more of what you look at and
+what you consume. And so you, you know,
+
+861
+00:57:23,172 --> 00:57:25,592
+from time to time, look, look the other
+side. [laughs]
+
+862
+00:57:25,592 --> 00:57:30,172
+Yeah. [laughs] You have some
+recommendation for the other side? What,
+
+863
+00:57:30,172 --> 00:57:31,222
+what, what are some
+
+864
+00:57:32,032 --> 00:57:34,412
+resources or some people that influenced
+you?
+
+865
+00:57:35,712 --> 00:57:40,032
+Oh, resources and people. Um,
+
+866
+00:57:42,452 --> 00:57:47,092
+I don't know, where do I start? [laughs]
+It's like in the, in, in which topic?
+
+867
+00:57:48,032 --> 00:57:50,692
+Yeah, in this kind of, uh, I think now we
+are in the
+
+868
+00:57:51,372 --> 00:57:52,872
+personal development
+
+869
+00:57:53,812 --> 00:57:54,472
+or, um,
+
+870
+00:57:55,972 --> 00:57:58,912
+doing something that you have never done
+before.
+
+871
+00:57:58,912 --> 00:58:01,732
+-Mm-hmm.
+-In this case, it's, uh, your business,
+
+872
+00:58:01,732 --> 00:58:03,741
+-your freelance journey.
+-Mm-hmm.
+
+873
+00:58:03,741 --> 00:58:06,192
+And so there is that struggle to do
+something that
+
+874
+00:58:07,312 --> 00:58:10,012
+you have not done before. And so you might
+need
+
+875
+00:58:10,992 --> 00:58:15,612
+what we are talking about, right? Changing
+your story, uh, accountability, someone
+
+876
+00:58:15,612 --> 00:58:18,212
+-that helps you.
+-Hmm.
+
+877
+00:58:18,212 --> 00:58:19,492
+So, in this realm of
+
+878
+00:58:20,712 --> 00:58:22,672
+personal growth,
+
+879
+00:58:23,672 --> 00:58:27,912
+what, um, most influenced you or you like
+to read,
+
+880
+00:58:28,712 --> 00:58:29,622
+-look up to-
+-[laughs]
+
+881
+00:58:29,622 --> 00:58:30,772
+... go back to?
+
+882
+00:58:32,172 --> 00:58:39,112
+I am currently reading... So, go back to,
+I have one principle book that help me,
+
+883
+00:58:39,112 --> 00:58:43,832
+like that is the guiding light, uh, of, of
+my life.
+
+884
+00:58:43,832 --> 00:58:46,592
+-Mm-hmm.
+-And then some supplementary books. And,
+
+885
+00:58:46,592 --> 00:58:51,352
+um, but yeah, I can share them. So,
+
+886
+00:58:52,092 --> 00:58:55,072
+my guiding principle resource
+
+887
+00:58:55,832 --> 00:58:59,462
+-is, uh, Diamond Sutra by the Buddha.
+-Okay.
+
+888
+00:58:59,462 --> 00:59:02,652
+And then I am currently reading,
+
+889
+00:59:03,592 --> 00:59:07,962
+I'm currently reading Tao Te Ching by Lao
+Tzu.
+
+890
+00:59:07,962 --> 00:59:10,412
+-Okay.
+-Um, but they are very meta, they're very,
+
+891
+00:59:11,912 --> 00:59:15,312
+they're very like [laughs] they are for
+people like me who always contemplate the
+
+892
+00:59:15,312 --> 00:59:17,892
+meaning of life. [laughs] And, but the
+third one-
+
+893
+00:59:17,892 --> 00:59:20,452
+-Mm-hmm
+-... but the third one that I can recommend
+
+894
+00:59:20,452 --> 00:59:24,492
+is, uh, The Way of Integrity by Marta
+Beck.
+
+895
+00:59:25,492 --> 00:59:25,972
+Okay.
+
+896
+00:59:26,652 --> 00:59:27,402
+-What can you tell me-
+-Yeah
+
+897
+00:59:27,402 --> 00:59:31,492
+... about these three books? Or I'm
+curious about the first one
+
+898
+00:59:32,272 --> 00:59:33,112
+since it's your-
+
+899
+00:59:33,752 --> 00:59:37,192
+-Hmm
+-... um, guiding principle. What-
+
+900
+00:59:37,192 --> 00:59:38,572
+-Yeah
+-... what there is in there?
+
+901
+00:59:39,872 --> 00:59:43,832
+The Diamond Sutra essentially says that,
+um,
+
+902
+00:59:44,832 --> 00:59:47,232
+everything tangible that you can see in
+this world,
+
+903
+00:59:48,212 --> 00:59:50,092
+um, is kind of like
+
+904
+00:59:50,712 --> 00:59:54,932
+it's ever-changing. So, it's kind of like
+a dream. It's kind of like a dew, and like
+
+905
+00:59:54,932 --> 01:00:01,592
+a morning dew. It's kind of like, um,
+illusion. It's kind of like a shadow.
+
+906
+01:00:01,592 --> 01:00:03,272
+Um, it's kind of like
+
+907
+01:00:04,232 --> 01:00:04,592
+a
+
+908
+01:00:05,212 --> 01:00:11,952
+thunder, um, and we should see the world
+this way. And so that has given
+
+909
+01:00:11,952 --> 01:00:12,472
+me,
+
+910
+01:00:14,012 --> 01:00:17,872
+that has given me a sense of saying that
+
+911
+01:00:18,532 --> 01:00:25,112
+I should not kind of like try to cling on
+something. Um, I should be really fluid,
+
+912
+01:00:25,112 --> 01:00:29,952
+like if I want to, uh, enjoy the world the
+right way. Um,
+
+913
+01:00:30,732 --> 01:00:34,592
+and so one of the stories in there, it
+says,
+
+914
+01:00:35,352 --> 01:00:40,192
+"If you're drowning and then you happen to
+hug a log," like a big piece of wood.
+
+915
+01:00:40,192 --> 01:00:43,252
+-Mm-hmm.
+-"And then that has saved your life. Um,
+
+916
+01:00:43,252 --> 01:00:43,762
+but then
+
+917
+01:00:44,912 --> 01:00:48,652
+since you're now safe, you're, you're not
+drowning anymore, you have come to the
+
+918
+01:00:48,692 --> 01:00:49,092
+land.
+
+919
+01:00:49,932 --> 01:00:51,072
+But maybe out of
+
+920
+01:00:51,952 --> 01:00:56,312
+security, you feel like this log is so
+important for you, it has saved your life,
+
+921
+01:00:56,312 --> 01:01:02,168
+so you just hug it to walk it."But who
+knows your next quest is to climb the
+
+922
+01:01:02,168 --> 01:01:07,388
+mountain. Like, you cannot... Since the
+lock has saved you already, you should let
+
+923
+01:01:07,388 --> 01:01:11,748
+it go because your next quest is climbing
+a mountain. That lock is not going to
+
+924
+01:01:11,748 --> 01:01:13,087
+-serve you.
+-Hmm.
+
+925
+01:01:13,087 --> 01:01:18,148
+And so, that main guiding principle is
+kind of like, say,
+
+926
+01:01:19,668 --> 01:01:26,428
+everything is as is, as happened. Um, for
+example, our podcast now
+
+927
+01:01:26,428 --> 01:01:28,008
+-is as happened.
+-Mm-hmm.
+
+928
+01:01:28,008 --> 01:01:32,328
+It's going to end in, I don't know, like
+20 minutes' time.
+
+929
+01:01:32,968 --> 01:01:33,648
+And I should not
+
+930
+01:01:34,428 --> 01:01:35,468
+-cling on it.
+-Yeah.
+
+931
+01:01:35,468 --> 01:01:39,328
+I should not think about, "Oh, damn, I
+should change something about it."
+
+932
+01:01:39,328 --> 01:01:42,837
+-Hmm. I see.
+-Like also in freelancing, it's like... Uh,
+
+933
+01:01:42,837 --> 01:01:49,368
+in freelancing, you have to have a level
+of grace, uh, and compassion to yourself
+
+934
+01:01:49,368 --> 01:01:53,968
+for the courage to come out. If you
+always said, "I have to be perfect. I
+
+935
+01:01:53,968 --> 01:01:57,668
+cannot make any mistakes," sorry, you live
+in a classroom. You're not living in the
+
+936
+01:01:57,668 --> 01:01:58,968
+-real world.
+-Hmm.
+
+937
+01:01:58,968 --> 01:02:02,728
+Um, if you are living in the real world
+and you don't want to get to insanity
+
+938
+01:02:02,728 --> 01:02:05,868
+[laughs], just try to
+
+939
+01:02:07,087 --> 01:02:11,688
+do a small experiment, see what it comes
+back. And if it is not the outcome that
+
+940
+01:02:11,688 --> 01:02:14,468
+you want, just pivot and do better next
+time.
+
+941
+01:02:14,468 --> 01:02:17,848
+-Yeah.
+-So, like don't hug the lock when you have
+
+942
+01:02:17,848 --> 01:02:21,487
+to climb the mountain. Yes, the lock has
+saved you, it has served you in the past,
+
+943
+01:02:21,488 --> 01:02:24,488
+but time to move on.
+
+944
+01:02:25,968 --> 01:02:27,748
+-Yeah. That-
+-Yeah
+
+945
+01:02:27,748 --> 01:02:30,388
+... that's a, that's a great metaphor,
+yeah.
+
+946
+01:02:30,388 --> 01:02:31,668
+-Yeah, so it's kind of like-
+-Mm-hmm
+
+947
+01:02:32,868 --> 01:02:37,868
+... I don't see you, Nicola, as Nicola the
+coachee, because I know
+
+948
+01:02:38,488 --> 01:02:43,328
+it just happened in this moment that we
+met and I'm being put in a position to
+
+949
+01:02:43,328 --> 01:02:48,268
+give you some advice, and you're in the
+position of needing some advice. But this
+
+950
+01:02:48,268 --> 01:02:52,808
+is not forever. Like, this is not
+permanent. At some point, these
+
+951
+01:02:54,028 --> 01:02:57,607
+-three that I l- look after will grow.
+-Mm-hmm.
+
+952
+01:02:57,607 --> 01:03:01,888
+Like, you're going to be a different
+Nicola, and I don't see you, Nicola, as
+
+953
+01:03:01,888 --> 01:03:07,488
+the first version anymore. Like, I should
+see you as an ever-changing. And, eh, this
+
+954
+01:03:07,488 --> 01:03:11,968
+is, this is the... This is what I think
+
+955
+01:03:13,548 --> 01:03:16,538
+the, the way that I prefer to look at
+life. Everything.
+
+956
+01:03:16,538 --> 01:03:18,768
+-Mm-hmm.
+-Like people, person, environment,
+
+957
+01:03:18,768 --> 01:03:23,668
+-everything.
+-Hmm. Makes me think of... It ki- I feel
+
+958
+01:03:23,668 --> 01:03:26,837
+it's kind of a translation of this, um,
+
+959
+01:03:27,728 --> 01:03:34,067
+that what serves, served you to, to get
+here, will serve you to get-
+
+960
+01:03:34,067 --> 01:03:35,928
+-Yeah
+-... somewhere else, right? We have
+
+961
+01:03:35,928 --> 01:03:37,078
+-different-
+-Yeah
+
+962
+01:03:37,078 --> 01:03:42,828
+... whatever, phases, challenges, uh,
+growth path.
+
+963
+01:03:42,828 --> 01:03:45,428
+-Mm.
+-And something, you need something to
+
+964
+01:03:46,268 --> 01:03:51,828
+get somewhere, eh, but then it won't help
+you to get somewhere else because it's-
+
+965
+01:03:51,828 --> 01:03:53,368
+-Yeah
+-... constantly evolving
+
+966
+01:03:54,008 --> 01:03:56,798
+journey and challenges and, and stuff,
+yeah.
+
+967
+01:03:58,288 --> 01:04:00,668
+Perfect. This is a perfect interpretation.
+
+968
+01:04:00,668 --> 01:04:06,488
+[laughs] Yeah. And what, what about the...
+What was the, the third book that, that
+
+969
+01:04:06,488 --> 01:04:10,928
+-you mentioned?
+-The Way of Integrity by Marta Beck.
+
+970
+01:04:10,928 --> 01:04:15,828
+Mm-hmm. And what's the, the message from
+there, that one?
+
+971
+01:04:15,828 --> 01:04:19,248
+The message is to really honor your own
+truth.
+
+972
+01:04:19,248 --> 01:04:24,648
+-Mm-hmm.
+-And so, uh, it described like this theater
+
+973
+01:04:24,648 --> 01:04:27,328
+play by... It's called Inferno.
+
+974
+01:04:28,108 --> 01:04:32,348
+Um, so I think it's like, maybe it's
+Italian story, you know? Like,
+
+975
+01:04:32,968 --> 01:04:36,697
+-maybe let me know. [laughs]
+-I'll, I'll look into it. I mean, the-
+
+976
+01:04:36,697 --> 01:04:39,768
+-[laughs]
+-... the Inferno from, from Dante is where
+
+977
+01:04:39,768 --> 01:04:41,248
+-it all started.
+-Yes.
+
+978
+01:04:41,248 --> 01:04:42,668
+-Yeah.
+-It's from Dante, yeah.
+
+979
+01:04:42,668 --> 01:04:47,028
+-Mm-hmm.
+-So, that book is about taking Dante's
+
+980
+01:04:47,028 --> 01:04:48,377
+-Inferno-
+-Oh, I see. I see
+
+981
+01:04:48,377 --> 01:04:51,428
+-... into examining our life.
+-Okay.
+
+982
+01:04:51,428 --> 01:04:56,908
+And so, it says that it, it goes
+through... You have to go through the
+
+983
+01:04:56,908 --> 01:04:59,368
+-center of the Earth-
+-Mm
+
+984
+01:04:59,368 --> 01:05:01,228
+... and then go to the inferno
+
+985
+01:05:02,127 --> 01:05:07,127
+and then coming out from the other side.
+And so that book is such a-
+
+986
+01:05:07,127 --> 01:05:11,578
+-Mm-hmm
+-... supernova for me. Like- [laughs]
+
+987
+01:05:11,578 --> 01:05:14,448
+-Okay.
+-Because, um,
+
+988
+01:05:15,827 --> 01:05:22,688
+back then, I just take every advice as is
+and thinking that if I apply them, um, I'm
+
+989
+01:05:22,688 --> 01:05:26,888
+going to get success or get happier. But-
+
+990
+01:05:26,948 --> 01:05:30,228
+-Mm
+-... I forgot to examine myself, like if
+
+991
+01:05:30,228 --> 01:05:35,048
+that advice is made for me or not. Like,
+do I see myself in this or do I have a
+
+992
+01:05:35,048 --> 01:05:36,108
+level of understanding
+
+993
+01:05:37,587 --> 01:05:40,938
+-that this thing fits me or not?
+-Hmm.
+
+994
+01:05:40,938 --> 01:05:41,317
+Um,
+
+995
+01:05:42,008 --> 01:05:45,178
+and the process of doing that is then to,
+
+996
+01:05:47,188 --> 01:05:47,948
+to
+
+997
+01:05:47,948 --> 01:05:48,317
+-find-
+-[laughs]
+
+998
+01:05:48,317 --> 01:05:53,788
+... the truth slowly. And that book, The
+Way of Integrity, it's basically like
+
+999
+01:05:54,408 --> 01:06:00,428
+explaining or practicing or making you
+realize what are the ways that you can
+
+1000
+01:06:00,428 --> 01:06:05,688
+find your own integrity. And so you have
+this inner truth as your anchor. And
+
+1001
+01:06:05,688 --> 01:06:07,508
+everything has to filter through this,
+
+1002
+01:06:08,348 --> 01:06:11,228
+and then you get a sense of clarity, um,
+
+1003
+01:06:12,248 --> 01:06:17,888
+-when dealing with a lot of noise.
+-I see. So it's like helping you
+
+1004
+01:06:17,888 --> 01:06:20,087
+to, um,
+
+1005
+01:06:20,728 --> 01:06:23,648
+filter the advice and whatever,
+[clears throat]
+
+1006
+01:06:24,488 --> 01:06:26,127
+whatever people tell you
+
+1007
+01:06:26,908 --> 01:06:31,127
+instead of following, uh, everyone in all,
+in every
+
+1008
+01:06:31,127 --> 01:06:36,337
+-direction.
+-Yeah. Yeah. It's more like
+
+1009
+01:06:37,408 --> 01:06:40,908
+there are two kinds of heart. Um, there
+are two kinds of
+
+1010
+01:06:42,028 --> 01:06:42,788
+hardness,
+
+1011
+01:06:43,548 --> 01:06:46,868
+um, that, that we face. Um,
+
+1012
+01:06:47,788 --> 01:06:52,627
+one kind of heart is if you're a fish,
+then if you want to swim to the ocean and
+
+1013
+01:06:52,627 --> 01:06:56,168
+then, you know, it's a different
+environment, you just have to push on,
+
+1014
+01:06:56,168 --> 01:07:00,308
+right? Like you have a, you know, you'll
+be stronger as a different, as a stronger
+
+1015
+01:07:00,308 --> 01:07:04,308
+fish. You'll maybe swim faster or
+anything. But another kind of heart is you
+
+1016
+01:07:04,308 --> 01:07:06,998
+don't know who you are, you don't even
+know you're a fish-
+
+1017
+01:07:06,998 --> 01:07:08,648
+-Yeah
+-... and then you're trying to compete with
+
+1018
+01:07:08,648 --> 01:07:13,948
+monkeys climbing the tree, and then
+you'll be stuck thinking, "Why are the
+
+1019
+01:07:13,948 --> 01:07:19,652
+other monkeys just seem so..."So light and
+easy and so effortless in climbing the
+
+1020
+01:07:19,652 --> 01:07:23,851
+trees, because you don't even know, like,
+and, and you're kind of out of breath.
+
+1021
+01:07:23,852 --> 01:07:29,712
+[laughs] You're not as good as they are.
+You're not achieving the height that they
+
+1022
+01:07:29,712 --> 01:07:32,492
+-are, but you're half dying.
+-Mm-hmm.
+
+1023
+01:07:32,492 --> 01:07:35,892
+Uh, that's because you don't realize that
+you're a fish. Like, this is not your
+
+1024
+01:07:35,892 --> 01:07:41,312
+lane. Like, go back to the water, like,
+and, and, you know, swim towards the
+
+1025
+01:07:41,312 --> 01:07:43,692
+-ocean.
+-Yeah.
+
+1026
+01:07:43,692 --> 01:07:45,552
+-Yeah.
+-Did you, did you, um,
+
+1027
+01:07:46,652 --> 01:07:51,392
+experience some- something like that?
+There was, there was a time where you felt
+
+1028
+01:07:51,392 --> 01:07:53,292
+-you were trying-
+-Yeah
+
+1029
+01:07:54,412 --> 01:07:55,872
+-... to do-
+-Three times.
+
+1030
+01:07:55,872 --> 01:08:00,732
+-Yeah? Okay.
+-Three times that I have to be almost
+
+1031
+01:08:00,732 --> 01:08:03,401
+bedridden [laughs], I'm in a lot of pain-
+
+1032
+01:08:04,072 --> 01:08:06,372
+-Mm-hmm
+-... uh, to realize, uh, I'm not supposed
+
+1033
+01:08:06,372 --> 01:08:11,212
+to do a certain things, and usually that
+comes in terms of, um,
+
+1034
+01:08:12,872 --> 01:08:14,492
+the career choice,
+
+1035
+01:08:15,432 --> 01:08:16,652
+-um-
+-Mm-hmm
+
+1036
+01:08:16,652 --> 01:08:18,282
+... and, uh, environment
+
+1037
+01:08:19,252 --> 01:08:21,562
+and, uh, my
+
+1038
+01:08:22,992 --> 01:08:26,242
+-attitude trying to climbing the trees-
+-Hmm
+
+1039
+01:08:26,242 --> 01:08:29,902
+... uh, while not knowing myself. So yeah,
+I have had
+
+1040
+01:08:30,932 --> 01:08:37,262
+three burnouts in the past 10 years, and
+the first one was, um, during my software
+
+1041
+01:08:37,262 --> 01:08:44,152
+engineering time, and the second one was
+during my PhD time, and no...
+
+1042
+01:08:47,232 --> 01:08:51,512
+During my, uh, data science consultant
+time, and then third time was during my
+
+1043
+01:08:51,512 --> 01:08:55,392
+-PhD time.
+-Hmm.
+
+1044
+01:08:57,392 --> 01:08:59,412
+And what did you real- realize?
+
+1045
+01:09:00,212 --> 01:09:03,052
+Why you were, um... What
+
+1046
+01:09:04,592 --> 01:09:08,152
+made it clear for you that you were doing
+what you were
+
+1047
+01:09:09,152 --> 01:09:13,692
+not supposed to do or was not?
+
+1048
+01:09:15,832 --> 01:09:19,012
+I realized that
+
+1049
+01:09:20,292 --> 01:09:24,012
+I, I never think about checking in with
+myself
+
+1050
+01:09:25,592 --> 01:09:26,121
+if,
+
+1051
+01:09:28,072 --> 01:09:31,472
+if being in an environment or doing a
+certain thing
+
+1052
+01:09:32,212 --> 01:09:39,132
+will make me respect myself more or less.
+So I didn't... So it's more like I
+
+1053
+01:09:39,132 --> 01:09:39,952
+keep looking out
+
+1054
+01:09:41,052 --> 01:09:43,952
+and I, I try doing things and I try to
+
+1055
+01:09:45,752 --> 01:09:49,662
+come up with a good result, good
+performance, um,
+
+1056
+01:09:51,112 --> 01:09:56,072
+but then I don't know what I'm made of.
+Um-
+
+1057
+01:09:56,792 --> 01:10:01,692
+-Hmm.
+-So it's kind of like... Uh, it's kind of
+
+1058
+01:10:01,692 --> 01:10:01,992
+like
+
+1059
+01:10:03,232 --> 01:10:04,832
+I am trying my very best
+
+1060
+01:10:06,312 --> 01:10:11,852
+just trying to survive instead of
+thriving, and that comes in many, many
+
+1061
+01:10:11,852 --> 01:10:14,672
+ways. Maybe it is with
+
+1062
+01:10:15,832 --> 01:10:20,552
+the pace of the project. Maybe it's with
+the nature of the project. Maybe it's with
+
+1063
+01:10:20,552 --> 01:10:27,512
+the nature of the environment, of what is
+demanded of you, um, and, and
+
+1064
+01:10:27,512 --> 01:10:32,342
+this kind of, uh, self-awareness came,
+uh,
+
+1065
+01:10:33,092 --> 01:10:39,772
+after taking me through excruciating
+physical pain, um, to, to
+
+1066
+01:10:39,772 --> 01:10:46,232
+realize that maybe I should look at what
+I'm made of. [laughs]
+
+1067
+01:10:46,852 --> 01:10:49,072
+-Yeah.
+-So you, you feel you were ignoring
+
+1068
+01:10:49,852 --> 01:10:50,272
+maybe
+
+1069
+01:10:50,972 --> 01:10:54,732
+earlier signals, right? You, you had to
+
+1070
+01:10:55,832 --> 01:10:59,012
+-get to physical pain.
+-I'm ignoring all the subtle and obvious
+
+1071
+01:10:59,012 --> 01:11:00,672
+-signals-
+-Mm-hmm
+
+1072
+01:11:00,672 --> 01:11:04,712
+... that until my body literally can't
+move anymore,
+
+1073
+01:11:05,692 --> 01:11:07,772
+-for me to say, "Stop."
+-Okay.
+
+1074
+01:11:07,772 --> 01:11:11,492
+Otherwise, I would still keep moving. Like
+otherwise, I wouldn't have learned this
+
+1075
+01:11:11,492 --> 01:11:17,712
+lesson. So my body was compassionate
+enough to take a
+
+1076
+01:11:17,712 --> 01:11:23,862
+breakdown, to remind myself that, hey,
+this is not you. Like, this is
+
+1077
+01:11:25,032 --> 01:11:30,432
+... You're not... Uh, you're, you're,
+you're a different vehicle being put on
+
+1078
+01:11:30,432 --> 01:11:31,432
+-different purpose.
+-Hmm.
+
+1079
+01:11:32,092 --> 01:11:34,112
+-Yeah.
+-What, what are those signals
+
+1080
+01:11:34,752 --> 01:11:38,531
+that someone in, in a similar situation
+might catch before
+
+1081
+01:11:39,432 --> 01:11:40,052
+getting to
+
+1082
+01:11:42,112 --> 01:11:42,792
+-pain?
+-Hmm.
+
+1083
+01:11:44,812 --> 01:11:46,592
+At, at first, I would say
+
+1084
+01:11:47,592 --> 01:11:53,472
+it is, um, little discomfort here and
+there, and that might come in terms of
+
+1085
+01:11:53,472 --> 01:12:00,252
+emotions, that might comes in terms of
+sensations. Um, and then, uh, the
+
+1086
+01:12:00,252 --> 01:12:03,672
+next thing would be you're trying to
+overcome them-
+
+1087
+01:12:03,672 --> 01:12:04,372
+-Mm-hmm
+-... but
+
+1088
+01:12:05,012 --> 01:12:09,832
+you feel that you are slowly giving up on
+yourself or betraying yourself. Like,
+
+1089
+01:12:09,832 --> 01:12:10,992
+you're, you're so
+
+1090
+01:12:11,752 --> 01:12:15,092
+kind of like betraying your own truth, um,
+
+1091
+01:12:16,032 --> 01:12:19,942
+in order to get better, if that make any
+sense. Um,
+
+1092
+01:12:21,492 --> 01:12:23,012
+and then you
+
+1093
+01:12:23,632 --> 01:12:23,872
+keep
+
+1094
+01:12:25,632 --> 01:12:26,792
+giving in. So
+
+1095
+01:12:27,872 --> 01:12:30,112
+-you slowly find yourself-
+-Mm-hmm
+
+1096
+01:12:32,172 --> 01:12:33,672
+... grinding
+
+1097
+01:12:35,492 --> 01:12:36,312
+more like,
+
+1098
+01:12:37,592 --> 01:12:42,112
+more like you, more like you feel like you
+grind yourself off, that nothing is left.
+
+1099
+01:12:42,112 --> 01:12:47,712
+Like you're, you're le- you're slowly
+losing your life force instead of, um,
+
+1100
+01:12:48,192 --> 01:12:49,652
+instead of feeling like,
+
+1101
+01:12:50,892 --> 01:12:54,672
+-"I'm still myself doing this."
+-Hmm.
+
+1102
+01:12:54,672 --> 01:13:00,232
+Yeah. It, it's going to feel like, "I keep
+running and running and running, but for
+
+1103
+01:13:00,232 --> 01:13:05,472
+what?" And maybe your logical brain is
+going to convince you, "Ah, it's for
+
+1104
+01:13:05,472 --> 01:13:07,222
+-this," you know, the-
+-Hmm
+
+1105
+01:13:07,222 --> 01:13:08,522
+... this, um,
+
+1106
+01:13:09,912 --> 01:13:11,672
+nice achievement,
+
+1107
+01:13:12,452 --> 01:13:16,832
+and it's for me to prove to myself that I
+can do this,
+
+1108
+01:13:16,832 --> 01:13:21,023
+um-But yeah, um,
+
+1109
+01:13:21,684 --> 01:13:28,224
+this is going to... This is kind of like a
+slippery slope where you, you betray
+
+1110
+01:13:28,224 --> 01:13:32,983
+-yourself again and again and again. Yeah.
+-Yeah. And y-
+
+1111
+01:13:32,983 --> 01:13:35,943
+-Those are the signs.
+-Yeah, definitely.
+
+1112
+01:13:37,023 --> 01:13:38,724
+-It happened to me-
+-Those are the signs. And then you, you
+
+1113
+01:13:38,724 --> 01:13:40,214
+-wake up and then you think like-
+-Mm-hmm
+
+1114
+01:13:40,214 --> 01:13:40,214
+...
+
+1115
+01:13:41,044 --> 01:13:44,224
+"Why am I doing this?" Like, like, "Where
+am I?" [laughs]
+
+1116
+01:13:44,224 --> 01:13:47,264
+Yeah, exactly. Wanted to say exactly the
+same.
+
+1117
+01:13:47,264 --> 01:13:48,124
+-[laughs]
+-But
+
+1118
+01:13:48,764 --> 01:13:50,784
+it happened to me in the, in the past
+going
+
+1119
+01:13:52,103 --> 01:13:53,523
+into work in the morning,
+
+1120
+01:13:55,284 --> 01:14:02,112
+you know. You, you get there, you sit at
+your desk, you look around and you say,
+
+1121
+01:14:02,112 --> 01:14:06,334
+-"What am I doing here?"
+-[laughs] Yeah.
+
+1122
+01:14:06,334 --> 01:14:07,884
+-[laughs]
+-Time to look inside.
+
+1123
+01:14:07,884 --> 01:14:11,264
+-Yeah.
+-That's a message for you. Read the
+
+1124
+01:14:11,264 --> 01:14:17,603
+-message. [laughs]
+-I see. And so you... It's
+
+1125
+01:14:17,603 --> 01:14:23,404
+interesting, you, you, you said that this
+happened to you, um, three times. So it
+
+1126
+01:14:23,404 --> 01:14:27,964
+was different things that you discovered,
+or you went,
+
+1127
+01:14:28,844 --> 01:14:35,824
+you went back to, uh, something similar
+that, I don't know, uh, catch you
+
+1128
+01:14:35,824 --> 01:14:37,784
+in a different way?
+
+1129
+01:14:40,443 --> 01:14:43,504
+Same feeling, different environment,
+
+1130
+01:14:43,504 --> 01:14:49,634
+different faces, different projects. But
+the feeling is the same.
+
+1131
+01:14:49,634 --> 01:14:50,824
+-Okay.
+-The feeling is that
+
+1132
+01:14:52,464 --> 01:14:53,864
+I didn't stop myself right there
+
+1133
+01:14:55,563 --> 01:15:02,044
+and allow myself to do the things or be
+somewhere or... well, generally do
+
+1134
+01:15:02,044 --> 01:15:02,454
+something
+
+1135
+01:15:03,084 --> 01:15:07,844
+that make myself respect me less.
+
+1136
+01:15:08,964 --> 01:15:12,044
+-Hmm.
+-That's the, that the... That's the
+
+1137
+01:15:12,044 --> 01:15:14,063
+question that I didn't think of
+
+1138
+01:15:14,744 --> 01:15:17,964
+questioning myself back then, if this
+would be my
+
+1139
+01:15:19,224 --> 01:15:24,364
+decision filtering process that will make
+a lot of life easier.
+
+1140
+01:15:24,364 --> 01:15:28,084
+I see. And there, there were... There was
+a part of you
+
+1141
+01:15:29,702 --> 01:15:32,864
+in the second or third time that says
+
+1142
+01:15:35,724 --> 01:15:38,483
+why you, you felt again into this
+
+1143
+01:15:39,684 --> 01:15:44,304
+-or, or not?
+-No, second and third time I managed to
+
+1144
+01:15:44,304 --> 01:15:46,264
+-catch myself easier.
+-Okay.
+
+1145
+01:15:46,264 --> 01:15:51,044
+Um, and being different from the first
+time. The first time is kind of like I
+
+1146
+01:15:51,044 --> 01:15:55,574
+just graduated university, this is my very
+first job. I have to do my very best as a
+
+1147
+01:15:55,574 --> 01:15:57,554
+-A+ student. [laughs]
+-Mm-hmm.
+
+1148
+01:15:57,554 --> 01:15:58,603
+You know, like
+
+1149
+01:15:59,324 --> 01:16:02,954
+score perfectly, uh, for everything that I
+do.
+
+1150
+01:16:02,954 --> 01:16:06,684
+-Yeah.
+-Um, when I had the first burnout, I
+
+1151
+01:16:06,684 --> 01:16:10,813
+actually doubted myself. Like, I actually
+asked myself, like, "Why am I so useless?"
+
+1152
+01:16:10,813 --> 01:16:12,964
+-Like, "Why can't I do this?"
+-Yes.
+
+1153
+01:16:12,964 --> 01:16:13,114
+Um,
+
+1154
+01:16:13,844 --> 01:16:17,364
+but second and third time, no. Like second
+and third time it's like, "Ah, there it
+
+1155
+01:16:17,364 --> 01:16:22,344
+goes again." [laughs] "I thought I have
+pivoted, but looks like I have not pivoted
+
+1156
+01:16:22,344 --> 01:16:26,244
+-enough." [laughs]
+-[laughs] I see. Okay.
+
+1157
+01:16:26,244 --> 01:16:31,154
+-Yeah.
+-That makes sense. There, there was some...
+
+1158
+01:16:31,154 --> 01:16:36,464
+You feel external pressure, and
+especially in the first time or something
+
+1159
+01:16:36,464 --> 01:16:40,164
+that you, um,
+
+1160
+01:16:42,464 --> 01:16:48,764
+that it was coming from, from the past or
+something that you learned when, when you
+
+1161
+01:16:48,764 --> 01:16:55,724
+were younger, um, that you needed to be
+this A+ student, uh, score everything
+
+1162
+01:16:55,724 --> 01:16:58,233
+-at, uh, the best-
+-Hmm
+
+1163
+01:16:58,233 --> 01:17:02,884
+... you felt like some external pressure
+back then?
+
+1164
+01:17:02,884 --> 01:17:09,014
+I wouldn't think it's an external
+pressure. I think it is more like the...
+
+1165
+01:17:10,904 --> 01:17:14,084
+-I misunderstood myself.
+-Hmm.
+
+1166
+01:17:14,084 --> 01:17:19,744
+Um, only recently, two to three years ago,
+that
+
+1167
+01:17:21,704 --> 01:17:24,603
+I change my perspective
+
+1168
+01:17:25,224 --> 01:17:27,044
+on my existence in the world.
+
+1169
+01:17:28,204 --> 01:17:28,603
+So
+
+1170
+01:17:30,544 --> 01:17:32,884
+only up until two to three years
+
+1171
+01:17:34,204 --> 01:17:34,724
+ago,
+
+1172
+01:17:36,044 --> 01:17:38,924
+I used to think that my existence
+
+1173
+01:17:39,742 --> 01:17:42,404
+is to be of use by others,
+
+1174
+01:17:43,304 --> 01:17:44,103
+is to
+
+1175
+01:17:45,103 --> 01:17:45,943
+lose my
+
+1176
+01:17:46,664 --> 01:17:47,924
+shapes and forms
+
+1177
+01:17:48,784 --> 01:17:51,523
+and then putting myself down to the dust
+
+1178
+01:17:52,603 --> 01:17:56,284
+and to just serve others, and that is
+love.
+
+1179
+01:17:56,284 --> 01:18:00,344
+-Hmm. Okay.
+-And that is contribution. That was my
+
+1180
+01:18:00,344 --> 01:18:00,844
+thinking-
+
+1181
+01:18:01,644 --> 01:18:04,704
+-Mm-hmm
+-... back then. Um,
+
+1182
+01:18:05,624 --> 01:18:06,144
+and yeah,
+
+1183
+01:18:07,124 --> 01:18:12,664
+well since this last two to three years,
+I've changed a lot. [laughs] I'm living a
+
+1184
+01:18:12,664 --> 01:18:17,404
+much better life right now, uh, and
+continue to do better. But yeah,
+
+1185
+01:18:18,124 --> 01:18:20,164
+um, that, that, that
+
+1186
+01:18:21,664 --> 01:18:22,964
+shift in perspective
+
+1187
+01:18:23,824 --> 01:18:30,244
+that I am my own person, I have my shapes
+and forms and boundaries. This is where I
+
+1188
+01:18:30,244 --> 01:18:36,443
+end, this is where other start. [laughs]
+Uh, I can have my own preference. Uh,
+
+1189
+01:18:37,124 --> 01:18:37,364
+I
+
+1190
+01:18:38,364 --> 01:18:40,584
+exist in the world, therefore
+
+1191
+01:18:41,624 --> 01:18:46,084
+I have the right to interact with the
+world as me.
+
+1192
+01:18:46,084 --> 01:18:48,603
+-Mm-hmm.
+-Um, that might sound crazy for a lot of
+
+1193
+01:18:48,603 --> 01:18:53,844
+people hearing this right now, but this is
+seriously... If I want to be totally
+
+1194
+01:18:53,844 --> 01:18:58,044
+honest, I only s- started
+
+1195
+01:18:58,924 --> 01:19:02,103
+embodying that two to three years ago.
+
+1196
+01:19:03,344 --> 01:19:10,044
+Yeah. I, I think it... most people are,
+are struggling with that. Is, is not, not
+
+1197
+01:19:10,044 --> 01:19:11,144
+strange. Or maybe
+
+1198
+01:19:12,103 --> 01:19:15,643
+it's strange for someone because they have
+not thought about it.
+
+1199
+01:19:15,644 --> 01:19:16,494
+-Hmm.
+-But, uh,
+
+1200
+01:19:18,144 --> 01:19:19,824
+-many, many people-
+-I'm not going back. I'm-
+
+1201
+01:19:19,824 --> 01:19:22,804
+-Yeah.
+-It's irreversible anymore. [laughs] I'm
+
+1202
+01:19:22,804 --> 01:19:26,824
+-not going back. Never ever.
+-Of course not, yeah.
+
+1203
+01:19:27,932 --> 01:19:28,192
+-[laughs]
+-No
+
+1204
+01:19:29,092 --> 01:19:32,212
+-way.
+-Yeah. That's, uh, yeah. That's amazing
+
+1205
+01:19:32,212 --> 01:19:32,862
+that, that
+
+1206
+01:19:34,352 --> 01:19:38,392
+you have been able to, to do that, you
+know. It takes,
+
+1207
+01:19:40,052 --> 01:19:44,032
+it takes, um... Some people, it takes a
+lot of time and-
+
+1208
+01:19:44,032 --> 01:19:44,192
+Mm-hmm
+
+1209
+01:19:45,192 --> 01:19:48,012
+... you don't even realize because when,
+when
+
+1210
+01:19:48,772 --> 01:19:53,132
+the past you, uh, were not realizing, was
+not realizing
+
+1211
+01:19:53,751 --> 01:19:58,032
+what was happening, right? Uh, or not
+fully,
+
+1212
+01:19:58,772 --> 01:19:59,172
+-uh-
+-Mm-hmm
+
+1213
+01:19:59,172 --> 01:20:05,412
+... to be able to, to break out of it and,
+as you said, understand your boundaries
+
+1214
+01:20:05,412 --> 01:20:05,882
+and that
+
+1215
+01:20:06,932 --> 01:20:13,892
+you exist for yourself with your own
+tastes and goals, et cetera, et cetera.
+
+1216
+01:20:13,892 --> 01:20:17,432
+-Yeah.
+-You're not living just for the others. And
+
+1217
+01:20:17,432 --> 01:20:18,972
+it's amazing to see you
+
+1218
+01:20:19,592 --> 01:20:21,072
+-shine now.
+-[laughs]
+
+1219
+01:20:21,072 --> 01:20:22,132
+I'm, I'm so curious to,
+
+1220
+01:20:22,992 --> 01:20:24,552
+to see where this
+
+1221
+01:20:25,332 --> 01:20:30,612
+-path will, will lead y- lead you.
+-Mm-hmm.
+
+1222
+01:20:30,612 --> 01:20:31,302
+-I would want-
+-Yeah
+
+1223
+01:20:31,302 --> 01:20:33,032
+... you to share more of this because
+
+1224
+01:20:33,692 --> 01:20:34,332
+-it's-
+-[sighs]
+
+1225
+01:20:34,332 --> 01:20:39,872
+It's so important and you, you explain in
+such easy and understandable
+
+1226
+01:20:39,872 --> 01:20:43,772
+-terms.
+-Sure. We'll be glad to.
+
+1227
+01:20:43,772 --> 01:20:46,272
+-Share.
+-We'll be glad to. Let's see how things go,
+
+1228
+01:20:46,272 --> 01:20:47,082
+-but-
+-Okay
+
+1229
+01:20:47,082 --> 01:20:49,942
+... I'm feeling hopeful. I'm feeling very
+hopeful. [laughs]
+
+1230
+01:20:49,942 --> 01:20:51,112
+[laughs] I know.
+
+1231
+01:20:51,892 --> 01:20:57,692
+That's great. Okay. I think that this is,
+um, a nice
+
+1232
+01:20:57,692 --> 01:20:59,642
+-ending.
+-That's great.
+
+1233
+01:20:59,642 --> 01:21:02,912
+Thank you so much, Hui, for, for the
+conversation.
+
+1234
+01:21:02,912 --> 01:21:06,172
+-Thanks for having me.
+-I learned a bit more about you and, uh,
+
+1235
+01:21:06,172 --> 01:21:09,492
+you have shared so many interesting
+things. I hope people can,
+
+1236
+01:21:10,492 --> 01:21:11,872
+um, use them
+
+1237
+01:21:12,772 --> 01:21:13,172
+to,
+
+1238
+01:21:14,092 --> 01:21:16,712
+to grow them, themselves as well.
+
+1239
+01:21:17,552 --> 01:21:23,072
+Yeah. Really, Nicola, thank you so much
+for inviting me to do this. Uh, I am not
+
+1240
+01:21:23,072 --> 01:21:27,572
+used to talk about myself. I hope this
+ends well. But in any case, I've enjoyed
+
+1241
+01:21:27,632 --> 01:21:31,852
+our conversation today and, uh, thank you
+for having me.
+
+1242
+01:21:31,852 --> 01:21:33,172
+-Thank you, Hui.
+-Thank you.
+
+1243
+01:21:33,172 --> 01:21:38,112
+Bye. See you.
