@@ -88,3 +88,6 @@ target/
 
 # Virtual environment
 .venv/
+
+# Local archive
+@archive/
