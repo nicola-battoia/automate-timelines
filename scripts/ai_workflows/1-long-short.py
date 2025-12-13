@@ -52,7 +52,7 @@ GOOGLE_MODEL_NAME = "gemini-2.5-flash"
 
 # Input Paths
 TRANSCRIPT_PATH = Path(
-    "/Users/nico/hack/gitHub/automate-timelines/data/transcripts/002-hwei-only-audio-pre-processing_eng.txt"
+    "/Users/nico/hack/gitHub/automate-timelines/data/transcripts/YT-002-hwei-recording-audio_eng.txt"
 )
 
 CONTEXT = "This is a podcast interview between Nicola (the host) and Hwei (the guest). Hwei is a data scientist, AI engineer, and freelance coach. In the interview, she shares her approach to building with AI, reflecting both on her professional experience and her personal journey of growth as she struggled to find the right path for herself. Hwei explains how she now helps others navigate the challenges of starting out as freelancers, sharing the tools and strategies she uses to coach people. The interview has an informal, conversational style between two friends."
@@ -68,7 +68,7 @@ MEDIA_PATHS = [
 
 # Output Path
 OUTPUT_OTIO_PATH = Path(
-    "/Users/nico/hack/gitHub/automate-timelines/data/timelines/timeline_elevenlabs_gpt51.otio"
+    "/Users/nico/hack/gitHub/automate-timelines/data/timelines/timeline_hwei_google_gemini25.otio"
 )
 
 

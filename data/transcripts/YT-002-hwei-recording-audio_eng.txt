@@ -1,0 +1,2450 @@
+00:00:01,620 --> 00:00:04,040 [Nicola]
+Hi, Wei. How are you? 
+
+00:00:04,040 --> 00:00:06,840 [Hwei]
+I'm good. How are you, Nicholas? 
+
+00:00:06,840 --> 00:00:17,100 [Nicola]
+I'm great. Thank you so much for, for doing this. I'm, I'm, I'm so ex- excited to use this chance to, to know more about you. 
+
+00:00:17,100 --> 00:00:17,820 [Hwei]
+[laughs] 
+
+00:00:17,820 --> 00:00:25,900 [Nicola]
+So [laughs] we, we know each other, um, online since, uh, almost a year or more than a year. 
+
+00:00:25,900 --> 00:00:26,830 [Hwei]
+Mm-hmm. 
+
+00:00:26,830 --> 00:00:43,240 [Nicola]
+Um, you've been help- helping me so much in, in my journey, and, uh, I took this chance to, to learn a bit more about you, uh [laughs], because I think that you have very cool things to, to share. 
+
+00:00:43,240 --> 00:00:49,060 [Hwei]
+Let, let's hope so. Thanks for having me, and I really look forward to our good conversation today. 
+
+00:00:49,060 --> 00:00:59,449 [Nicola]
+[laughs] Cool. Amazing. So let's get started. Uh, you were, you were sharing the most amazing stories, so I'll- [laughs] 
+
+00:00:59,449 --> 00:01:00,769 [Hwei]
+[laughs] That's it 
+
+00:01:00,769 --> 00:01:05,860 [Nicola]
+... I'll go from, from there because there is, uh, some magic there. So- 
+
+00:01:05,860 --> 00:01:06,340 [Hwei]
+Mm-hmm 
+
+00:01:06,340 --> 00:01:25,220 [Nicola]
+... yeah, before that, maybe a brief introduction on what we might touch on. Um, yes, where you are a data scientist, um, bridging the, the gap between data and scientist, machine learning and, more recently, AI engineering. 
+
+00:01:25,220 --> 00:01:25,619 [Hwei]
+Mm-hmm. 
+
+00:01:25,620 --> 00:01:30,840 [Nicola]
+Uh, you're... We know each other from the program Data Freelancer- 
+
+00:01:30,900 --> 00:01:31,000 [Hwei]
+Yeah 
+
+00:01:31,000 --> 00:01:53,000 [Nicola]
+... where, where you h- helped people to get started in the, their data and AI freelance journey. So, uh, yeah. And, um, and I was curious, um, preparing for, for this interview, uh, where all this started. I think there's always interesting stories there. 
+
+00:01:53,000 --> 00:01:54,090 [Hwei]
+Mm-hmm. 
+
+00:01:54,090 --> 00:02:01,899 [Nicola]
+So what did... What's the oldest memory, uh, when you, when you started to 
+
+00:02:01,960 --> 00:02:02,600 [Nicola]
+be interested- 
+
+00:02:02,600 --> 00:02:02,610 [Hwei]
+Yeah 
+
+00:02:02,610 --> 00:02:04,560 [Nicola]
+... into this work? [laughs] 
+
+00:02:04,560 --> 00:02:07,399 [Hwei]
+Yeah. So, um, 
+
+00:02:07,400 --> 00:02:12,960 [Hwei]
+well, your question make me, like, um, kind of like rewind to many, many years ago. 
+
+00:02:12,960 --> 00:02:13,269 [Nicola]
+[laughs] Yeah. 
+
+00:02:13,269 --> 00:02:21,350 [Hwei]
+Uh, I just, like, graduated from high school, and, uh, to be honest, I'm, I'm, like, not very tech-savvy at that time. 
+
+00:02:21,350 --> 00:02:21,360 [Nicola]
+Mm-hmm. 
+
+00:02:21,360 --> 00:02:49,260 [Hwei]
+Like, I just, [laughs] I just learned how to use the internet for, like, the second or the third year. Um, [laughs] uh, and then, um, I came across this thing called YouTube. And then, uh, for some divine intervention, I just watched a Microsoft Vision 2020 video. So that was like, you can imagine, like, I mean, we are now in 2025, uh, but I was watching like 
+
+00:02:49,260 --> 00:04:16,579 [Hwei]
+a, a video of what Microsoft envisioned Vision 2020 to be in twen- in, in 2008. So [laughs], and my 2008 high school self just got, like, blown away, uh, with that video because it is, you know, it starts with like, "You can communicate with, uh, people in another country." It's auto-translated, [laughs] and then, uh, there's this like, you know, like, uh, transparent glass panel with text popping up. Like, "Oh, your, your thing is done. Oh, this person has this update." You see dashboard and everything. At that time, it was just, like, unfathomable. And so out of curiosity, because I was, like, like, too, uh, w- was too amazed, uh, with that thing, I commented under the video, [laughs] uh, and says like, uh, "Wow, this is such a great video. I am a high school graduate, uh, trying to figure out what should I study for university. Can anybody [laughs] tell me what should I study in the university just to be a part of this magic?" And then, [laughs], a stranger of, uh, a stranger in the internet, whoever sees this comment, um, that person replied that says, "You should just go for computer science." 
+
+00:04:16,579 --> 00:04:17,040 [Nicola]
+[laughs] 
+
+00:04:17,040 --> 00:04:28,340 [Hwei]
+And I'm like, "Whoever that is, thank you so much. You're one of the reason [laughs] why I'm here today, uh, as a data scientist and AI engineer in 2025." [laughs] 
+
+00:04:28,340 --> 00:04:32,330 [Nicola]
+We need... We all need to thank that, that YouTube commenter. [laughs] 
+
+00:04:32,330 --> 00:04:32,419 [Hwei]
+[laughs] 
+
+00:04:32,420 --> 00:04:34,400 [Nicola]
+The magic of YouTube. 
+
+00:04:34,400 --> 00:04:35,260 [Hwei]
+Yeah. 
+
+00:04:35,260 --> 00:04:35,310 [Nicola]
+Amazing. 
+
+00:04:35,310 --> 00:04:36,940 [Hwei]
+A gesture of kindness. Yeah. 
+
+00:04:36,940 --> 00:04:37,240 [Nicola]
+Yeah. 
+
+00:04:37,240 --> 00:04:39,790 [Hwei]
+So it's sparked by inspiration, really- 
+
+00:04:39,790 --> 00:04:39,790 [Nicola]
+Mm-hmm 
+
+00:04:39,790 --> 00:04:42,260 [Hwei]
+... of magic-making. 
+
+00:04:42,260 --> 00:04:49,660 [Nicola]
+Okay, so from, from there, you, you started the traditional path of computer science? 
+
+00:04:49,660 --> 00:04:51,430 [Hwei]
+Actually, software engineering. 
+
+00:04:51,430 --> 00:04:51,500 [Nicola]
+Okay. 
+
+00:04:51,500 --> 00:05:29,810 [Hwei]
+So, um, so at that time, I was living in, uh, a small town that is, like, four hours away from the capital city, um, of Malaysia, Kuala Lumpur. And so I pick one university to go and study. Um, but, uh, so, you know, like, at that time, you do foundation in IT, and after one year, um, I, I was going to, like, computer science. But then, uh, the, the school admission says, "Hey, you are the only one who registered for computer science. Do you mind, like, changing a course?" [laughs] 
+
+00:05:29,810 --> 00:05:30,060 [Nicola]
+Okay. 
+
+00:05:30,060 --> 00:05:36,860 [Hwei]
+And so I changed, yeah, and so I changed to software engineering, um, actually software engineering with mul- with multimedia. 
+
+00:05:36,860 --> 00:05:36,870 [Nicola]
+Mm-hmm. 
+
+00:05:36,870 --> 00:05:46,750 [Hwei]
+And so in that four years, um, a fascinating tech came out, which is called, uh, AR and VR, so augmented reality and virtual reality. 
+
+00:05:46,750 --> 00:05:46,760 [Nicola]
+Mm-hmm. 
+
+00:05:46,760 --> 00:05:53,520 [Hwei]
+And so me and my friends, we were just, uh, involved in, um, like, 
+
+00:05:53,520 --> 00:06:08,200 [Hwei]
+just projects using augmented reality, and then we participated in, you know, like, Microsoft Imagine Cup and things like this. Yeah, so that was bachelor's time. Good time. [laughs] It's been some time.
+
+00:06:08,476 --> 00:06:17,715 [Nicola]
+[laughs] Nice. That's, that's exciting. And... okay. And, and then what's, what's the... what's the next, uh, next chapter? 
+
+00:06:17,716 --> 00:06:20,615 [Hwei]
+Well, the next chapter is me being a software engineer. 
+
+00:06:20,616 --> 00:06:20,875 [Nicola]
+Mm-hmm. 
+
+00:06:20,876 --> 00:06:48,996 [Hwei]
+And so after graduating from, uh, bachelor's, I was, uh, I was working in a company, uh, as a software engineer. And at that time, uh, I was basically building, um... so I'm, I'm, uh, I'm the software engineer who integrates different hardware components. So for example, um, one of the thing that I was working on is an automatic kiosk. It's like a machine- 
+
+00:06:49,056 --> 00:06:49,406 [Nicola]
+Mm-hmm 
+
+00:06:49,406 --> 00:07:13,476 [Hwei]
+... which you can renew your car license. So it's kind of like there's this interface. You use the touchscreen to pick your renewal period, and then there's this, um, cash and coin machine that you put the money in. And then there's this card printing thing, like, you know, like, um, when you renew your residence permit or your visa or anything that looks like a card- 
+
+00:07:13,476 --> 00:07:13,566 [Nicola]
+A card, uh-huh 
+
+00:07:13,566 --> 00:07:16,736 [Hwei]
+... and then needs, like, some security imprint. 
+
+00:07:16,736 --> 00:07:17,276 [Nicola]
+Mm-hmm. 
+
+00:07:17,276 --> 00:07:31,036 [Hwei]
+That's this machine for that. And then there's also another, like, receipt printing machine. And so my work is to kind of like do all the coding and the interface that integrates all of those things together. 
+
+00:07:31,036 --> 00:07:31,736 [Nicola]
+Mm-hmm. 
+
+00:07:31,736 --> 00:07:31,776 [Hwei]
+Yeah. 
+
+00:07:31,776 --> 00:07:36,086 [Nicola]
+So it was related to, to hardware in a way, right, in, in that case? 
+
+00:07:36,086 --> 00:07:40,776 [Hwei]
+Uh, yeah. Yeah. At that time, it's more like, you know, C#, .NET- 
+
+00:07:40,776 --> 00:07:40,886 [Nicola]
+Mm-hmm 
+
+00:07:40,886 --> 00:07:58,655 [Hwei]
+... time. Uh, and, and that company just happened to work more with, uh, hardware, like hardware-software integration. Like even with, like, you know, cinema ticketing kiosk or things like this. Uh, this is also kind of like, you know, linking interface with hardwares- 
+
+00:07:58,656 --> 00:07:59,126 [Nicola]
+Mm-hmm 
+
+00:07:59,126 --> 00:08:02,116 [Hwei]
+... uh, and then be used by consumers. 
+
+00:08:02,116 --> 00:08:09,176 [Nicola]
+Okay. Cool. And, and then how... because, uh, now you are... you're not in Malaysia anymore, right? 
+
+00:08:09,176 --> 00:08:11,316 [Hwei]
+Yes [laughs]. 
+
+00:08:11,316 --> 00:08:11,616 [Nicola]
+What- 
+
+00:08:11,616 --> 00:08:13,046 [Hwei]
+10 years. 
+
+00:08:13,046 --> 00:08:13,076 [Nicola]
+[laughs] 
+
+00:08:13,076 --> 00:08:15,076 [Hwei]
+10 years in Germany now. 
+
+00:08:15,076 --> 00:08:16,066 [Nicola]
+Okay. 
+
+00:08:16,066 --> 00:08:16,116 [Hwei]
+Yeah. 
+
+00:08:16,116 --> 00:08:19,426 [Nicola]
+And how, how do you like Germany? 
+
+00:08:19,426 --> 00:08:20,635 [Hwei]
+It's great. 
+
+00:08:20,636 --> 00:08:21,176 [Nicola]
+Mm-hmm. 
+
+00:08:21,176 --> 00:08:27,696 [Hwei]
+I just saw one of the first Christmas, Christmas market booths [laughs] today- 
+
+00:08:27,696 --> 00:08:27,706 [Nicola]
+Mm-hmm. Okay 
+
+00:08:27,706 --> 00:08:41,346 [Hwei]
+... that's getting set up. So, yeah, Christmas market is one of the things that I look forward each year in Germany. But yeah, Germany is... For these 10 years, I think, uh, I really have to thank this country for it because- 
+
+00:08:41,346 --> 00:08:41,346 [Nicola]
+Mm-hmm 
+
+00:08:41,346 --> 00:08:50,376 [Hwei]
+... it really, um, grows me as a person. I feel like... I, I feel like I've, I've grown a lot in these last 10 years. 
+
+00:08:50,376 --> 00:08:52,336 [Nicola]
+Really? Okay. And you, you think it- 
+
+00:08:52,336 --> 00:08:52,346 [Hwei]
+Yeah 
+
+00:08:52,346 --> 00:08:57,916 [Nicola]
+... uh, that Germany help you to, to, to grow personally? In, in which way? 
+
+00:08:57,916 --> 00:09:43,716 [Hwei]
+Mm. Yeah. I would say fundamentally, uh, because, you know, like, I, I've basically uprooted myself in one culture, one country, one environment, and I'm being put into, like, such a different environment. And so I think the greatest things that Germany has made space for me is to... is to know who I am as a person, what I prefer, what my thoughts and preferences are, and what do I want. And then I can go towards that. And so I would say in general, like this, um, individual- individuation, uh, this is what, uh, Germany has given me space to grow into. 
+
+00:09:43,716 --> 00:09:53,255 [Nicola]
+Cool. Yeah. I, I've lived in Germany as well, and I, I think there are some, some very traditional aspects of, of German culture. 
+
+00:09:53,256 --> 00:09:53,436 [Hwei]
+Mm-hmm. 
+
+00:09:53,436 --> 00:09:57,856 [Nicola]
+But also there is, um, a big part of letting 
+
+00:09:57,856 --> 00:10:00,516 [Nicola]
+everyone be who they want to be in- 
+
+00:10:00,516 --> 00:10:01,376 [Hwei]
+That's right 
+
+00:10:01,376 --> 00:10:06,576 [Nicola]
+... our weird ways. They, they accept and are very- [laughs] 
+
+00:10:06,576 --> 00:10:06,756 [Hwei]
+Yeah 
+
+00:10:06,756 --> 00:10:14,396 [Nicola]
+... very particular, you know, and there is not n- not that much judgment around that compared to- 
+
+00:10:14,396 --> 00:10:14,636 [Hwei]
+Yeah 
+
+00:10:14,636 --> 00:10:17,176 [Nicola]
+... to other countries or other cultures. Yeah. 
+
+00:10:17,176 --> 00:10:18,225 [Hwei]
+Yeah. That's right. 
+
+00:10:18,225 --> 00:10:18,236 [Nicola]
+Mm-hmm. 
+
+00:10:18,236 --> 00:10:32,116 [Hwei]
+And so, like, I, I think this is the, the right place, um, that I'm being put in to actually grow as a person. Like, I know I am not anybody's shadow this way. I'm just me. 
+
+00:10:32,116 --> 00:10:47,096 [Nicola]
+Okay, cool. I, I, I remember that, uh, you, you shared with me some, some time ago that, that maybe you realized a few, a few changes when, when you went back to, to Malaysia after, after some time, right? 
+
+00:10:47,096 --> 00:10:47,516 [Hwei]
+Mm-hmm. 
+
+00:10:47,516 --> 00:10:54,516 [Nicola]
+I, I mean, this happen to me as well when I go back to my hometown, home place. After some times I realize 
+
+00:10:54,516 --> 00:11:05,456 [Nicola]
+I've, I'm, I'm not anymore the person was... that was living there and, uh, I cannot fit anymore in that place because I've grown in different ways, right? 
+
+00:11:05,456 --> 00:11:07,816 [Hwei]
+Yeah. I think no matter where you go- 
+
+00:11:07,816 --> 00:11:07,826 [Nicola]
+Mm-hmm 
+
+00:11:07,826 --> 00:11:49,925 [Hwei]
+... if you are an expat, um, you feel like the version of home that you... that, that you were familiar with but you leave, um, will just be a snapshot in the past because, I mean, Malaysia has grown so much in these recent years. And so I think as an expat, no matter where you go, um, you feel like you never belong in the place that, um, you grow into but you're also never home anymore because home has, has also evolved. But I don't think that is... I don't think there's any issue with that because- 
+
+00:11:49,925 --> 00:11:49,925 [Nicola]
+Mm-hmm 
+
+00:11:49,925 --> 00:12:29,520 [Hwei]
+... this is the path that all of us expats have chosen and what's most important is to... as long as you are feeling you, uh, and as long as you're living authentically, home is where you are. Home is not the snapshot that you're left alone with. Home is also not like j-You, you don't necessarily feel like 100% fitting in, uh, into anything. But I am pretty sure, like, a lot of locals will also share that, uh, maybe they also don't feel like they fit into the place that they have been, like, growing up in. 
+
+00:12:29,520 --> 00:12:30,060 [Nicola]
+Mm-hmm. 
+
+00:12:30,060 --> 00:12:45,039 [Hwei]
+So I think essentially having this, having this experience just teaches to realize that, to realize that home is really where you are. 
+
+00:12:45,039 --> 00:12:50,199 [Nicola]
+Yeah. That's, [laughs] that's, that's the goal, right? I mean, to, to 
+
+00:12:50,199 --> 00:12:58,480 [Nicola]
+build your home where, where you are, um, be, be good with, with you, which is a journey in, in itself, I, I guess. 
+
+00:12:58,480 --> 00:12:59,480 [Hwei]
+Mm. Yeah. 
+
+00:12:59,480 --> 00:13:01,099 [Nicola]
+Yeah. Interesting. 
+
+00:13:01,099 --> 00:13:02,380 [Hwei]
+[laughs] 
+
+00:13:02,380 --> 00:13:08,240 [Nicola]
+And where, where in all this, um, AI fits? [laughs] 
+
+00:13:08,240 --> 00:13:39,140 [Hwei]
+Oh, okay. What, what did we... where we... what, what did we, uh, have the story last time? Yeah, software engineering, and I came to Germany to study, um, intelligent adaptive systems. So I started my master's in the University of Hamburg in 2015, so [laughs] 10 years ago. Um, yeah. So, uh, that is, um, that three years, uh, is such a eye-opener because- 
+
+00:13:39,140 --> 00:13:39,150 [Nicola]
+Mm-hmm 
+
+00:13:39,150 --> 00:13:43,620 [Hwei]
+... because that's when I really learned the ins and outs, like, 
+
+00:13:43,620 --> 00:14:02,500 [Hwei]
+hardcore research and application of machine learning, deep learning. I was working on this, uh, humanoid robotics projects and some sensors, you know, pairing that with machine learning and training humanoid robotics and doing computer vision and all that. 
+
+00:14:02,500 --> 00:14:10,900 [Nicola]
+What, what do you think of, uh, the last, um, humanoid robot thing that, um, came out last week, I think? 
+
+00:14:10,900 --> 00:14:11,680 [Hwei]
+Mm-hmm. 
+
+00:14:11,680 --> 00:14:13,579 [Nicola]
+This, to me, weird- 
+
+00:14:13,579 --> 00:14:14,180 [Hwei]
+[laughs] 
+
+00:14:14,180 --> 00:14:20,540 [Nicola]
+... robot with the, with the sweater that... [laughs] You know, the Neo, Neo, I think it's called, the Neo- 
+
+00:14:20,540 --> 00:14:21,000 [Hwei]
+Yeah 
+
+00:14:21,000 --> 00:14:22,240 [Nicola]
+... something. 
+
+00:14:22,240 --> 00:14:22,699 [Hwei]
+Yeah. 
+
+00:14:22,699 --> 00:14:22,740 [Nicola]
+Yeah. 
+
+00:14:22,740 --> 00:14:29,359 [Hwei]
+I wouldn't give up things, but the, the, the humanoid robot, uh, the humanoid robot that I was working on- 
+
+00:14:29,359 --> 00:14:29,459 [Nicola]
+Mm-hmm 
+
+00:14:29,459 --> 00:14:32,319 [Hwei]
+... uh, also starts with N. [laughs] So- 
+
+00:14:32,319 --> 00:14:34,280 [Nicola]
+Okay. 
+
+00:14:34,339 --> 00:14:36,300 [Nicola]
+Interesting. 
+
+00:14:36,300 --> 00:14:37,020 [Hwei]
+Um, yeah. 
+
+00:14:37,020 --> 00:14:37,920 [Nicola]
+Mm-hmm. 
+
+00:14:37,920 --> 00:14:44,280 [Hwei]
+Um, you, you guys sorta share very similar names. Um, but then 
+
+00:14:44,339 --> 00:14:46,819 [Hwei]
+when I think about that version of the robot- 
+
+00:14:46,819 --> 00:14:47,459 [Nicola]
+Mm-hmm 
+
+00:14:47,459 --> 00:14:48,550 [Hwei]
+... with this version- 
+
+00:14:48,550 --> 00:14:48,550 [Nicola]
+Yeah 
+
+00:14:48,550 --> 00:14:54,800 [Hwei]
+... I think it, it, it needs some... 
+
+00:14:54,859 --> 00:14:56,720 [Hwei]
+maybe give it five more years- 
+
+00:14:56,720 --> 00:14:56,730 [Nicola]
+Yeah 
+
+00:14:56,730 --> 00:15:15,740 [Hwei]
+... uh, for another breakthrough. Um, I think it's more like maybe humanoid robotic is definitely being a little bit, you know, needing... it is needing more time for all the non-deterministic situations, non-deterministic scenarios in real life. Um, 
+
+00:15:15,740 --> 00:15:18,359 [Hwei]
+so I feel that, 
+
+00:15:18,359 --> 00:15:20,359 [Hwei]
+yeah. [laughs] 
+
+00:15:20,359 --> 00:15:21,609 [Nicola]
+It takes much more- 
+
+00:15:21,609 --> 00:15:21,619 [Hwei]
+If, if- 
+
+00:15:21,619 --> 00:15:24,900 [Nicola]
+... time than, than people expect, right? 
+
+00:15:24,900 --> 00:15:31,000 [Hwei]
+Yeah, but I think it's also the, the, the perception, the audience perception of it. 
+
+00:15:31,000 --> 00:15:31,220 [Nicola]
+Mm-hmm. 
+
+00:15:31,220 --> 00:15:35,550 [Hwei]
+Because humanoid robotics, it can, it can be borderline like uncanny, you know? 
+
+00:15:35,550 --> 00:15:35,660 [Nicola]
+Yeah. 
+
+00:15:35,660 --> 00:15:42,319 [Hwei]
+And so, [laughs] and so, mm, the, the mode of presentation has to be a little bit careful because- 
+
+00:15:42,319 --> 00:15:42,760 [Nicola]
+Mm-hmm 
+
+00:15:42,760 --> 00:15:53,730 [Hwei]
+... if you, if you present things like, "Hey, you have a person that is maneuvering the robot," which means, like, what about the privacy side? I, I, uh- 
+
+00:15:53,730 --> 00:15:53,740 [Nicola]
+Yeah. 
+
+00:15:53,740 --> 00:15:54,930 [Hwei]
+[laughs] Sorry. 
+
+00:15:54,930 --> 00:15:56,420 [Nicola]
+That, that's definitely- 
+
+00:15:56,420 --> 00:15:56,430 [Hwei]
+Mm-hmm 
+
+00:15:56,430 --> 00:15:57,949 [Nicola]
+... unexpected. [laughs] 
+
+00:15:57,949 --> 00:15:58,640 [Hwei]
+[laughs] 
+
+00:15:58,640 --> 00:15:58,859 [Nicola]
+Yeah. 
+
+00:15:58,859 --> 00:16:02,000 [Hwei]
+Yeah. But I think that is the safest way for the team- 
+
+00:16:02,000 --> 00:16:02,119 [Nicola]
+Uh-huh 
+
+00:16:02,119 --> 00:16:06,180 [Hwei]
+... to actually s- um, 
+
+00:16:06,180 --> 00:16:11,260 [Hwei]
+in a, in a more controllable way ensuring the accuracy of- 
+
+00:16:11,260 --> 00:16:11,270 [Nicola]
+Mm-hmm 
+
+00:16:11,270 --> 00:16:54,180 [Hwei]
+... the humanoid robot. And so I would give it some grace, but I also totally understand how uncanny it can feel when, when us just put ourself in the shoes of the consumer, of the user, and then extrapolate this presentation into what might be in the future. Um, so yeah, if you're, if anybody is thinking about, you know, "Shit, the future is doom," [laughs] I can totally understand. Like, this is just a, I think the handling of the presentation into what the audience might feel like that, that, that, that can be more considerate. 
+
+00:16:54,180 --> 00:17:02,140 [Nicola]
+Yeah. Because the, the, the end goal, I mean, not, not everyone will, will see it the same way, but 
+
+00:17:02,140 --> 00:17:32,780 [Nicola]
+most people would love to have someone, if it is a robot, it's fine, to then do all the household stuff for you, right? That, that, that is great. But it... I feel the technology would need more time than, than expected, even if... Elon Musk, I think, was saying that in the next few years will be there in every home, something like that. But you have been working, for example, um, on this from 2015, right? 
+
+00:17:32,780 --> 00:17:33,540 [Hwei]
+Mm-hmm. 
+
+00:17:33,600 --> 00:17:44,040 [Nicola]
+And you, you think, uh, it has advanced a lot in these 10 years or it's a long incremental journey? 
+
+00:17:44,040 --> 00:17:46,409 [Hwei]
+I don't think it's going to be incremental. 
+
+00:17:46,409 --> 00:17:46,480 [Nicola]
+Mm-hmm. 
+
+00:17:46,480 --> 00:18:05,720 [Hwei]
+I think it's going to be exponential, uh, from the rate of development. Um, I think it still depends on how the world is moving and being somebody who have worked briefly, um, 
+
+00:18:05,800 --> 00:18:17,940 [Hwei]
+in humanoid robotics afterwards, I mean, I have some years in research, um, also in synthetic patient data generation field.What I think is 
+
+00:18:17,940 --> 00:18:33,639 [Hwei]
+I can almost hear two sides of things. Um, one is the voice of the rest of the world who are not in the research and who are not in the work, uh, having to apply it. Their, their concern is real. 
+
+00:18:33,639 --> 00:18:33,800 [Nicola]
+Mm-hmm. 
+
+00:18:33,800 --> 00:18:58,820 [Hwei]
+And so that should not be ignored. That should be leaned in and listened to. It has to be a dialogue, um, for how this, um, for how this can be done in a way that essentially is affecting everybody, to be honest. Um, and people, like, voices from all sides has to be considered. 
+
+00:18:58,820 --> 00:18:59,850 [Nicola]
+Mm-hmm. 
+
+00:18:59,850 --> 00:19:21,520 [Hwei]
+Um, but then on the other hand, um, for us who are the practitioners of the field, of the tech, I see a lot of possibilities. I see a lot of values to be done, um, especially in the work that I do for clients right now. Um, what I see is 
+
+00:19:21,520 --> 00:19:25,120 [Hwei]
+intention really matters, and 
+
+00:19:25,120 --> 00:19:31,020 [Hwei]
+what problems are you solving and for who. Um, 
+
+00:19:31,020 --> 00:19:43,060 [Hwei]
+humans have to come up with this first and foremost, and then the tech comes in to, you know, make it, make it happen in reality. And so 
+
+00:19:43,060 --> 00:20:17,459 [Hwei]
+I think what we can control right now is whoever is needing the solution and whoever, like us, is executing or implementing these solutions, figuring out for what and for who, it's kinda our due diligence. Um, and when it's done right, I do see a lot of possibilities, uh, with the current LLM advancements. Uh, and it's just like the, the, the, the general, um, you know, Gen-AI feel- 
+
+00:20:17,460 --> 00:20:17,560 [Nicola]
+Mm-hmm 
+
+00:20:17,620 --> 00:20:22,260 [Hwei]
+... how it's evolving. Uh, it, it is really fascinating. 
+
+00:20:22,260 --> 00:20:27,049 [Nicola]
+Yeah. I mean, we, we of course sh- share this fascination, right? 
+
+00:20:27,049 --> 00:20:27,070 [Hwei]
+Yeah. 
+
+00:20:27,070 --> 00:21:20,120 [Nicola]
+Because we see all the possibilities. Um, but in the, in the last years as this has become a universal phenomenon and everybody is, is talking about generative AI and all this stuff, there are all sorts of, of voices and things going on. Uh, people are s- scared or are, um, thoughts around, you know, all these things. AGI will, will take, um, many jobs and political things going on. So it's, it's a mess, right? [laughs] We, we enjoy it because we, we like to build things. I think that's, that's the spirit, and we see it just, uh, as a technology, right? Um, but most people which are not into this will hear the news, hear whatever, and 
+
+00:21:20,120 --> 00:21:23,820 [Nicola]
+understand what they, what they can with, with the information that they have. 
+
+00:21:23,820 --> 00:21:23,859 [Hwei]
+Mm-hmm. 
+
+00:21:23,860 --> 00:21:36,159 [Nicola]
+So there is definitely a bridge there, uh, to, to... There is a gap to, to, to fill between these two, uh, worlds, right? 
+
+00:21:36,159 --> 00:21:36,300 [Hwei]
+Yeah. 
+
+00:21:36,300 --> 00:22:09,159 [Nicola]
+And, um, yeah, I guess as you were saying, it's, it's important to, to pick the, the right things, uh, in a way and do it well, but also communicate it in, in, in the right way, uh, so that people understand and don't have a weird expectation or fears, you know. Is that something that, that, that you feel... that the, that you feel, uh, when, when you work with, with clients or, uh, interact with, uh, less technical people? 
+
+00:22:09,159 --> 00:22:16,420 [Hwei]
+You mean, uh, when dea- when communicating with less technical clients- 
+
+00:22:16,420 --> 00:22:16,879 [Nicola]
+Mm-hmm 
+
+00:22:16,879 --> 00:22:20,440 [Hwei]
+... um, am I understanding correctly that 
+
+00:22:20,440 --> 00:22:29,139 [Hwei]
+do you think I feel that they care about the for what and for who, or how should I, how should I understand your question? 
+
+00:22:29,139 --> 00:22:44,820 [Nicola]
+Yeah. Uh, if, if you, you feel that there is, um, a disconnection between, um, how you see this technology and what, uh, less technical people expect from the technology or- 
+
+00:22:44,820 --> 00:22:44,889 [Hwei]
+Mm-hmm 
+
+00:22:44,889 --> 00:22:53,500 [Nicola]
+... what they, um, uh, think about it. If they have fears or, um, 
+
+00:22:53,500 --> 00:22:55,400 [Nicola]
+how do you say that? Yeah. 
+
+00:22:55,400 --> 00:23:00,438 [Hwei]
+For the clients that ca- I come across, usually, um, 
+
+00:23:00,440 --> 00:23:11,659 [Hwei]
+usually it is not like I go and pitch that they need a solution. It's more like they come to me that says they need a solution. And so I would say in my biased 
+
+00:23:11,659 --> 00:23:32,499 [Hwei]
+small sample size experience, um, there's less fear when a client comes to me and said they need a certain solution to be made. Um, there can be, you know, the application of machine learning or even, like, statistics, um, like traditional, uh, data insights- 
+
+00:23:32,500 --> 00:23:32,600 [Nicola]
+Mm-hmm 
+
+00:23:32,600 --> 00:24:10,240 [Hwei]
+... predictive modeling or the bridge of, like, taking predictive modeling insights and then pair that with, um, LLM generation based on these insights. Um, but usually when they come to me, they already know what they want. But then it's up to us to say, "Okay, what is the best way to go about it? Do we care enough for the project to carry on a good work for the client? Is the for what and for who aligned with the implementer as well?" It's like, "Do I feel proud to put this piece of project in my portfolio?" 
+
+00:24:10,240 --> 00:24:10,980 [Nicola]
+Mm-hmm. 
+
+00:24:10,980 --> 00:24:20,420 [Hwei]
+Uh, I think this is then regarding the fit, and if it doesn't fit, just feel free to, you know, uh, politely excuse yourself of this opportunity. 
+
+00:24:20,420 --> 00:24:20,720 [Nicola]
+Mm-hmm. 
+
+00:24:20,720 --> 00:24:39,950 [Hwei]
+Uh, but then, um, what I am striving for is...I try to do things that, that are for good because this is part of my values. But for good is also kind of like, hey, it's... it can be anything. Um- 
+
+00:24:39,950 --> 00:24:40,650 [Nicola]
+Yeah. 
+
+00:24:40,650 --> 00:24:45,190 [Hwei]
+[laughs] But for me, it's kind of like 
+
+00:24:45,190 --> 00:25:00,030 [Hwei]
+something that I told, told a lot of our members, our community members, is when you look back at the things that you do, even as a freelancer, content creator or whatnot, um, it's okay to feel cringe, but you don't really want to feel shame. 
+
+00:25:00,030 --> 00:25:01,450 [Nicola]
+Mm-hmm. Mm-hmm. 
+
+00:25:01,450 --> 00:25:02,970 [Hwei]
+And so it's kind of like- 
+
+00:25:02,970 --> 00:25:02,980 [Nicola]
+I see 
+
+00:25:02,980 --> 00:25:04,830 [Hwei]
+... intention matters. 
+
+00:25:04,830 --> 00:25:13,070 [Nicola]
+Okay. So what's, what's an example of something that you have been... you have worked on that you are proud of it? 
+
+00:25:13,070 --> 00:25:14,190 [Hwei]
+Quite many. 
+
+00:25:14,190 --> 00:25:14,430 [Nicola]
+Mm-hmm. 
+
+00:25:14,430 --> 00:25:25,110 [Hwei]
+So right now, I am developing a, an automated tool for a consumer goods company to 
+
+00:25:25,110 --> 00:25:44,530 [Hwei]
+help their data scientists come up with stability tests. So basically, stability test is like, um, you know, when consumer goods have a expiry date, they have to really, like, test their products over some time and then use some algorithm to come up with, um, expiry date. So- 
+
+00:25:44,530 --> 00:25:44,540 [Nicola]
+Okay 
+
+00:25:44,540 --> 00:26:11,480 [Hwei]
+... to me, I feel like this is a meaningful project because I get to save the data scientist's time, who come up with expiry date for consumer goods, which these consumer goods will be used by many, many people. And then another project that I help, uh, to do is, um, the, the pollutants monitoring of the Rhinewater, uh, system. 
+
+00:26:11,480 --> 00:26:11,540 [Nicola]
+Mm-hmm. Okay. 
+
+00:26:11,540 --> 00:26:27,250 [Hwei]
+So basically, like, um, basically, like, part of Germany and the Netherlands share the same water system. And then, um, I help build sort of like a predictive modeling 
+
+00:26:27,250 --> 00:26:28,529 [Hwei]
+tool 
+
+00:26:28,530 --> 00:27:01,510 [Hwei]
+to kind of like say, "Hey, can we..." You know, it's all sparse data, so... And then data is kind of like inconsistent and everything, so a lot of processing is involved. But that tool now managed to, uh, kind of like predict pollutants in time to say like, "Hey, when a pollutant is being detected abnormally at upstream rivers, then by this and this time, it, it's going to flow to the border to the Netherlands," and things like this. 
+
+00:27:01,510 --> 00:27:01,670 [Nicola]
+Mm-hmm. 
+
+00:27:01,670 --> 00:27:05,190 [Hwei]
+And so this is something that 
+
+00:27:05,190 --> 00:27:23,840 [Hwei]
+when being used correctly can really benefit maybe the lives of a region of people. Like, I don't know... I don't know the future usage of this tool, but the implementation of it, the intention behind developing these kind of tools, uh, f- to me- 
+
+00:27:23,840 --> 00:27:27,090 [Nicola]
+So in this project... Ooh, sorry to interrupt. 
+
+00:27:27,090 --> 00:27:28,530 [Hwei]
+No. Oh, good, oh, good. So- 
+
+00:27:28,530 --> 00:27:28,739 [Nicola]
+Just to see- 
+
+00:27:28,739 --> 00:27:31,140 [Hwei]
+This is one of the, one of the- 
+
+00:27:31,140 --> 00:27:31,140 [Nicola]
+Ah 
+
+00:27:31,140 --> 00:27:35,770 [Hwei]
+... examples of saying some of the projects that I feel proud of. 
+
+00:27:35,770 --> 00:27:56,710 [Nicola]
+Yeah, yeah, that, that, that makes sense. Just, um, explain a bit, uh, the, the difference because that's where I think it gets confusing for, for people. For example, for this last project, is it, um, generative AI? Is it deep learning? It is traditional machine learning? Um- 
+
+00:27:56,710 --> 00:27:58,970 [Hwei]
+Yeah, statistical machine learning. 
+
+00:27:58,970 --> 00:28:01,570 [Nicola]
+Okay. What does it mean? 
+
+00:28:01,570 --> 00:28:05,030 [Hwei]
+It is not even 
+
+00:28:05,030 --> 00:28:12,570 [Hwei]
+the classical machine learning. Like, we just use statistics as the background algorithm of it. 
+
+00:28:12,570 --> 00:28:14,370 [Nicola]
+Okay, so 
+
+00:28:14,370 --> 00:28:15,370 [Hwei]
+No GenAI. 
+
+00:28:15,370 --> 00:28:16,130 [Nicola]
+Mm-hmm. 
+
+00:28:16,130 --> 00:28:18,570 [Hwei]
+No deep learning. 
+
+00:28:18,570 --> 00:28:24,140 [Hwei]
+No neural networks. [laughs] Not even random forests. 
+
+00:28:24,140 --> 00:28:24,170 [Nicola]
+Hmm. 
+
+00:28:24,170 --> 00:28:26,390 [Hwei]
+It's just pure statistics. 
+
+00:28:26,390 --> 00:28:27,690 [Nicola]
+Yeah. [laughs] 
+
+00:28:27,690 --> 00:28:31,450 [Hwei]
+Oftentimes, this is just enough to solve the problem reliably. 
+
+00:28:31,450 --> 00:28:37,870 [Nicola]
+Mm-hmm, mm-hmm. Because, uh, there is maybe a tendency now to use 
+
+00:28:37,870 --> 00:28:41,510 [Nicola]
+generative AI with these large language models for- 
+
+00:28:41,510 --> 00:28:42,290 [Hwei]
+Mm-hmm 
+
+00:28:42,290 --> 00:28:49,169 [Nicola]
+... to solve any kind of problems. Or I... there is this, um, possibility at least, right? 
+
+00:28:49,170 --> 00:28:49,570 [Hwei]
+Mm-hmm. 
+
+00:28:49,570 --> 00:29:02,410 [Nicola]
+And, um, from simple things like using ChatGPT as a, as a consumer, as a user, and you're asking it to, to translate apple to Italian- 
+
+00:29:02,410 --> 00:29:02,630 [Hwei]
+Yeah 
+
+00:29:02,630 --> 00:29:08,880 [Nicola]
+... and, and it's like using, um, I don't know, atomic bomb to, to- 
+
+00:29:08,880 --> 00:29:09,140 [Hwei]
+[laughs] 
+
+00:29:09,140 --> 00:29:10,620 [Nicola]
+... kill a mosquito, right? I've, I've- 
+
+00:29:10,620 --> 00:29:10,620 [Hwei]
+Yeah. [laughs] 
+
+00:29:10,620 --> 00:29:13,930 [Nicola]
+... heard someone saying that. [laughs] 
+
+00:29:13,930 --> 00:29:13,940 [Hwei]
+[laughs] 
+
+00:29:13,940 --> 00:29:23,010 [Nicola]
+Because we, we... I mean, we can think about it, but, um, the normal people using ChatGPT doesn't realize that 
+
+00:29:23,010 --> 00:29:38,490 [Nicola]
+it's, it's a huge technology, right? There are data centers and, uh, transformers and all, uh... incredible technology behind it that transfer for every simple, uh, conversation that you have- 
+
+00:29:38,490 --> 00:29:38,500 [Hwei]
+Mm-hmm 
+
+00:29:38,500 --> 00:29:40,450 [Nicola]
+... with ChatGPT, right? 
+
+00:29:40,450 --> 00:29:40,590 [Hwei]
+Mm-hmm. 
+
+00:29:40,590 --> 00:29:51,150 [Nicola]
+While for many, many things, it's not needed that, that so intelligent technology, you know, what I mean? 
+
+00:29:51,150 --> 00:29:55,870 [Hwei]
+Yeah, but I would say that's a big distinction between- 
+
+00:29:55,930 --> 00:29:56,300 [Nicola]
+Mm-hmm 
+
+00:29:56,300 --> 00:30:17,050 [Hwei]
+... um, between the predictive modeling models with, uh, GenAI or LM models because predictive modeling is largely discriminative models. And then the LM, like the things that, you know, ChatGPT or whoever's coined a term like AI- 
+
+00:30:17,050 --> 00:30:17,099 [Nicola]
+Mm-hmm 
+
+00:30:17,099 --> 00:31:25,290 [Hwei]
+... the big umbrella term, they are largely generative. And so they have different usage. So in, in, in terms of, like, what you said, it's-... you know, I, I want to do translation. Then a generative model can do that very well because, um, you know, you can, you can put, like, a, like a, you know, good prompt and then it's going to come up with an equivalent version of, like, the translation. But then in predictive modeling projects, what it needs is not creativity. What this needs is not generating new stuff, but to reliably, based on past data points, to accurately predict things. So if you take time series forecasting as an example, uh, maybe they have very sparse data, they don't need a model, like an LM, to tell, "Hey, can you help me detect anomalies at which point in time when this happens?" Because a generative model is most likely to make things up. 
+
+00:31:25,290 --> 00:31:26,110 [Nicola]
+Mm-hmm. 
+
+00:31:26,110 --> 00:31:47,920 [Hwei]
+But a predictive model or discriminative model, it's going to train the model based on the past data and then if the quality is good and if the model is... ha- has been trained successfully, it can then accurately predict in time, uh, what would be the... what would the anomal- a mono- [laughs] anomaly be. 
+
+00:31:47,920 --> 00:31:48,750 [Nicola]
+Anomaly. Mm-hmm. 
+
+00:31:48,750 --> 00:31:49,580 [Hwei]
+Yeah. 
+
+00:31:49,580 --> 00:31:49,630 [Nicola]
+Yeah. 
+
+00:31:49,630 --> 00:31:54,550 [Hwei]
+So they are for kind of, like, different usage and that is why 
+
+00:31:54,550 --> 00:32:13,530 [Hwei]
+I think there are certain use cases for, um, LMs. There are certain use cases that, um, the discriminative machine learning models or statistical models will still be in, in demand because they are inherently for different, different things. 
+
+00:32:13,530 --> 00:32:17,250 [Nicola]
+Mm-hmm. And, and for you, what's, 
+
+00:32:17,250 --> 00:32:33,490 [Nicola]
+what's the, the current or, or next thing that you would like to, to work on? What's, what that excites you right now? What are you, um, I don't know, experimenting with for a future client project or... 
+
+00:32:33,490 --> 00:32:41,950 [Hwei]
+Um, I think right now I would still focus on becoming a s- problem solver for worthy problems. 
+
+00:32:41,950 --> 00:32:42,010 [Nicola]
+Okay. 
+
+00:32:42,010 --> 00:33:02,770 [Hwei]
+So for every project that comes, um, it's important for me to, to satisfy, like, to be convinced of the for what and for who. So if you, if you come with me that says, "Hey, we, we, we want a water pollutant monitoring system-" 
+
+00:33:02,770 --> 00:33:02,970 [Nicola]
+Mm-hmm 
+
+00:33:02,970 --> 00:33:11,610 [Hwei]
+"... to do this and it's going to be used by, uh, used by this and this person." If 
+
+00:33:11,610 --> 00:33:53,690 [Hwei]
+I feel convinced of this, like, okay, like goes aligns with my values, then I'm going to say yes. Because to me, based on my previous experience in academia, in industry, I know where to look for solutions. And so it's like right now, the tools that I have, eh, in my toolbox is machine learning, deep learning, statistics, LMs, AI engineering. And so for all of those things paired with software engineering, you can basically look for any solution. You can, you can come up with any solutions. But what I think is, um, 
+
+00:33:53,690 --> 00:34:03,290 [Hwei]
+it... as long as there's a worthy problem to solve, then it doesn't matter what does it take, because every 
+
+00:34:03,290 --> 00:34:14,290 [Hwei]
+freelance project that I'm taking on, it's just so different. Like right now I am building a R Shiny dashboard, which I've, like, never done that before. [laughs] 
+
+00:34:14,290 --> 00:34:16,130 [Nicola]
+A what? Say it again. 
+
+00:34:16,130 --> 00:34:19,850 [Hwei]
+It's a R Shiny dashboard. So you know Python and you know R? 
+
+00:34:19,850 --> 00:34:20,810 [Nicola]
+Mm-hmm. 
+
+00:34:20,810 --> 00:34:23,850 [Hwei]
+And then you know Streamlit? 
+
+00:34:23,850 --> 00:34:24,790 [Nicola]
+Yeah. 
+
+00:34:24,790 --> 00:34:28,060 [Hwei]
+So Streamlit is like a dashboard that is made in Python, right? 
+
+00:34:28,060 --> 00:34:28,070 [Nicola]
+Mm-hmm. 
+
+00:34:28,070 --> 00:34:33,409 [Hwei]
+And then R Shiny is the Streamlit version but made by R. 
+
+00:34:33,409 --> 00:34:34,409 [Nicola]
+Okay. So for, for- 
+
+00:34:34,409 --> 00:34:37,219 [Hwei]
+Yeah. And that's... that is client's requirement. 
+
+00:34:37,219 --> 00:34:43,909 [Nicola]
+[laughs] yeah. For someone that has no idea about this, it is, it is what... how would you describe it? A dashboard? 
+
+00:34:43,909 --> 00:34:45,429 [Hwei]
+It is a web app. 
+
+00:34:45,429 --> 00:34:46,529 [Nicola]
+Okay. 
+
+00:34:46,529 --> 00:34:51,230 [Hwei]
+Yeah, it is a web app that is being powered by a programming language called R. 
+
+00:34:51,230 --> 00:34:51,270 [Nicola]
+Mm-hmm. 
+
+00:34:51,270 --> 00:35:24,950 [Hwei]
+So R is used for, you know, more statistical things and then it... the, the web app version, um, works, incorporate, uh, perfectly with the client's internal system and that is why it is their requirements. And so back to your question is kind of like it doesn't matter what problem for me to solve, I know I have the toolbox, I, I have enough cards to pull out and, eh, m- fundamentally I know where to look for solutions. [laughs] Um, and so for me right now- 
+
+00:35:25,010 --> 00:35:25,730 [Nicola]
+Got it. Mm-hmm 
+
+00:35:25,730 --> 00:35:42,288 [Hwei]
+... I, ri- right now it's kind of like, yeah, if a data science problem comes to me, then great. If a predictive modeling plus LM, um, project comes to me, then great. Um, I'm just looking for worthy problems to solve. 
+
+00:35:42,290 --> 00:35:43,870 [Nicola]
+So 
+
+00:35:43,870 --> 00:35:49,050 [Nicola]
+back to, to your beginning, now you know how to make the magic happen. 
+
+00:35:49,050 --> 00:35:49,430 [Hwei]
+[laughs] 
+
+00:35:49,430 --> 00:35:56,510 [Nicola]
+So you're more focused on make sure that it aligns with you, right? Eh, you keep repeating this- 
+
+00:35:56,510 --> 00:35:56,930 [Hwei]
+Mm-hmm 
+
+00:35:56,930 --> 00:36:00,450 [Nicola]
+... for, for what and for, for who. 
+
+00:36:00,450 --> 00:36:01,320 [Hwei]
+Yeah. 
+
+00:36:01,320 --> 00:36:16,150 [Nicola]
+Uh, and so you, you, you just search for alignment there, that's the important part for you, and then you know that you'll, you'll... you have so many tools now, uh, that you can find a solution, right? 
+
+00:36:16,150 --> 00:36:19,560 [Hwei]
+Yeah. That's a very good, uh, depiction- 
+
+00:36:19,560 --> 00:36:19,610 [Nicola]
+[laughs] 
+
+00:36:19,610 --> 00:36:21,050 [Hwei]
+... of where I'm going. 
+
+00:36:21,050 --> 00:36:21,060 [Nicola]
+Yeah. 
+
+00:36:21,060 --> 00:36:28,779 [Hwei]
+Uh, I'm also... I'm also interested to, you know, like go back to my main expertise, which is computer vision. I feel like that is getting- 
+
+00:36:28,779 --> 00:36:28,779 [Nicola]
+Mm-hmm 
+
+00:36:28,779 --> 00:36:33,790 [Hwei]
+... so much less practice since I left, uh, my master's degree.
+
+00:36:34,506 --> 00:36:35,446 [Nicola]
+Okay. 
+
+00:36:35,446 --> 00:36:35,466 [Hwei]
+Yeah. 
+
+00:36:35,466 --> 00:36:38,605 [Nicola]
+So you would like to work on that again? Mm-hmm. 
+
+00:36:38,606 --> 00:36:41,446 [Hwei]
+Yeah, it would be great. It's so fun. 
+
+00:36:41,446 --> 00:36:42,625 [Nicola]
+Yeah. 
+
+00:36:42,626 --> 00:36:43,006 [Hwei]
+Yeah. 
+
+00:36:43,006 --> 00:36:45,216 [Nicola]
+Yeah. Search for it, right? They are... [laughs] 
+
+00:36:45,216 --> 00:36:52,826 [Hwei]
+Yeah. [laughs] Just need some good portfolio items and then I will start applying. [laughs] 
+
+00:36:52,826 --> 00:37:00,286 [Nicola]
+Cool. And, um, the, I guess the, the other, correct me if I'm wrong, the other 
+
+00:37:00,286 --> 00:37:08,666 [Nicola]
+big part for, for you, uh, I don't know if it is half-half or, or different, is helping other people 
+
+00:37:08,666 --> 00:37:11,366 [Nicola]
+in their freelancing or- 
+
+00:37:11,366 --> 00:37:11,446 [Hwei]
+Mm-hmm 
+
+00:37:11,446 --> 00:37:14,186 [Nicola]
+... business, uh, journey, right? How, how- 
+
+00:37:14,186 --> 00:37:15,586 [Hwei]
+Yeah, that's how we met. [laughs] 
+
+00:37:15,586 --> 00:37:26,866 [Nicola]
+Yeah. That's how we met, yes. [laughs] And, and yeah you shared with me many things with, about personal growth and 
+
+00:37:26,866 --> 00:37:34,386 [Nicola]
+everything related to this kind of journey. But how, how it started for you, uh, when, when you decided to- 
+
+00:37:34,386 --> 00:37:35,086 [Hwei]
+For the coaching? 
+
+00:37:35,086 --> 00:37:44,846 [Nicola]
+I guess before then that, uh, from what, what I know about your journey, when did you 
+
+00:37:44,846 --> 00:37:53,606 [Nicola]
+started to have the desire or, or conviction to, uh, be a freelancer, be independent, uh, something- 
+
+00:37:53,606 --> 00:37:53,636 [Hwei]
+Hmm 
+
+00:37:53,636 --> 00:37:55,266 [Nicola]
+... happened there?
+
+00:37:56,446 --> 00:38:08,046 [Nicola]
+ So the first time that I, I dabble into freelancing was 2020. And at that time... So I [laughs] continue on the story, uh, that- 
+
+00:38:08,046 --> 00:38:08,056 [Nicola]
+Yeah 
+
+00:38:08,056 --> 00:38:09,066 [Hwei]
+... we left off just now. 
+
+00:38:09,066 --> 00:38:09,566 [Nicola]
+Uh-huh. 
+
+00:38:09,566 --> 00:38:13,326 [Hwei]
+I, I studied three years, uh, for my master's- 
+
+00:38:13,326 --> 00:38:14,046 [Nicola]
+Mm-hmm 
+
+00:38:14,046 --> 00:39:01,426 [Hwei]
+... uh, in intelligent adaptive systems. And afterwards I took on a full-time job as a data science consultant, which means my company sent me to different organizations and enterprises across Germany to work on data science projects, um, for those companies. And afterwards, um, in 2020, shortly before that, I feel like this doesn't align with me so much, and so I quit. Um, and as said like, I, I really want to, you know, like try to be, you know, establishing myself and see, um, how is it being self-employed. Um, and I tried that. Um, but at that time, I feel like 
+
+00:39:01,426 --> 00:39:23,326 [Hwei]
+it's also like... How do you say? It's also like an opportunity come by where back in my master's time, I was already interested in things to do with medical healthcare with machine learning. And in the middle of doing freelancing, this PhD opportunity came to me. 
+
+00:39:23,326 --> 00:39:58,125 [Hwei]
+And so I took on this PhD opportunity and working that many hours, which means I have to t-, uh, you know, like give up on freelancing. Uh, but then I only took on this, uh, research position for two years and then I decided to quit again. So first freelancing experience is in 2020. Like it doesn't last very long. I think at most like half a year, one year. And then I started properly, um, after I ended the contract on this research position. Um, and that was 
+
+00:39:58,126 --> 00:40:05,006 [Hwei]
+maybe 2024. Oh, wait. 
+
+00:40:05,006 --> 00:40:08,196 [Hwei]
+2023, 2024. '03 or '04. 
+
+00:40:08,196 --> 00:40:08,206 [Nicola]
+Okay. 
+
+00:40:08,206 --> 00:40:09,685 [Hwei]
+So 
+
+00:40:09,686 --> 00:40:54,345 [Hwei]
+I was being given a golden opportunity again because that time Dave just happens to open up this data freelancer program. And then I had the privilege to join the program, uh, in the first year. And I could still remember how much Dave and the community has helped me. You know, in the first year it's a smaller group and everybody is kind of like very close together. Um, and Dave is like hosting those Q&A calls like he still does, um, today. And then I, I started freelancing properly using what was being taught in the program. Like I essentially apply, try to apply everything. Um, 
+
+00:40:54,345 --> 00:40:58,346 [Hwei]
+and a year after that, I think 
+
+00:40:58,406 --> 00:41:00,226 [Hwei]
+a year 
+
+00:41:00,226 --> 00:41:34,766 [Hwei]
+after that, then Dave just says, "Hey, we need a customer success manager and coach." [laughs] "Um, would you be interested to take on this position?" And then I was, uh, I was just being humbled by the trust that Dave, uh, put on me. I feel like Dave, um, customer success is not written anywhere on my resume, [laughs] but thanks for trusting me. It seems like a very meaningful role to take on. I'm willing to try. Like let's, let's give it a try, and now it's been like one and a half years. 
+
+00:41:34,766 --> 00:41:39,626 [Nicola]
+Okay. Yeah. Like there is so much I feel to unpack there. 
+
+00:41:39,626 --> 00:41:40,406 [Hwei]
+[laughs] 
+
+00:41:40,406 --> 00:41:51,446 [Nicola]
+Uh, when, when you started, uh, freelancing and, and y- you just, you, you felt that you needed help, 
+
+00:41:51,446 --> 00:41:52,466 [Nicola]
+uh, so you- 
+
+00:41:52,466 --> 00:41:52,656 [Hwei]
+Mm-hmm 
+
+00:41:52,656 --> 00:41:58,506 [Nicola]
+... searched for or you, you come across, uh, Dave, uh, from, from YouTube, I guess. 
+
+00:41:58,506 --> 00:41:59,466 [Hwei]
+Yeah. 
+
+00:41:59,466 --> 00:42:06,386 [Nicola]
+And, and, and joined the program. What, what was that, uh, you needed back then? 
+
+00:42:06,386 --> 00:42:27,356 [Hwei]
+Mm. So when, when Dave's program came out, um, I actually before this... So in 2020, I already joined some like freelancing programs, but that one was more like it's either general freelancing or like a Python-based. So it's not exactly like machine learning. 
+
+00:42:27,356 --> 00:42:27,425 [Nicola]
+Mm. 
+
+00:42:27,426 --> 00:43:04,922 [Hwei]
+So when Dave's program is there, I know that he's a data scientist and he's, um, doing very successfully in freelancing as a data scientist. And his demeanor is just very, you know, down to earth as we know, and very smart. And then I like that he walks the talk. Um, that is the, the...... the, the decision where I decided to kind of like reach out and express my interest to join the program. Um, what I think I needed at that time is to, 
+
+00:43:04,922 --> 00:43:08,942 [Hwei]
+is to essentially 
+
+00:43:08,942 --> 00:43:12,342 [Hwei]
+see that I can do it, 
+
+00:43:12,342 --> 00:43:19,342 [Hwei]
+and I appreciate any kinds of guidance. That i- if anybody who has 
+
+00:43:19,342 --> 00:43:55,942 [Hwei]
+w- walked the talk, like walked this path before, to see my blind spot, to give me some advice that I could apply for myself. Um, this is why. Like, this is mainly why. Um, the rel- the, the, the relevance of the program itself paired with thinking that I need some, I need somebody experienced who was on this journey doing very successfully and I can resonate with to help me to go through this process. 
+
+00:43:55,942 --> 00:43:59,182 [Nicola]
+Yeah, makes sense, right? And 
+
+00:43:59,182 --> 00:44:02,982 [Nicola]
+what, what are some, um, 
+
+00:44:02,982 --> 00:44:11,032 [Nicola]
+I guess limiting beliefs or something that you personally struggled with during, during that, that first year? 
+
+00:44:11,032 --> 00:44:12,412 [Hwei]
+[laughs] I told- 
+
+00:44:12,412 --> 00:44:13,842 [Nicola]
+Is there anything that comes to mind or not? 
+
+00:44:13,842 --> 00:44:26,192 [Hwei]
+[laughs] Yes. I told Dave, uh, in a later interview, I said, "Uh, Dave, I didn't have confidence. I outsourced my confidence to you, and thanks to you, I'm here." 
+
+00:44:26,192 --> 00:44:26,192 [Nicola]
+[laughs] 
+
+00:44:26,192 --> 00:44:29,722 [Hwei]
+"I'm in the game." [laughs] And then- 
+
+00:44:29,722 --> 00:44:33,662 [Nicola]
+I, I, I think, uh, you, you told me that phrase the first time that we met. 
+
+00:44:33,662 --> 00:44:33,702 [Hwei]
+Oh. 
+
+00:44:33,702 --> 00:44:38,292 [Nicola]
+I wrote it down and I [laughs] I, I always remembered it. [laughs] 
+
+00:44:38,292 --> 00:44:42,492 [Hwei]
+[laughs] Yeah, and I'm trying to do that to all the community members now. 
+
+00:44:42,492 --> 00:44:42,522 [Nicola]
+Yeah. 
+
+00:44:42,522 --> 00:44:50,381 [Hwei]
+Like, I'm like, "I know what you need, um, based on, base- based on the fact that I'm also in the game." 
+
+00:44:50,382 --> 00:44:51,242 [Nicola]
+Mm-hmm. 
+
+00:44:51,242 --> 00:44:53,262 [Hwei]
+Um, 
+
+00:44:53,262 --> 00:44:55,522 [Hwei]
+and so 
+
+00:44:55,522 --> 00:44:58,002 [Hwei]
+if you, 
+
+00:44:58,002 --> 00:45:15,162 [Hwei]
+if you can leave the rest to us, and then just say, "I want to go here," we'll help you get there. And so in a way, uh, I'm trying to be... outsource the confidence, [laughs] as I, as I unknowingly outsource the my confidence before. Yeah. 
+
+00:45:15,162 --> 00:45:15,862 [Nicola]
+[laughs] 
+
+00:45:15,862 --> 00:45:16,102 [Hwei]
+Yeah. 
+
+00:45:16,102 --> 00:45:24,642 [Nicola]
+You're now passing on, right, to, to, to us, to, to the other rest of the people in, in the community? 
+
+00:45:24,642 --> 00:45:29,942 [Hwei]
+Yeah, but I also think it's my pleasure. Like, it, it, it is just such a pleasure 
+
+00:45:29,942 --> 00:45:41,042 [Hwei]
+to, to witness everybody's journey, because oh, it's better than movies. It's better than watching horror movies. [laughs] 
+
+00:45:41,042 --> 00:45:41,162 [Nicola]
+It's, yeah. 
+
+00:45:41,162 --> 00:45:52,142 [Hwei]
+Like, look at your experience, like, look at your journey, like, um, from the first time that we talked and until today, you have grown a lot, and you have also achieved some things along the way. 
+
+00:45:52,142 --> 00:45:52,282 [Nicola]
+Yeah. 
+
+00:45:52,282 --> 00:45:59,722 [Hwei]
+And so this takes like, you know, you see a real-life scenario in different people. You see the stories in different people. 
+
+00:45:59,722 --> 00:46:00,042 [Nicola]
+Mm-hmm. 
+
+00:46:00,042 --> 00:46:04,962 [Hwei]
+Um, I think, 
+
+00:46:04,962 --> 00:46:10,082 [Hwei]
+I think my role is just to remind everybody 
+
+00:46:10,082 --> 00:46:54,872 [Hwei]
+what they know already within themself. I just reinforce that, "Nicola, based on what we talk, I think you are this and this person. Um, if this is your goal, I help you hold the, the, your, your ideal self in my mind. And in my mind, every goal that you told me that you're going to achieve, I consider it, I consider it done already. And now I'm just walking this process with you. Uh, but in my mind, it's already done, and I'm just waiting for one day in the future that you'll come back to tell me that says, 'Hui, I'm already in my ideal self.' And, and I'll be just like, "You know, I knew it. I knew it a long time ago." [laughs] 
+
+00:46:54,872 --> 00:47:00,702 [Nicola]
+[laughs] Yeah, yeah, that, that makes sense. But, um, 
+
+00:47:00,702 --> 00:47:10,361 [Nicola]
+what... now that you have seen people going, going through this, what do you think are, um, some key 
+
+00:47:10,362 --> 00:47:17,062 [Nicola]
+skills maybe, uh, that people need to 
+
+00:47:17,122 --> 00:47:20,102 [Nicola]
+be coachable, you know? This term of- 
+
+00:47:20,102 --> 00:47:20,302 [Hwei]
+Mm 
+
+00:47:20,302 --> 00:47:31,102 [Nicola]
+... yeah, in this scenario where, uh, a program and, and you are helping someone else being their coach, right? 
+
+00:47:31,102 --> 00:47:31,421 [Hwei]
+Mm. 
+
+00:47:31,422 --> 00:47:36,562 [Nicola]
+What are the skills to be coachable? 
+
+00:47:36,562 --> 00:47:44,842 [Hwei]
+What are the skills to be coachable? Wow, that's such a great question. Let me think. 
+
+00:47:44,842 --> 00:47:47,322 [Hwei]
+I think it's mostly 
+
+00:47:47,382 --> 00:47:49,722 [Hwei]
+the humility 
+
+00:47:49,722 --> 00:47:55,822 [Hwei]
+to see a different perspective of the story. 
+
+00:47:55,822 --> 00:47:58,421 [Nicola]
+What do you mean? 
+
+00:47:58,482 --> 00:48:04,482 [Hwei]
+A lot of people... um, so 
+
+00:48:04,482 --> 00:48:08,522 [Hwei]
+in my experience, I feel that 
+
+00:48:08,522 --> 00:48:14,182 [Hwei]
+I cannot help those people 
+
+00:48:14,182 --> 00:48:21,602 [Hwei]
+who cannot believe in another version of narration. So 
+
+00:48:21,602 --> 00:48:24,162 [Hwei]
+what they want is, 
+
+00:48:24,162 --> 00:48:26,361 [Hwei]
+"I'm stuck here. 
+
+00:48:26,362 --> 00:48:34,282 [Hwei]
+Don't convince me otherwise." And then they try to... they're not receptive 
+
+00:48:34,282 --> 00:48:54,794 [Hwei]
+to the other things. So I would say, first of all, the humility to accept that reality has different narration, and you just have to... rather, rather than seeing it as good or bad-... see it as pros and cons, 
+
+00:48:54,794 --> 00:49:11,154 [Hwei]
+and then see yourself as one avatar in the sandbox. And says, "I'm here. This is where I want to go. What is beneficial for me to take?" And people with narra- a certain narration, they are very s- you know, very convinced of something- 
+
+00:49:11,154 --> 00:49:11,494 [Nicola]
+Mm-hmm 
+
+00:49:11,494 --> 00:49:16,534 [Hwei]
+... when I see that it, this convincing reality 
+
+00:49:16,534 --> 00:49:40,514 [Hwei]
+does not serve them. Uh, and if they, if they are not ready to accept other possibilities, other narration that says, "Hey, maybe you can look into here and that," um, I, I think if they are very, if, if they decide to stay in this narration, there's nothing that I can do. 
+
+00:49:40,514 --> 00:49:41,654 [Nicola]
+I see. 
+
+00:49:41,714 --> 00:49:42,194 [Hwei]
+Yeah. 
+
+00:49:42,194 --> 00:49:42,214 [Nicola]
+So 
+
+00:49:42,214 --> 00:49:46,934 [Hwei]
+Oh, so this is one. Second would be accountability. 
+
+00:49:46,934 --> 00:49:47,654 [Nicola]
+Okay. 
+
+00:49:47,654 --> 00:49:51,044 [Hwei]
+This is what we do every week, Nicolas. [laughs] 
+
+00:49:51,044 --> 00:49:52,954 [Nicola]
+[laughs] I know that part well. 
+
+00:49:52,954 --> 00:49:56,014 [Hwei]
+[laughs] Yeah. 
+
+00:49:56,014 --> 00:49:56,533 [Nicola]
+Okay. But- 
+
+00:49:56,533 --> 00:49:58,444 [Hwei]
+Accountability. Do they follow up? 
+
+00:49:58,444 --> 00:49:58,484 [Nicola]
+Mm-hmm. 
+
+00:49:58,484 --> 00:50:07,274 [Hwei]
+Do they follow through, um, with, with the things that they should be doing, they said they would do? 
+
+00:50:07,274 --> 00:50:08,454 [Nicola]
+Yeah. So- 
+
+00:50:08,454 --> 00:50:11,074 [Hwei]
+Because action moves the needle, right? 
+
+00:50:11,074 --> 00:50:13,494 [Nicola]
+Mm-hmm. 
+
+00:50:13,494 --> 00:50:14,004 [Hwei]
+Yeah. 
+
+00:50:14,004 --> 00:50:22,034 [Nicola]
+Yeah. Yeah, yeah, of course. I, I was curious to, to dig a bit deeper on, on the first part that you, uh, what you said, right? 
+
+00:50:22,034 --> 00:50:22,354 [Hwei]
+Mm-hmm. 
+
+00:50:22,354 --> 00:50:25,214 [Nicola]
+So I'm hearing that if someone 
+
+00:50:25,214 --> 00:50:27,454 [Nicola]
+has 
+
+00:50:27,454 --> 00:50:29,754 [Nicola]
+their own narration- 
+
+00:50:29,754 --> 00:50:30,114 [Hwei]
+Hmm 
+
+00:50:30,114 --> 00:50:35,754 [Nicola]
+... that's, so it like a story that they tell themself. And they, 
+
+00:50:35,754 --> 00:50:38,474 [Nicola]
+they are not willing to 
+
+00:50:38,474 --> 00:50:40,654 [Nicola]
+see another story- 
+
+00:50:40,654 --> 00:50:41,174 [Hwei]
+Mm-hmm 
+
+00:50:41,174 --> 00:50:57,594 [Nicola]
+... but they want to, to get somewhere, uh, to their goals. And he, you, you help them realize that, uh, to get there, they need to, to change, uh, the narration, 
+
+00:50:57,594 --> 00:50:58,104 [Nicola]
+right? 
+
+00:50:58,104 --> 00:50:58,154 [Hwei]
+Mm-hmm. 
+
+00:50:58,154 --> 00:51:06,154 [Nicola]
+So if they are not flexible in that way, or they don't listen that there is another, um, 
+
+00:51:06,154 --> 00:51:12,494 [Nicola]
+uh, narration, there is another story that serves you better to, to get there, uh- 
+
+00:51:12,494 --> 00:51:14,854 [Hwei]
+Mm-hmm 
+
+00:51:14,854 --> 00:51:21,374 [Nicola]
+... it's difficult to, to help someone stuck in that situation. Is that what, what you mean? 
+
+00:51:21,374 --> 00:51:28,274 [Hwei]
+Yeah. So if they, I- if they feel that it is more, 
+
+00:51:28,274 --> 00:51:40,614 [Hwei]
+it is more valuable to hold onto the current narration that put them in current situation, and they are not ready to 
+
+00:51:40,614 --> 00:52:05,714 [Hwei]
+see elsewhere. You know, like, even to be open for the possibility, the other narration of maybe there's some other things that you can still try, or maybe there is some interpretation of your assumptions, uh, that you can maybe tweak a little bit. Maybe, maybe that, that can be, that can move you forward a little bit. So, um, 
+
+00:52:05,714 --> 00:52:09,014 [Hwei]
+yeah. So if, if they, 
+
+00:52:09,014 --> 00:52:15,934 [Hwei]
+if they feel more secure by holding onto this, 
+
+00:52:15,934 --> 00:52:17,254 [Hwei]
+this narration- 
+
+00:52:17,254 --> 00:52:17,794 [Nicola]
+Mm-hmm 
+
+00:52:17,794 --> 00:52:28,154 [Hwei]
+... um, I will honor that. I will make space. I- I will make space for that as well to say that, "It's okay. I can see that you're not ready to, 
+
+00:52:28,154 --> 00:52:37,194 [Hwei]
+to, to explore or this narration, um, uh, at this moment." And so, um, 
+
+00:52:37,194 --> 00:52:42,874 [Hwei]
+I, I, I feel that it is also important to 
+
+00:52:42,874 --> 00:52:48,394 [Hwei]
+make them feel okay that this narration right now that 
+
+00:52:48,394 --> 00:53:04,134 [Hwei]
+they, they hope, like, they hug, like hugging a log just to not drown, um, it's okay to acknowledge that and give space for them to do this until they are ready again.
+
+00:53:05,314 --> 00:53:14,454 [Hwei]
+ Okay. Yeah. Yeah, I recognize your, you have this, um, 
+
+00:53:14,454 --> 00:53:17,814 [Nicola]
+way of helping people, uh- 
+
+00:53:17,814 --> 00:53:17,854 [Hwei]
+[laughs] 
+
+00:53:17,854 --> 00:53:23,314 [Nicola]
+Yeah, that is, uh, you know, everyone has their own, um, 
+
+00:53:23,314 --> 00:53:25,454 [Nicola]
+way of going to 
+
+00:53:25,454 --> 00:53:28,934 [Nicola]
+coach someone in, in these situations, right? 
+
+00:53:28,934 --> 00:53:29,114 [Hwei]
+Mm-hmm. 
+
+00:53:29,114 --> 00:53:36,014 [Nicola]
+Uh, there are some more, I don't know how to call it, more strict in a way, uh, but 
+
+00:53:36,074 --> 00:53:38,774 [Nicola]
+y- you can 
+
+00:53:38,774 --> 00:53:57,634 [Nicola]
+go and, and take someone from where they are, uh, as you've said, acknowledge that they, in this moment, they might need something else, right, that you cannot force them, uh, right? That is a more gradual journey. 
+
+00:53:57,634 --> 00:53:58,794 [Hwei]
+Mm-hmm. 
+
+00:53:58,794 --> 00:54:03,224 [Nicola]
+Uh, that comes with, with whatever time and type of journey, uh- 
+
+00:54:03,224 --> 00:54:03,224 [Hwei]
+[laughs] 
+
+00:54:03,224 --> 00:54:05,384 [Nicola]
+... someone needs, right? [laughs] 
+
+00:54:05,384 --> 00:54:08,854 [Hwei]
+Have you heard about the story of the mushroom man? 
+
+00:54:08,854 --> 00:54:10,754 [Nicola]
+Mushroom? No. 
+
+00:54:10,754 --> 00:54:14,554 [Hwei]
+Okay. So, um- 
+
+00:54:14,554 --> 00:54:14,584 [Nicola]
+Tell me 
+
+00:54:14,584 --> 00:54:19,894 [Hwei]
+... I watched this story from the internet, so I don't know where to cite this from, but this story stuck- 
+
+00:54:19,894 --> 00:54:20,014 [Nicola]
+Yeah 
+
+00:54:20,014 --> 00:54:21,114 [Hwei]
+... with my head. 
+
+00:54:21,114 --> 00:54:21,734 [Nicola]
+Mm-hmm. 
+
+00:54:21,734 --> 00:54:26,134 [Hwei]
+And I've been sl- I've been secretly applying to all of you guys [laughs] all along. 
+
+00:54:26,134 --> 00:54:27,374 [Nicola]
+Oh. 
+
+00:54:27,374 --> 00:54:27,384 [Hwei]
+[laughs] 
+
+00:54:27,384 --> 00:54:28,224 [Nicola]
+Nice of you. 
+
+00:54:28,224 --> 00:54:33,514 [Hwei]
+So, [laughs] so the mushroom man is, mm, 
+
+00:54:33,514 --> 00:54:38,934 [Hwei]
+there's a guy who is so convinced that he is a mushroom. He's not a m- human. 
+
+00:54:38,934 --> 00:54:38,994 [Nicola]
+Okay. 
+
+00:54:38,994 --> 00:54:41,274 [Hwei]
+So, [laughs] a guy is so convinced- 
+
+00:54:41,274 --> 00:54:41,324 [Nicola]
+[laughs] 
+
+00:54:41,324 --> 00:54:49,594 [Hwei]
+... that he's a mushroom, and so he just take this umbrella and then just stood on one side all along. Like, he just wants to be a mushroom. 
+
+00:54:49,594 --> 00:54:49,614 [Nicola]
+Okay. 
+
+00:54:49,614 --> 00:54:51,874 [Hwei]
+Like he's so convinced that he's a mushroom. 
+
+00:54:51,874 --> 00:54:52,134 [Nicola]
+Okay. Amazing. This- 
+
+00:54:52,134 --> 00:55:00,286 [Hwei]
+Yeah.... of course, other people who came for him would say that, "You're not a mushroom, you're human." Like, "Come on." 
+
+00:55:00,286 --> 00:55:00,305 [Nicola]
+[laughs] 
+
+00:55:00,306 --> 00:55:00,805 [Hwei]
+It's like- 
+
+00:55:00,806 --> 00:55:01,015 [Nicola]
+[laughs] yeah 
+
+00:55:01,015 --> 00:55:10,685 [Hwei]
+..."Look at yourself. You don't look like a mushroom?" But that guy is just so convinced to be a mushroom and nobody can change his mind. Um, 
+
+00:55:10,685 --> 00:55:13,786 [Hwei]
+and so one day a person comes along 
+
+00:55:13,846 --> 00:55:21,185 [Hwei]
+and just take another umbrella and just sit next to him. And then that mushroom guy said, 
+
+00:55:21,185 --> 00:55:44,145 [Hwei]
+"Hey, what are you doing here?" And then that guy just says like, "I'm also a mushroom." [laughs] And then that guy says, "Huh. Oh, we're mushroom friends now." And after, you know, sitting, sitting with that guy for, for some time, that, that guy just started to stand and walk. 
+
+00:55:44,205 --> 00:55:58,205 [Hwei]
+And then the mushroom man just freaked out. [laughs] And then that mushroom is like, "Hey, you're a mushroom. How can you do this?" And then that guy just said, "You don't know? It's 2025, mushrooms can walk." 
+
+00:55:58,205 --> 00:56:18,826 [Hwei]
+And then that guy says, "Huh. Interesting. Are you... Okay, mushrooms can walk?" And he's like, "Of course, all mushrooms can walk this year, starting this year." And then that mushroom guy just stand up and walked. And so the moral of the story is, um, 
+
+00:56:18,826 --> 00:56:47,946 [Hwei]
+righteousness is not my goal in coaching. Um, the intention to making somebody, um, seeing the potential in somebody, that this person is not a mushroom, is a human, and he has the place that he needs to go. Um, I don't have to be right. I just have to try my best to have the intention to get this person into where they want to go. 
+
+00:56:47,946 --> 00:56:53,056 [Nicola]
+Yeah. Now, it, it makes... Yeah, definitely, it's how we are, helping us, it makes- 
+
+00:56:53,056 --> 00:56:54,776 [Hwei]
+[laughs] 
+
+00:56:54,776 --> 00:56:54,786 [Nicola]
+[laughs] 
+
+00:56:54,786 --> 00:56:56,546 [Hwei]
+Now you know my trick. [laughs] 
+
+00:56:56,546 --> 00:57:12,926 [Nicola]
+Yeah. [laughs] No, this is great. Yeah, I, I mean, it's... These stories help you to fix, uh, fix some, some ideas. But, no, I, I see, uh, you know, where, where... 
+
+00:57:12,926 --> 00:57:24,446 [Nicola]
+from where you, you come from and, uh, different people need different things. Someone works better with a carrot and stick approach. 
+
+00:57:24,506 --> 00:57:24,515 [Hwei]
+[laughs]. 
+
+00:57:24,515 --> 00:57:28,515 [Nicola]
+And, uh, someone who... It's, it's a mush- someone is a mushroom. [laughs] 
+
+00:57:28,515 --> 00:57:28,566 [Hwei]
+[laughs] 
+
+00:57:28,566 --> 00:57:35,586 [Nicola]
+And they need a different approach. It is, uh, yeah, but yeah, I can relate to that. It makes, makes sense and, uh- 
+
+00:57:35,586 --> 00:57:37,915 [Hwei]
+Yeah, it just happened that I don't have to be right. 
+
+00:57:37,915 --> 00:57:37,986 [Nicola]
+Yeah. 
+
+00:57:37,986 --> 00:57:55,506 [Hwei]
+I don't have to... I don't need to have another people told me that I'm right for me to feel good about myself. Like, I just, like, I care about another person and for this care, uh, I would do my best. I know, I know my goal. That my goal is not to be right. 
+
+00:57:55,506 --> 00:58:03,575 [Nicola]
+Mm-hmm. Is to, to get someone where they want to go. Yeah. Okay, cool. So that's, that's- 
+
+00:58:03,575 --> 00:58:03,575 [Hwei]
+[coughs] 
+
+00:58:03,575 --> 00:58:08,426 [Nicola]
+... let's say the first, uh, skill that, that, that you mentioned. 
+
+00:58:08,426 --> 00:58:12,066 [Nicola]
+The second important one is accountability, right? 
+
+00:58:12,066 --> 00:58:12,236 [Hwei]
+Mm-hmm. 
+
+00:58:12,236 --> 00:58:16,645 [Nicola]
+And, and so why some of us 
+
+00:58:16,645 --> 00:58:22,605 [Nicola]
+ask everyone [laughs] some- sometimes we, we are not able to 
+
+00:58:22,606 --> 00:58:31,526 [Nicola]
+do what we say that, uh, we want to do. Why we need that accountability? 
+
+00:58:31,526 --> 00:58:33,926 [Hwei]
+Accountability 
+
+00:58:33,926 --> 00:58:57,886 [Hwei]
+helps you make progress. And there can be many reasons why, mm, you cannot do what you wanted to do. You might be lacking skills, you might be lacking some tools, you might be lacking the permission that only you can give to yourself. And another people just have to remind you that, um, 
+
+00:58:57,886 --> 00:59:01,745 [Hwei]
+the power is not outside, the power is inside. 
+
+00:59:01,745 --> 00:59:02,786 [Nicola]
+Mm-hmm. 
+
+00:59:02,786 --> 00:59:19,106 [Hwei]
+And these are the things that, I think in life, we just rely on the kindness of another person to help you move forward. And that is how we, that is how we choose to interact with the world. To, 
+
+00:59:19,106 --> 00:59:27,185 [Hwei]
+to be willing to accept the goodness from other people and then pass it forward. 
+
+00:59:27,185 --> 00:59:35,506 [Nicola]
+Okay. Okay. Yeah, you're... I was, I was expecting a totally different, uh- 
+
+00:59:35,506 --> 00:59:36,475 [Hwei]
+[laughs] 
+
+00:59:36,475 --> 00:59:46,165 [Nicola]
+[laughs] A totally different answer and I'm realizing, yeah, that I don't know in the couple last days, like now I'm connecting random dots. 
+
+00:59:46,165 --> 00:59:47,036 [Hwei]
+[laughs] 
+
+00:59:47,036 --> 00:59:58,086 [Nicola]
+[laughs] Excuse me if it doesn't make sense, but no, I think it makes some sense because there... When I think about accountability or these kind of topics, 
+
+00:59:58,086 --> 01:00:07,106 [Nicola]
+uh, coaching and, and people going through some personal development journey, I feel the 
+
+01:00:07,165 --> 01:00:24,685 [Nicola]
+predominant narrative online, especially YouTube or the, the influences that I see, thanks to the algorithm, algorithm of whatever, are quite strong, right? You know, more masculine energy in a way. 
+
+01:00:24,685 --> 01:00:25,066 [Hwei]
+Mm-hmm. 
+
+01:00:25,066 --> 01:00:28,586 [Nicola]
+The Tony Robbins or 
+
+01:00:28,586 --> 01:00:32,685 [Nicola]
+this kind of motivational stuff, right? Makes sense? 
+
+01:00:32,685 --> 01:00:33,884 [Hwei]
+Mm-hmm. 
+
+01:00:33,886 --> 01:00:35,444 [Nicola]
+While 
+
+01:00:35,446 --> 01:00:40,906 [Nicola]
+in, in your answer, I feel definitely a different energy. Uh- 
+
+01:00:40,906 --> 01:00:41,625 [Hwei]
+Okay 
+
+01:00:41,625 --> 01:00:48,125 [Nicola]
+... but is not the predominant one, because predominant is louder and definitely 
+
+01:00:48,205 --> 01:00:51,006 [Nicola]
+more masculine. I, I feel there- 
+
+01:00:51,006 --> 01:00:51,966 [Hwei]
+Mm-hmm 
+
+01:00:51,966 --> 01:01:08,048 [Nicola]
+... at least, uh, yeah, as I said, what, what we see online, et cetera, is more...... men doing this, at least, uh, what, what I receive from the algorithm. And while the, your angle is, is, is different in this- 
+
+01:01:08,048 --> 01:01:08,798 [Hwei]
+[laughs] 
+
+01:01:08,798 --> 01:01:13,638 [Nicola]
+Yeah. And it's, it's a, it's good that there is another angle, right? And- 
+
+01:01:13,638 --> 01:01:13,897 [Hwei]
+Yeah 
+
+01:01:13,897 --> 01:01:16,897 [Nicola]
+... that we normally don't, don't see. What do you think? 
+
+01:01:16,897 --> 01:01:20,488 [Hwei]
+Yeah, I'm glad that I contribute a little bit to that. Uh- 
+
+01:01:20,488 --> 01:01:20,518 [Nicola]
+Yeah. 
+
+01:01:20,518 --> 01:01:42,278 [Hwei]
+But I also see that, um, I think you just have to look, um, advice like this also exists on the internet. Um, I think it's more like if, if you don't realize, like, you just don't know what you don't know. I think, and this happens with a lot of people, and especially the, the design of the algorithm is more like bubble-like. Like, you get- 
+
+01:01:42,278 --> 01:01:42,348 [Nicola]
+Mm-hmm 
+
+01:01:42,348 --> 01:01:50,317 [Hwei]
+... more of what you look at and what you consume. And so you, you know, from time to time look, look the other side. [laughs] 
+
+01:01:50,317 --> 01:01:59,698 [Nicola]
+Yeah. [laughs] You have some recommendation for the other side? What, what, what are some resources or some people that influenced you? 
+
+01:01:59,698 --> 01:02:06,417 [Hwei]
+Oh, resources and people. Um, 
+
+01:02:06,417 --> 01:02:11,998 [Hwei]
+I don't know, where do I start? [laughs] It's like in the... I- in which topic? [laughs] 
+
+01:02:11,998 --> 01:02:22,877 [Nicola]
+Yeah. In this kind of, uh, I think now we are in the personal development, uh, or, um, doing something that you have never done before. 
+
+01:02:22,877 --> 01:02:23,178 [Hwei]
+Mm-hmm. 
+
+01:02:23,178 --> 01:02:27,397 [Nicola]
+In this case, it's, uh, your business, your freelance journey. 
+
+01:02:27,397 --> 01:02:27,718 [Hwei]
+Mm. 
+
+01:02:27,718 --> 01:02:31,298 [Nicola]
+And so there is that struggle to do something that 
+
+01:02:31,298 --> 01:02:34,977 [Nicola]
+you have not done before. And so you might need 
+
+01:02:34,977 --> 01:02:41,118 [Nicola]
+what we are talking about, right? Changing your story, uh, accountability, someone that helps you. 
+
+01:02:41,118 --> 01:02:42,178 [Hwei]
+Mm. 
+
+01:02:42,178 --> 01:02:44,658 [Nicola]
+So in this realm of 
+
+01:02:44,658 --> 01:02:52,618 [Nicola]
+personal growth, what, uh, most influenced you or you like to read- 
+
+01:02:52,618 --> 01:02:52,667 [Hwei]
+[laughs] 
+
+01:02:52,667 --> 01:02:56,138 [Nicola]
+... look up to, go back to? 
+
+01:02:56,138 --> 01:03:12,577 [Hwei]
+I am currently reading... So go back to, I have one principle book that help me, like, that is the guiding light, uh, of, of my life and then some supplementary books. And, um, 
+
+01:03:12,578 --> 01:03:31,238 [Hwei]
+but yeah, I can share them. So my guiding principle resource is, uh, Diamond Sutra by the Buddha. And then I am currently reading, I'm currently reading Tao Te Ching by Lao Tzu. 
+
+01:03:31,238 --> 01:03:31,997 [Nicola]
+Okay. 
+
+01:03:31,997 --> 01:03:49,437 [Hwei]
+Um, but they are very meta, they're very, they're very, like, [laughs] they are for people like me who always contemplate the meaning of life. [laughs] And, but the third one, but the third one that I can recommend is, uh, The Way of Integrity by Marta Beck. 
+
+01:03:49,437 --> 01:03:51,227 [Nicola]
+Okay. What can you tell- 
+
+01:03:51,227 --> 01:03:51,227 [Hwei]
+Yeah 
+
+01:03:51,227 --> 01:03:56,798 [Nicola]
+... me about these three books? Or I'm curious about the first one, since it's your- 
+
+01:03:56,798 --> 01:03:57,698 [Hwei]
+Hmm 
+
+01:03:57,698 --> 01:04:01,158 [Nicola]
+... um, guiding principle, what- 
+
+01:04:01,158 --> 01:04:01,718 [Hwei]
+Yeah 
+
+01:04:01,718 --> 01:04:03,857 [Nicola]
+... what there is in there. 
+
+01:04:03,857 --> 01:04:37,978 [Hwei]
+The Diamond Sutra essentially says that, um, everything tangible that you can see in this world, um, it's kinda like it's ever-changing. So it's kinda like a dream, it's kinda like a dew, and like a morning dew. It's kinda like, um, illusion. It's kinda like a shadow. Um, it's kinda like, uh, thunder, um, and we should see the world this way. And so that has given me, 
+
+01:04:37,978 --> 01:05:08,857 [Hwei]
+that has given me a sense of saying that I should not kinda like try to cling on something. Um, I should be really fluid, like, if I want to, uh, enjoy the world the right way. Um, and so one of the stories in there, it says if you are drowning and then you happen to hug a log, like a big piece of wood, and then that has saved your life. Um, but then 
+
+01:05:08,857 --> 01:05:37,008 [Hwei]
+since you're now safe, you are, you're not drowning anymore, you have come to the land, but maybe out of security you feel like this log is so important for you, it has saved your life, so you just hug it to walk it. But who knows your next quest is to climb the mountain? Like, you cannot... Since the log has saved you already, you should let it go because your next quest is climbing a mountain. That log is not going to serve you. 
+
+01:05:37,008 --> 01:05:37,038 [Nicola]
+Mm. 
+
+01:05:37,038 --> 01:05:43,518 [Hwei]
+And so that main guiding principle is kinda like, say, 
+
+01:05:43,598 --> 01:05:56,917 [Hwei]
+everything is as is, as happened. Um, for example, our podcast now is as happened. It's going to end in, I don't know, like 20 minutes' time. 
+
+01:05:56,917 --> 01:06:05,118 [Hwei]
+And I should not cling on it. I should not think about, "Oh, damn, I should change something about it." Like, also in freelancing- 
+
+01:06:05,118 --> 01:06:05,127 [Nicola]
+Yes 
+
+01:06:05,127 --> 01:06:08,417 [Hwei]
+... it's like, uh, in freelancing 
+
+01:06:08,417 --> 01:06:22,738 [Hwei]
+you have to have a level of grace, uh, and compassion to yourself for the courage to come out. If you always say that, "I have to be perfect. I cannot make any mistakes," sorry, you live in a classroom. You're not living in the real world. 
+
+01:06:22,738 --> 01:06:22,917 [Nicola]
+Hmm. 
+
+01:06:22,917 --> 01:06:31,058 [Hwei]
+Um, if you're living in the real world and you don't want to get to insanity, [laughs] just try to 
+
+01:06:31,058 --> 01:06:49,937 [Hwei]
+do a small experiment, see what it comes back. And if it is not the outcome that you want, just pivot and do better next time. So, like, don't hug the log when you have to climb the mountain. Yes, the log has saved you. It has served you in the past, but time to move on. 
+
+01:06:49,937 --> 01:06:51,337 [Nicola]
+Yeah. 
+
+01:06:51,337 --> 01:06:51,478 [Nicola]
+That- 
+
+01:06:51,478 --> 01:06:51,718 [Hwei]
+Yeah. 
+
+01:06:51,718 --> 01:06:54,357 [Nicola]
+That's a, that's a great metaphor. Yeah. 
+
+01:06:54,357 --> 01:06:55,417 [Hwei]
+Yeah, so it's kinda like- 
+
+01:06:55,417 --> 01:06:56,877 [Nicola]
+Mm-hmm 
+
+01:06:56,877 --> 01:07:17,990 [Hwei]
+... I don't see you, Nicola, as Nicola the coachie because I know-It just happened in this moment that we met, and I'm being put in the position to give you some advice and you're in the position of needing some advice. But this is not forever. Like, this is not permanent. At some point, this 
+
+01:07:17,990 --> 01:07:37,510 [Hwei]
+tree that I l- look after will grow. Like, you're going to be a different Nicola, and I don't see you, Nicola, as the first version anymore. Like, I should see you as an ever-changing. And it... This is, this is the... This is what I think 
+
+01:07:37,510 --> 01:07:43,790 [Hwei]
+the, the way that I prefer to look at life. Everything, like people, person, environment, everything. 
+
+01:07:43,790 --> 01:07:58,049 [Nicola]
+Mm. Makes me think of, uh... Kay... I feel it's kind of a translation of this, um, that what serves... served you to, to get here won't serve you to get- 
+
+01:07:58,050 --> 01:07:58,159 [Hwei]
+Yeah 
+
+01:07:58,159 --> 01:07:59,550 [Nicola]
+... somewhere else, right? 
+
+01:07:59,550 --> 01:07:59,570 [Hwei]
+Yeah. 
+
+01:07:59,570 --> 01:08:06,790 [Nicola]
+We have different, whatever, phases, challenges, uh, growth path. 
+
+01:08:06,790 --> 01:08:07,729 [Hwei]
+Mm. 
+
+01:08:07,729 --> 01:08:15,790 [Nicola]
+Something... You need something to get somewhere, uh, but then it won't help you to get somewhere else because it's- 
+
+01:08:15,790 --> 01:08:16,189 [Hwei]
+Yeah 
+
+01:08:16,189 --> 01:08:22,250 [Nicola]
+... constantly evolving, journeying, and challenges and, and stuff. Yeah. 
+
+01:08:22,250 --> 01:08:25,910 [Hwei]
+Perfect. This is a perfect interpretation. [laughs] 
+
+01:08:25,910 --> 01:08:31,730 [Nicola]
+[laughs] Yeah. And what, what about the... Th- What was the, the third book that, that you mentioned? 
+
+01:08:31,730 --> 01:08:34,890 [Hwei]
+The Way of Integrity by Martha Beck. 
+
+01:08:34,890 --> 01:08:39,790 [Nicola]
+Mm-hmm. And what's the, the message from there, that one? 
+
+01:08:39,790 --> 01:08:43,210 [Hwei]
+The message is to really honor your own truth. 
+
+01:08:43,210 --> 01:08:44,630 [Nicola]
+Mm-hmm. 
+
+01:08:44,630 --> 01:08:58,790 [Hwei]
+And so, uh, it described, like, this theater play by... L- It's called Inferno. Um, so I think it's like... Maybe it's Italian story, you know? Like, maybe let me know. [laughs] 
+
+01:08:58,790 --> 01:09:00,649 [Nicola]
+I'll, I'll look into it. I mean, the, the- 
+
+01:09:00,649 --> 01:09:01,480 [Hwei]
+[laughs] Yeah 
+
+01:09:01,480 --> 01:09:04,470 [Nicola]
+... Inferno from, from Dante is where it all started. 
+
+01:09:04,470 --> 01:09:05,189 [Hwei]
+Yes. 
+
+01:09:05,189 --> 01:09:05,470 [Nicola]
+Yeah. 
+
+01:09:05,470 --> 01:09:06,630 [Hwei]
+It's from Dante. Yeah. 
+
+01:09:06,630 --> 01:09:07,050 [Nicola]
+Mm-hmm. 
+
+01:09:07,050 --> 01:09:12,249 [Hwei]
+So that book is about taking Dante's Inferno- 
+
+01:09:12,249 --> 01:09:12,259 [Nicola]
+Ah 
+
+01:09:12,259 --> 01:09:23,010 [Hwei]
+... into examining our life. And so it says that it, it goes through... You have to go through the center of the Earth- 
+
+01:09:23,010 --> 01:09:23,330 [Nicola]
+Mm 
+
+01:09:23,330 --> 01:09:31,090 [Hwei]
+... and then go to the inferno and then coming out from the other side. And so that book is such a- 
+
+01:09:31,090 --> 01:09:32,330 [Nicola]
+Mm-hmm 
+
+01:09:32,330 --> 01:09:35,520 [Hwei]
+... supernova for me. Like... [laughs] 
+
+01:09:35,520 --> 01:09:35,550 [Nicola]
+Yeah. 
+
+01:09:35,550 --> 01:10:01,530 [Hwei]
+Because, um, back then, I just take every advice as is and thinking that if I apply them, um, I'm going to get success or get happier. But I forgot to examine myself, like if that advice is made for me or not. Like, do I see myself in this, or do I have a level of understanding 
+
+01:10:01,530 --> 01:10:10,270 [Hwei]
+that this thing fits me or not? Um, and the process of doing that is then to, 
+
+01:10:11,150 --> 01:10:39,050 [Hwei]
+to find the truth slowly. And that book, The Way of Integrity, it's basically, like, explaining or practicing or making you realize what are the ways that you can find your own integrity. And so you have this inner truth as your anchor, and everything has to filter through this, and then you get a sense of clarity, um, when dealing with a lot of noise. 
+
+01:10:39,050 --> 01:10:58,130 [Nicola]
+I see. So it's, like, helping you to, um, filter the advice and whatever, [clears throat] whatever people tell you instead of following, uh, everyone in all... in every direction. 
+
+01:10:58,130 --> 01:12:06,490 [Hwei]
+Yeah. Yeah. It's more like there are two kinds of heart. Um, there are two kinds of hardness, um, that, that we face. Um, one kind of heart is if you're a fish, then if you want to swim to the ocean, and then, you know, like, it's a different environment, you just have to push on, right? Like, you have a, you know... You'll be stronger as a different f- as a stronger fish, you'll maybe swim faster or anything. But another kind of heart is you don't know who you are, you don't even know you're a fish, and then you are trying to compete with monkeys climbing the tree, and then you'll be stuck thinking, "Why are the other monkeys just seem so, so light and easy and so effortless in climbing the trees?" Because you don't even know, like... And, and you're kinda out of breath. [laughs] You're not as good as they are. You're not achieving the height that they are, but you're half dying. Uh, that's because you don't realize that you're a fish, like, this is not your lane. Like, go back to the water, like, and, and, you know, swim towards the ocean. 
+
+01:12:06,490 --> 01:12:07,620 [Nicola]
+Yeah. 
+
+01:12:07,620 --> 01:12:07,850 [Hwei]
+Yeah. 
+
+01:12:07,850 --> 01:12:10,610 [Nicola]
+Did you... Did you, um, 
+
+01:12:10,610 --> 01:12:17,150 [Nicola]
+experience some- something like that? There was... There was a time where you felt you were trying- 
+
+01:12:17,150 --> 01:12:18,390 [Hwei]
+Yeah 
+
+01:12:18,390 --> 01:12:18,650 [Nicola]
+... to do- 
+
+01:12:18,650 --> 01:12:19,830 [Hwei]
+Three times. 
+
+01:12:19,830 --> 01:12:22,050 [Nicola]
+Yeah? Okay. 
+
+01:12:22,050 --> 01:12:46,929 [Hwei]
+Three times that I have to be almost bedridden. [laughs] I'm in a lot of pain, uh, to realize, uh, I'm not supposed to do certain things. And usually, that comes in terms of, um, the career choice, um, and the environment, and, uh, my 
+
+01:12:46,930 --> 01:12:54,890 [Hwei]
+attitude trying to climbing the trees, uh, while not knowing myself. So yeah, I have had 
+
+01:12:54,890 --> 01:13:16,794 [Hwei]
+three burnouts in the past 10 years. And the first one was, um, during my software engineering time, and the second one was during my PhD time. Uh, no.... during my, uh, data science consultant time, and then third time was during my PhD time. 
+
+01:13:16,794 --> 01:13:21,294 [Nicola]
+Mm. 
+
+01:13:21,354 --> 01:13:28,554 [Nicola]
+And what did you re- realize why you were, um ... what 
+
+01:13:28,554 --> 01:13:39,734 [Nicola]
+made it clear for you that you were doing what you were not supposed to do or was not- 
+
+01:13:39,734 --> 01:13:42,454 [Hwei]
+I realized that 
+
+01:13:44,134 --> 01:13:49,554 [Hwei]
+I, I never think about checking in with myself 
+
+01:13:49,554 --> 01:13:52,014 [Hwei]
+if, 
+
+01:13:52,014 --> 01:14:04,994 [Hwei]
+if being in an environment or doing a certain thing will make me respect myself more or less. So I didn't... so it's more like I keep looking out 
+
+01:14:04,994 --> 01:14:09,714 [Hwei]
+and then I try doing things and I try to 
+
+01:14:09,714 --> 01:14:15,073 [Hwei]
+come up with a good result, good performance. Um, 
+
+01:14:15,073 --> 01:14:19,654 [Hwei]
+but then I don't know what I'm made of. 
+
+01:14:19,654 --> 01:14:20,744 [Nicola]
+Mm. 
+
+01:14:20,744 --> 01:14:30,313 [Hwei]
+Um, so it's kind of like... uh, it's kind of like I am trying my very best 
+
+01:14:30,314 --> 01:14:39,774 [Hwei]
+just trying to survive instead of thriving. And that comes in many, many ways. Maybe it is with 
+
+01:14:39,774 --> 01:15:11,014 [Hwei]
+the pace of the project. Maybe it's with the nature of the project. Maybe it's with the nature of the environment of what is demanded of you. Um, and, and these kind of, uh, self-awareness came, uh, after taking me three excruciating physical pain, um, to, to realize that maybe I should look at what I'm made of. [laughs] Yeah. 
+
+01:15:11,014 --> 01:15:19,734 [Nicola]
+So you, you feel you were ignoring maybe earlier signals, right? You, you had to get physical pain- 
+
+01:15:19,734 --> 01:15:23,934 [Hwei]
+I'm ignoring all the subtle and obvious signals- 
+
+01:15:23,994 --> 01:15:24,374 [Nicola]
+Mm-hmm 
+
+01:15:24,374 --> 01:15:29,654 [Hwei]
+... that until my body literally can't move anymore 
+
+01:15:29,654 --> 01:15:31,514 [Hwei]
+for me to say, "Stop." 
+
+01:15:31,514 --> 01:15:31,714 [Nicola]
+Okay. 
+
+01:15:31,714 --> 01:15:55,154 [Hwei]
+Otherwise, I'll still keep moving. Like otherwise I wouldn't have learned this lesson. So my body was compassionate enough to take a breakdown to remind myself that, hey, this is not you. Like this is... you're not... e- you're, you're, you're a different vehicle being put on different purpose. 
+
+01:15:55,154 --> 01:15:56,034 [Nicola]
+Mm. 
+
+01:15:56,034 --> 01:15:56,614 [Hwei]
+Yeah. 
+
+01:15:56,614 --> 01:16:06,094 [Nicola]
+What, what are those signals that someone in a similar situation might catch before getting to 
+
+01:16:06,094 --> 01:16:08,774 [Hwei]
+Mm. 
+
+01:16:08,774 --> 01:16:11,574 [Hwei]
+At, at first I would say 
+
+01:16:11,574 --> 01:16:27,633 [Hwei]
+it is, um, little discomfort here and there. And that might come in terms of emotions, that might comes in terms of sensations. Um, and then, uh, the next thing would be you are trying to overcome them- 
+
+01:16:27,634 --> 01:16:27,834 [Nicola]
+Mm-hmm 
+
+01:16:27,834 --> 01:16:45,434 [Hwei]
+... but you feel that you are slowly giving up on yourself or betraying yourself. Like you're, you're so kind of like betraying your own truth, um, in order to get better, if that make any sense. Um, 
+
+01:16:45,434 --> 01:16:49,594 [Hwei]
+and then you keep 
+
+01:16:49,594 --> 01:16:51,814 [Hwei]
+giving in. So 
+
+01:16:51,814 --> 01:16:53,814 [Hwei]
+you slowly find yourself- 
+
+01:16:53,814 --> 01:16:54,194 [Nicola]
+Mm 
+
+01:16:54,194 --> 01:16:59,454 [Hwei]
+... grinding 
+
+01:16:59,454 --> 01:17:01,554 [Hwei]
+more like, 
+
+01:17:01,554 --> 01:17:14,854 [Hwei]
+more like you... more like you feel like you grind yourself off, that nothing is left. Like you're, you're le- you are slowly losing your life force instead of, um... instead of feeling like 
+
+01:17:14,854 --> 01:17:16,734 [Hwei]
+I'm still myself doing this. 
+
+01:17:16,734 --> 01:17:18,634 [Nicola]
+Mm. 
+
+01:17:18,634 --> 01:17:21,754 [Hwei]
+Yeah. It, it's going to feel like, 
+
+01:17:21,754 --> 01:17:33,814 [Hwei]
+"I keep running and running and running, but for what?" And maybe your logical brain is going to convince you, "Ah, it's for this, you know, this, this, um, 
+
+01:17:33,874 --> 01:17:55,654 [Hwei]
+nice achievement, and it's for me to prove to myself that I can do this." Um, but yeah, um, this is going to... this is kind of like a slippery slope where you, you betray yourself again and again and again. Yeah. 
+
+01:17:55,654 --> 01:17:56,934 [Nicola]
+Yeah. You, y- 
+
+01:17:56,934 --> 01:17:58,314 [Hwei]
+Those are the signs. 
+
+01:17:58,314 --> 01:18:00,974 [Nicola]
+Definitely. 
+
+01:18:00,974 --> 01:18:01,254 [Nicola]
+It happens when- 
+
+01:18:01,254 --> 01:18:05,004 [Hwei]
+Those are the signs, and then you, you wake up and then you think like- 
+
+01:18:05,004 --> 01:18:05,004 [Nicola]
+Yeah 
+
+01:18:05,004 --> 01:18:08,174 [Hwei]
+... "Why am I doing this? Like, like where am I?" [laughs] 
+
+01:18:08,174 --> 01:18:08,824 [Nicola]
+Yeah, exactly what it is. 
+
+01:18:08,824 --> 01:18:08,824 [Hwei]
+[laughs] 
+
+01:18:08,824 --> 01:18:11,713 [Nicola]
+I wanted to say. I wanted to say. 
+
+01:18:11,774 --> 01:18:11,834 [Hwei]
+[laughs] 
+
+01:18:11,834 --> 01:18:16,054 [Nicola]
+But it happened to me in the, in the past, going 
+
+01:18:16,054 --> 01:18:27,474 [Nicola]
+into work in the morning, you know, you, you get there, you sit at your desk, you look around and you say, "What am I doing here?" 
+
+01:18:27,474 --> 01:18:28,144 [Hwei]
+[laughs] 
+
+01:18:28,144 --> 01:18:29,114 [Nicola]
+[laughs] 
+
+01:18:29,114 --> 01:18:31,814 [Hwei]
+Yeah. Time to look inside. 
+
+01:18:31,814 --> 01:18:32,533 [Nicola]
+Yeah. 
+
+01:18:32,534 --> 01:18:38,814 [Hwei]
+There's a message for you. Read the message. [laughs] 
+
+01:18:38,814 --> 01:18:51,294 [Nicola]
+I see. And so you... it's interesting you, you, you said that this happened to you, um, three times. So it was different things that you discovered 
+
+01:18:51,294 --> 01:19:01,354 [Nicola]
+or you went, you went back to, uh, something similar that, I don't know, uh, catch you in a different way.
+
+01:19:04,394 --> 01:19:16,434 [Nicola]
+ Same feeling, different environment, different faces, different projects, but the feeling is the same.... the feeling is that 
+
+01:19:16,434 --> 01:19:19,534 [Hwei]
+I didn't stop myself right there 
+
+01:19:19,534 --> 01:19:32,914 [Hwei]
+and allow myself to do the things or be somewhere, or well, generally do something that make myself respect me less. 
+
+01:19:32,914 --> 01:19:33,934 [Nicola]
+Mm-hmm. 
+
+01:19:33,934 --> 01:19:48,294 [Hwei]
+That's the, that the, that's the question that I didn't think of questioning myself back then, if this would be my decision filtering process that would make a lot of life easier. 
+
+01:19:48,294 --> 01:19:53,633 [Nicola]
+I see. And there, there was, there was a part of you 
+
+01:19:53,634 --> 01:19:59,594 [Nicola]
+in the second or third time that says, 
+
+01:19:59,594 --> 01:20:04,434 [Nicola]
+"Why you, you fell again into this," or, or not?
+
+01:20:05,674 --> 01:20:10,194 [Nicola]
+ No, second and third time I managed to catch myself easier. 
+
+01:20:10,194 --> 01:20:10,214 [Nicola]
+Okay. 
+
+01:20:10,214 --> 01:20:26,924 [Hwei]
+Um, and being different from the first time, the first time it's kind of like I just graduated university. This is my very first job. I have to do my very best as a A+ student, [laughs] you know? Like, score perfectly, uh, for everything that I do. 
+
+01:20:26,924 --> 01:20:26,994 [Nicola]
+Yeah. 
+
+01:20:26,994 --> 01:20:28,854 [Hwei]
+Um, 
+
+01:20:28,854 --> 01:20:48,564 [Hwei]
+when I had the first burnout, I actually doubted myself. Like, I actually asked myself, like, "Why am I so useless? Like, why can't I do this?" Um, but second and third time, no. Like, second and third time it's like, "Ah, there it goes again." [laughs] I thought I have pivoted, but it looks like I have not pivoted enough. [laughs] 
+
+01:20:48,564 --> 01:20:50,234 [Nicola]
+[laughs] I see. Okay. 
+
+01:20:50,234 --> 01:20:50,354 [Hwei]
+Yeah. 
+
+01:20:50,354 --> 01:20:55,134 [Nicola]
+That makes sense. There, there was some, 
+
+01:20:55,134 --> 01:21:06,374 [Nicola]
+you feel external pressure, and especially in the first time or something that you, um, 
+
+01:21:06,374 --> 01:21:22,314 [Nicola]
+that it was coming from, from the past or something that you learned when, when you were younger, um, that you needed to be this A+ student and score everything at, uh, the best- 
+
+01:21:22,374 --> 01:21:22,413 [Hwei]
+Mm-hmm 
+
+01:21:22,413 --> 01:21:26,854 [Nicola]
+... you felt like some external pressure back then? 
+
+01:21:26,854 --> 01:21:31,634 [Hwei]
+I wouldn't think it's an external pressure. I think it is more like the...
+
+01:21:32,954 --> 01:21:37,534 [Hwei]
+ I misunderstood myself. 
+
+01:21:37,534 --> 01:21:38,054 [Nicola]
+Mm-hmm. 
+
+01:21:38,054 --> 01:21:46,474 [Hwei]
+Um, only recently, two to three years ago, that 
+
+01:21:46,474 --> 01:21:53,314 [Hwei]
+I changed my perspective on my existence in the world. So, 
+
+01:21:54,514 --> 01:21:58,174 [Hwei]
+only up until two to three years 
+
+01:21:58,174 --> 01:22:20,234 [Hwei]
+ago, I used to think that my existence is to be of use by others, is to lose my shapes and forms and then putting myself down to the dust, and to just serve others, and that is love. 
+
+01:22:20,234 --> 01:22:20,874 [Nicola]
+Mm-hmm. 
+
+01:22:20,874 --> 01:22:25,594 [Hwei]
+And that is contribution. That was my thinking- 
+
+01:22:25,594 --> 01:22:25,934 [Nicola]
+Mm-hmm 
+
+01:22:25,934 --> 01:22:29,594 [Hwei]
+... back then. Um, 
+
+01:22:29,594 --> 01:22:45,454 [Hwei]
+and yeah. Well, since this last two to three years, I've changed a lot. [laughs] I'm living a much better life right now, uh, and continue to do better. But yeah, um, that, that, that 
+
+01:22:45,514 --> 01:23:05,534 [Hwei]
+shift in perspective that I am my own person. I have my shapes and forms and boundaries. This is where I end, this is where others start. [laughs] Uh, I can have my own preference. Uh, I exist in the world, therefore 
+
+01:23:05,594 --> 01:23:10,054 [Hwei]
+I have the right to interact with the world as me. 
+
+01:23:10,054 --> 01:23:10,254 [Nicola]
+Mm-hmm. 
+
+01:23:10,254 --> 01:23:27,294 [Hwei]
+Um, that might sound crazy for a lot of people hearing this right now, but this is seriously, if I want to be totally honest, I only s- started embodying that two to three years ago. 
+
+01:23:27,294 --> 01:23:39,593 [Nicola]
+Yeah. I, I think it... most people are, are struggling with that. It's, it's not, not strange. Or maybe it's strange for someone because they have not thought about that. 
+
+01:23:39,594 --> 01:23:39,754 [Hwei]
+Mm-hmm. 
+
+01:23:39,754 --> 01:23:42,134 [Nicola]
+But, uh, 
+
+01:23:42,134 --> 01:23:42,254 [Nicola]
+many people- 
+
+01:23:42,254 --> 01:23:49,474 [Hwei]
+I'm not going that... um, it, like, it's irreversible anymore. [laughs] I'm not going back. Never ever. 
+
+01:23:49,474 --> 01:23:51,954 [Nicola]
+Of course not. Yeah. 
+
+01:23:51,954 --> 01:23:53,114 [Hwei]
+No way. 
+
+01:23:53,114 --> 01:23:58,314 [Nicola]
+Yeah. That's... yeah. That's amazing that, that 
+
+01:23:58,314 --> 01:24:07,974 [Nicola]
+you have been able to, to do that, you know? It takes... it takes, um... some people, it takes a lot of time, and- 
+
+01:24:07,974 --> 01:24:09,134 [Hwei]
+Mm-hmm 
+
+01:24:09,134 --> 01:24:23,014 [Nicola]
+... you don't even realize, because when, when the past you, uh, were not realizing, was not realizing what was happening, right? Uh, or not fully, uh- 
+
+01:24:23,014 --> 01:24:23,134 [Hwei]
+Mm-hmm 
+
+01:24:23,134 --> 01:24:30,874 [Nicola]
+... to be able to, to break out of it and, as you said, understand your boundaries and that 
+
+01:24:30,874 --> 01:24:37,814 [Nicola]
+you exist for yourself with your own tastes and goals, et cetera, et cetera. 
+
+01:24:37,814 --> 01:24:37,974 [Hwei]
+Yeah. 
+
+01:24:37,974 --> 01:24:44,724 [Nicola]
+You're not living just for the others. And it's amazing to see you shine now. 
+
+01:24:44,724 --> 01:24:44,734 [Hwei]
+[laughs] 
+
+01:24:44,734 --> 01:24:52,694 [Nicola]
+And I'm so curious to, to see where this path will, will lead y- lead you. 
+
+01:24:52,694 --> 01:24:54,504 [Hwei]
+Mm-hmm. 
+
+01:24:54,504 --> 01:24:55,304 [Nicola]
+I would want you- 
+
+01:24:55,304 --> 01:24:55,354 [Hwei]
+Yeah 
+
+01:24:55,354 --> 01:25:05,574 [Nicola]
+... to share more of this because it's, it's so important and you, you explain it in such easy and understandable terms. 
+
+01:25:05,574 --> 01:25:07,903 [Hwei]
+Sure. We'll be glad to. [laughs] 
+
+01:25:07,903 --> 01:25:08,054 [Nicola]
+Sure. 
+
+01:25:08,054 --> 01:25:10,294 [Hwei]
+We'll be glad to. Let's see how things go. 
+
+01:25:10,294 --> 01:25:10,314 [Nicola]
+Okay. 
+
+01:25:10,314 --> 01:25:14,034 [Hwei]
+But I'm feeling hopeful. I'm feeling very hopeful. [laughs] 
+
+01:25:14,034 --> 01:25:23,534 [Nicola]
+I know. [laughs] That's great. Okay. I think it does... this is, um, a nice ending. 
+
+01:25:23,534 --> 01:25:23,584 [Hwei]
+That's great. 
+
+01:25:23,584 --> 01:25:27,194 [Nicola]
+Thank you so much, Hui, for, for the conversation. I- 
+
+01:25:27,194 --> 01:25:27,974 [Hwei]
+Thanks for having me 
+
+01:25:27,974 --> 01:25:41,494 [Nicola]
+... learned a lot more about you and, uh, you have shared so many interesting things. I hope people can, um, use them to, to grow them- themselves as well. 
+
+01:25:41,494 --> 01:25:55,814 [Hwei]
+Yeah, really, Nicola, thank you so much for inviting me to do this. Uh, I am not used to talk about myself. I hope this ends well. But in any case, I've enjoyed our conversation today. And, uh, thank you for having me. 
+
+01:25:55,814 --> 01:25:57,014 [Nicola]
+Thank you, Hui. 
+
+01:25:57,014 --> 01:25:57,894 [Hwei]
+Thank you. 
+
+01:25:57,894 --> 01:26:01,734 [Nicola]
+Bye. See you.
