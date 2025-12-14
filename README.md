@@ -43,7 +43,7 @@ graph LR
     D --> G[Output: timestamps, text, reasoning]
     G -->|video FPS| H[Convert to frames]
     H --> I[Create .otio timeline]
-    I --> J[Import to NLE (DaVinci/Premiere)]
+    I --> J[Import to NLE DaVinci/Premiere]
     style A fill:#fff7cc,stroke:#555,stroke-width:1px
     style B fill:#fff7cc,stroke:#555,stroke-width:1px
     style D fill:#ffe89e,stroke:#cc8a00,stroke-width:2px
