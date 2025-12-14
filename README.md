@@ -16,57 +16,97 @@ High quality videos, full control, fast e free.
 
 If you're up for it, let's get going
 
-## Main steps
+# Main steps of the workflow
 
 1. Starting point: transcript of your long form video with timestamps
-2. Call to an AI model to select the clips for a 120s video *fully custom prompt*
-3. Create a .otio timeline you can import in your editing SW directly.
+2. Call an AI model to select the clips for a ~120s video using a fully custom prompt
+3. Create a .otio timeline you can import into your NLE (DaVinci Resolve, Premiere, etc.)
 
-## What you need to do
+# What you need to do
 
-### inputs to change in `1-long-short.py``
+## Setup
 
-1. Paste your OPENAI_API_KEY in .env
-2. Place the transcription file of the video in `transcripts`
-3. Set the name in `TRANSCRIPT_FILE_NAME`
-4. Write the context of your long form video in `CONTEXT` (optional)
-5. Set the frames per second of the video you're using in `FPS`
-6. Set the paths of the videos you're using in `MEDIA_PATHS`. Can be as many as you want.
-7. Write the name of the timeline in `TIMELINE_FILENAME`
+1) Clone the repo  
+`git clone https://github.com/<your-org>/automate-timelines.git && cd automate-timelines`
+
+2) Create config  
+`cp config.example.py config.py` and fill in transcript filename, context, FPS, media paths, and output names.
+
+3) Add secrets  
+Create a `.env` file with `GOOGLE_API_KEY=<your key>` (and `OPENAI_API_KEY=<your key>` if using OpenAI).
+
+## Install dependencies
+
+**Using uv (recommended)**  
+- Install uv if needed: `curl -LsSf https://astral.sh/uv/install.sh | sh`  
+- From the repo root: `uv sync`  
+- Activate the venv: `source .venv/bin/activate`
+
+**Using pip**  
+- Create a venv: `python -m venv .venv && source .venv/bin/activate`  
+- Install: `pip install -r requirements.txt` (if present)
+
+## inputs to change in `config.py` (copy `config.example.py` first)
+
+1. Copy `config.example.py` to `config.py`
+2. Paste your `GOOGLE_API_KEY` (and `OPENAI_API_KEY` if you use OpenAI) in `.env`
+3. Place your transcript file in `data/transcripts` and set `TRANSCRIPT_FILE_NAME`
+4. Update `CONTEXT` to describe the show/episode you are clipping
+5. Set `FPS` to match your footage
+6. Add absolute paths to your video files in `MEDIA_PATHS`
+7. Rename `TIMELINE_FILENAME` to the timeline you want to generate
 
 # Building blocks
 
-# AI calls 
-folder `examples`
+## AI calls (folder `ai_examples`)
 
-## Simple call to an AI model
--check `load-api-checks.py```
+- `load-api-checks.py`: minimal example to load `.env` and verify an API key is present.
+- `0-structured-ouput.py`: OpenAI example returning a Pydantic model (CalendarEvent) to demonstrate structured output.
+- `0.1-example-orchestrator.py`: orchestration pattern (plan → write → review) showing structured outputs and logging for a blog-writing flow.
+- `0.2-structured-ouput-gemini.py`: Gemini example producing a structured recipe via JSON schema; shows both dict config and typed `GenerateContentConfig`.
 
-## Structured output
-- check `0-structured-ouput.py`` and `0.2-structured-ouput-gemini.py``
+## Data models
 
-### data models
+- `models/data_models.py`: Pydantic models for clips (`Clip`, `ClipsList`, `ClipSpec`, `SourceMedia`, etc.) and helpers such as `to_clip_spec(FPS)` to convert timestamp ranges to frame ranges used in timelines.
 
-how they work 
-- check `data_models.py``
+## Orchestrator (main workflow in `main.py`)
 
-## orchestrator
+1. Load environment variables and read the transcript from `data/transcripts`.
+2. Build the orchestrator prompt (`ai_prompts/prompts.py`) with `CONTEXT` and the transcript from `config.py`.
+3. Call Gemini (or OpenAI) to get structured clip selections parsed into `ClipsList`.
+4. Log and persist the AI-selected clips to `data/ai_selected_clips/<timeline>.json`.
+5. Convert timestamp clips to frame-based specs (`ClipSpec`) using `FPS`.
+6. Create `SourceMedia` entries for each video in `MEDIA_PATHS`.
+7. Build an OTIO timeline with `PerMediaTimelineBuilder` and write it to `data/timelines/<timeline>.otio`.
 
-# create timeline from timestamps
+## Timeline creation (folder `create_timelines`)
 
-## convert the timestamps to fps
+- `otio_builder.py`: used in the main workflow; builds an OTIO timeline with paired video/audio tracks per media and places clip ranges on those tracks.
+- `build_simple_timeline.py`: basic OTIO example that creates a single-track timeline from hardcoded media/time ranges—good for understanding OTIO primitives.
+- `timeline_config_example.json`: example JSON shape for timeline configuration.
 
-the transcript has hh:mm:ss,mmm. convert it to fps. 
+## Timestamp utilities
 
-Need a list of clips with starting frames and end frames
+- `utils/utils.py`: converts transcript timestamps (`HH:MM:SS,mmm`) to seconds; useful when mapping transcript timecodes to frame counts.
 
-- check `utils.py`
+# Run the example workflow
 
-## create timeline
+1) Ensure `config.py` and `.env` are set.  
+2) Place your transcript at `data/transcripts/<your-file>.txt` and media files at the paths in `MEDIA_PATHS`.  
+3) Run: `python main.py`  
 
-with otio library it create the timeline that links the media sources. 
+Outputs:  
+- AI-selected clips JSON at `data/ai_selected_clips/<timeline_name>.json`  
+- OTIO timeline at `data/timelines/<timeline_name>.otio` (import into DaVinci Resolve or another OTIO-aware NLE).
 
+## Project layout (key files)
 
-
+- `main.py` — orchestrates the workflow: load transcript, call Gemini/OpenAI, convert timestamps to frames, build OTIO timeline.
+- `config.py` — user-specific settings (copied from `config.example.py`).
+- `ai_prompts/prompts.py` — orchestrator prompt template.
+- `models/data_models.py` — Pydantic models for clips and source media.
+- `create_timelines/otio_builder.py` — builds per-media OTIO timelines.
+- `data/` — transcripts, AI-selected clips, and generated timelines.
+- `ai_examples/` — example scripts for AI calls and structured outputs.
 
 
