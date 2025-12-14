@@ -59,6 +59,10 @@ target/
 # DotEnv configuration
 .env
 
+# Local config
+config.py
+config_original.py
+
 # Database
 *.db
 *.rdb
