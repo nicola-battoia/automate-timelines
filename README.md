@@ -25,7 +25,7 @@ If you're up for it, let's get going.
 # Workflow diagram
 
 ```mermaid
-graph TB
+graph LR
     A[Clone repo<br/>Install deps<br/>Create .env] --> B[Copy config.example.py to config.py<br/>Fill paths and params]
     B --> C[Load config and .env in main.py]
     C --> D[Read transcript<br/>data/transcripts]
