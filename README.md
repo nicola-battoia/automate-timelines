@@ -26,18 +26,18 @@ If you're up for it, let's get going.
 
 ```mermaid
 flowchart TD
-    A[Clone repo<br/>install deps<br/>create .env] --> B[Copy config.example.py<br/>to config.py<br/>fill paths/params]
-    B --> C[Load config + .env<br/>in main.py]
-    C --> D[Read transcript<br/>data/transcripts/...]
-    D --> E[Build prompt<br/>ai_prompts/prompts.py]
-    E --> F[Call AI model<br/>Gemini or OpenAI]
-    F --> G[Parse structured clips<br/>Pydantic ClipsList]
-    G --> H[Save clips JSON<br/>data/ai_selected_clips/...]
-    H --> I[Convert timestamps to frames<br/>to_clip_spec(FPS)]
-    I --> J[Build SourceMedia list<br/>with MEDIA_PATHS]
-    J --> K[Create OTIO timeline<br/>PerMediaTimelineBuilder]
-    K --> L[Write OTIO file<br/>data/timelines/...]
-    L --> M[Import OTIO into NLE<br/>DaVinci/Premiere/etc.]
+    A[Clone repo\nInstall deps\nCreate .env] --> B[Copy config.example.py to config.py\nFill paths and params]
+    B --> C[Load config and .env in main.py]
+    C --> D[Read transcript from data/transcripts]
+    D --> E[Build prompt from ai_prompts/prompts.py]
+    E --> F[Call AI model (Gemini or OpenAI)]
+    F --> G[Parse structured clips into ClipsList]
+    G --> H[Save clips JSON to data/ai_selected_clips]
+    H --> I[Convert timestamps to frame specs at FPS]
+    I --> J[Create SourceMedia list with MEDIA_PATHS]
+    J --> K[Build OTIO timeline via PerMediaTimelineBuilder]
+    K --> L[Write OTIO file to data/timelines]
+    L --> M[Import OTIO into NLE (DaVinci, Premiere, etc.)]
 ```
 
 # What You Need to Do
@@ -126,5 +126,4 @@ Outputs:
 - `create_timelines/otio_builder.py` — builds per-media OTIO timelines.
 - `data/` — transcripts, AI-selected clips, and generated timelines.
 - `ai_examples/` — example scripts for AI calls and structured outputs.
-
 
