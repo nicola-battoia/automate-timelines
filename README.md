@@ -22,8 +22,6 @@ If you're up for it, let's get going.
 2. Call an AI model to select the clips for a ~120s video using a fully custom prompt
 3. Create a `.otio` timeline you can import into your NLE (DaVinci Resolve, Premiere, etc.)
 
-# Workflow diagram
-
 ```mermaid
 graph LR
     A[Long podcast video] --> B[AI Brain]
@@ -33,6 +31,28 @@ graph LR
     style B fill:#ffe89e,stroke:#cc8a00,stroke-width:2px
     style C fill:#fff7cc,stroke:#555,stroke-width:1px
     style D fill:#fff7cc,stroke:#555,stroke-width:1px
+```
+# Complete workflow diagram
+
+```mermaid
+graph LR
+    A[Long podcast video] -->|ElevenLabs| B[Video transcript with timestamps]
+    B --> D[AI: choose good clips]
+    E[Context about the video] --> D
+    F[Orchestrator prompt] --> D
+    D --> G[Output: timestamps, text, reasoning]
+    G -->|video FPS| H[Convert to frames]
+    H --> I[Create .otio timeline]
+    I --> J[Import to NLE (DaVinci/Premiere)]
+    style A fill:#fff7cc,stroke:#555,stroke-width:1px
+    style B fill:#fff7cc,stroke:#555,stroke-width:1px
+    style D fill:#ffe89e,stroke:#cc8a00,stroke-width:2px
+    style E fill:#fff7cc,stroke:#555,stroke-width:1px
+    style F fill:#fff7cc,stroke:#555,stroke-width:1px
+    style G fill:#fff7cc,stroke:#555,stroke-width:1px
+    style H fill:#fff7cc,stroke:#555,stroke-width:1px
+    style I fill:#fff7cc,stroke:#555,stroke-width:1px
+    style J fill:#fff7cc,stroke:#555,stroke-width:1px
 ```
 
 # What You Need to Do
