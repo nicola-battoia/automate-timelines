@@ -60,7 +60,7 @@ graph LR
 ## Setup
 
 1) Clone the repo  
-`git clone https://github.com/<your-org>/automate-timelines.git && cd automate-timelines`
+`git clone https://github.com/nicola-battoia/automate-timelines.git && cd automate-timelines`
 
 2) Create config  
 `cp config.example.py config.py` and fill in transcript filename, context, FPS, media paths, and output names.
