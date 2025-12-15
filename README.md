@@ -1,6 +1,6 @@
 # AI-Powered Video Timeline Automation
 
-Shorts and reels are a necessary evil of our age. You have an amazing 2-hour-long podcast—great. But if you want more people than your aunt to see it, you need a dopamine-kicker teaser. 
+Shorts are a necessary evil of our age. You have an amazing 2-hour-long podcast, great. But if you want more people than your aunt to see it, you need a dopamine-kicker teaser. 
 Now, going from those 2 hours to 150 seconds is a pain in the ass.
 
 But hey, it's 2025: the year AI magically solves our life problems. 
@@ -10,7 +10,7 @@ I tried those and I don't like them.
 
 They kind of work, get you about 60% there. But when you try to finish that remaining 40%, it becomes a nightmare.
 
-In this project, I'll show you how you can hand off the boring part to AI—finding good clips. And then you take control, import it directly into DaVinci Resolve, and do your magic there.
+In this project, I'll show you how you can delegate the boring part to AI: finding good clips. And then you take control, import it directly into DaVinci Resolve, and do your magic there.
 
 High-quality videos, full control, fast and free.
 
