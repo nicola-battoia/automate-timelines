@@ -9,28 +9,26 @@ Narrative 90 seconds trailer. multi step process
 # Standard library
 import os
 import logging
+from pathlib import Path
+
 
 # Third-party
 from dotenv import load_dotenv
-from openai import OpenAI
 import opentimelineio as otio
 from google import genai
-from google.genai import types
 
 # Local imports
 from config import (
-    AI_CLIPS_PATH,
     CONTEXT,
     FPS,
     GOOGLE_MODEL_NAME,
     MEDIA_PATHS,
-    OPENAI_MODEL_NAME,
-    OUTPUT_OTIO_PATH,
     TRANSCRIPT_PATH,
 )
 from models.data_models import SourceMedia, ClipsList
 from create_timelines.otio_builder import PerMediaTimelineBuilder
-from ai_prompts.cleanup_1 import CLEANUP_TRANCRIPT
+from ai_prompts.cleanup_1 import CLEANUP_TRANSCRIPT
+from utils.genai import generate_clips_step
 
 
 # ----------------------------------------------------------------------
@@ -57,82 +55,112 @@ transcript = TRANSCRIPT_PATH.read_text(encoding="utf-8")
 logger.info(f"Transcript loaded ({len(transcript)} characters)")
 
 # ----------------------------------------------------------------------
-# OPENAI EXECUTION
-# ----------------------------------------------------------------------
-
-# Initialize OpenAI openai_client
-# openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-# Step 2: Call AI model to extract clips
-# logger.info(f"Calling {OPENAI_MODEL_NAME} to extract clips")
-# completion = openai_client.beta.chat.completions.parse(
-#     model=OPENAI_MODEL_NAME,
-#     messages=[
-#         {
-#             "role": "system",
-#             "content": ORCHESTRATOR_PROMPT.format(
-#                 transcript=transcript, context=CONTEXT
-#             ),
-#         }
-#     ],
-#     response_format=ClipsList,
-# )
-
-# cleaned_transcript = completion.choices[0].message.parsed
-# logger.info(f"Extracted {len(cleaned_transcript.clips)} clips from transcript")
-# print(cleaned_transcript)
-
-
-# ----------------------------------------------------------------------
 # GOOGLE GEMINI EXECUTION
 # ----------------------------------------------------------------------
 
 logger.info("Initializing Google GenAI client")
 google_client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
 
-# Log before processing transcript with the Google client generate call
-logger.info(f"Cleaning up the transcript with {GOOGLE_MODEL_NAME}")
+CLEANED_TRANSCRIPT_PATH = Path("data/processing/cleaned_transcript.json")
+HOOK_CANDIDATES_PATH = Path("data/processing/hook_candidates.json")
+LIFE_LESSONS_PATH = Path("data/processing/life_lessons.json")
+EMOTIONS_PATH = Path("data/processing/emotions.json")
+CLIFFHANGER_PATH = Path("data/processing/cliffhanger_candidates.json")
+NARRATIVE_TRAILER_PATH = Path("data/processing/narrative_trailer.json")
 
-# use this with thinking models like gemini 3-pro
-# response = google_client.models.generate_content(
-#     model=GOOGLE_MODEL_NAME,
-#     contents=ORCHESTRATOR_PROMPT.format(transcript=transcript, context=CONTEXT),
-#     config=types.GenerateContentConfig(
-#         thinking_config=types.ThinkingConfig(thinking_level="low"),
-#         response_mime_type="application/json",
-#         response_json_schema=ClipsList.model_json_schema(),
-#     ),
-# )
-
-# clean up the transcript to only the meaningful parts
-
-response_cleaned_transcript = google_client.models.generate_content(
-    model=GOOGLE_MODEL_NAME,
-    contents=CLEANUP_TRANCRIPT.format(transcript=transcript, context=CONTEXT),
-    config={
-        "response_mime_type": "application/json",
-        "response_json_schema": ClipsList.model_json_schema(),
-    },
+# Step 1: clean up the transcript to only the meaningful parts
+cleaned_transcript = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=CLEANUP_TRANSCRIPT.format(transcript=transcript, context=CONTEXT),
+    start_log=f"Cleaning up the transcript with {GOOGLE_MODEL_NAME}",
+    extract_label="clips from transcript",
+    detail_label="Clips selected",
+    output_path=CLEANED_TRANSCRIPT_PATH,
+    logger=logger,
 )
 
+from ai_prompts.hook_finder_2 import HOOK_FINDER
 
-cleaned_transcript = ClipsList.model_validate_json(response_cleaned_transcript.text)
+hook_candidates = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=HOOK_FINDER.format(transcript=cleaned_transcript.clips),
+    start_log="Selecting hooks",
+    extract_label="potential hooks",
+    detail_label="Hook candidates",
+    output_path=HOOK_CANDIDATES_PATH,
+    logger=logger,
+)
 
-logger.info(f"Extracted {len(cleaned_transcript.clips)} clips from transcript")
+from ai_prompts.life_lesson_finder_3 import LIFE_LESSON_FINDER
 
-logger.info(f"Clips Selected: {cleaned_transcript.model_dump_json(indent=2)}")
+life_lessons = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=LIFE_LESSON_FINDER.format(transcript=cleaned_transcript.clips),
+    start_log="Selecting life lessons",
+    extract_label="life lessons",
+    detail_label="Life lessons",
+    output_path=LIFE_LESSONS_PATH,
+    logger=logger,
+)
 
-# Persist selected clips to file for downstream use
-AI_CLIPS_PATH.parent.mkdir(parents=True, exist_ok=True)
-AI_CLIPS_PATH.write_text(cleaned_transcript.model_dump_json(indent=2), encoding="utf-8")
-logger.info(f"Wrote clip selections to {AI_CLIPS_PATH}")
+# Step 4: emotions
+from ai_prompts.emotions_finder_4 import EMOTIONS_FINDER
 
+emotions = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=EMOTIONS_FINDER.format(transcript=transcript),
+    start_log="Analyzing emotional moments",
+    extract_label="emotion clips",
+    detail_label="Emotion candidates",
+    output_path=EMOTIONS_PATH,
+    logger=logger,
+)
 
-# Step 3: Convert timestamp-based clips to frame-based clips
+# Step 5: cliffhanger
+from ai_prompts.cliffhanger_finder_5 import CLIFFHANGER_FINDER
+
+cliffhanger_candidates = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=CLIFFHANGER_FINDER.format(transcript=transcript),
+    start_log="Finding cliffhangers",
+    extract_label="cliffhanger candidates",
+    detail_label="Cliffhanger candidates",
+    output_path=CLIFFHANGER_PATH,
+    logger=logger,
+)
+
+# Step 6: narrative trailer
+from ai_prompts.narrative_together_6 import NARRATIVE_TOGETHER
+
+narrative_trailer = generate_clips_step(
+    client=google_client,
+    model_name=GOOGLE_MODEL_NAME,
+    prompt=NARRATIVE_TOGETHER.format(
+        hooks=hook_candidates,
+        lessons=life_lessons,
+        emotional_moments=emotions,
+        cliffhangers=cliffhanger_candidates,
+    ),
+    start_log="Building narrative trailer",
+    extract_label="clips for the trailer",
+    detail_label="Narrative trailer",
+    output_path=NARRATIVE_TRAILER_PATH,
+    logger=logger,
+)
+
+# ----------------------------------------------------------------------
+# TIMELINE BUILDING
+# ----------------------------------------------------------------------
+
 logger.info(f"Converting clips to frame ranges at {FPS} fps")
-builder_clips = [clip.to_clip_spec(FPS) for clip in cleaned_transcript.clips]
+builder_clips = [clip.to_clip_spec(FPS) for clip in narrative_trailer.clips]
 
-# Step 4: Create source media list with clips for each media file
+# Create source media list with clips for each media file
 source_media_list = [
     SourceMedia(
         file_path=path,
@@ -142,13 +170,16 @@ source_media_list = [
     for path in MEDIA_PATHS
 ]
 
-# Step 5: Build OTIO timeline
+# Build OTIO timeline
 logger.info("Building OTIO timeline")
 builder = PerMediaTimelineBuilder()
 timeline = builder.build_timeline(source_media_list)
 
-# Step 6: Write timeline to file
-logger.info(f"Writing timeline to {OUTPUT_OTIO_PATH}")
-otio.adapters.write_to_file(timeline, OUTPUT_OTIO_PATH)
+NARRATIVE_TRAILER_OTIO_PATH = Path("data/processing/narrative_trailer.otio")
+
+
+# Write timeline to file
+logger.info(f"Writing timeline to {NARRATIVE_TRAILER_OTIO_PATH}")
+otio.adapters.write_to_file(timeline, NARRATIVE_TRAILER_OTIO_PATH)
 
 logger.info("Workflow complete!")

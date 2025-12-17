@@ -1,0 +1,112 @@
+{
+  "clips": [
+    {
+      "start": "00:09:12,000",
+      "end": "00:09:43,716",
+      "transcript_text": "[Nicola] In, in which way? Mm. [Hwei] Yeah. I would say fundamentally, uh, because, you know, like, I, I've basically uprooted myself in one culture, one country, one environment, and I'm being put into, like, such a different environment. And so I think the greatest things that Germany has made space for me is to... is to know who I am as a person, what I prefer, what my thoughts and preferences are, and what do I want. And then I can go towards that. And so I would say in general, like this, um, individual- individuation, uh, this is what, uh, Germany has given me space to grow into.",
+      "notes": "Insight into personal growth: How new environments can facilitate self-discovery and understanding one's true preferences and desires."
+    },
+    {
+      "start": "00:12:00,000",
+      "end": "00:12:45,039",
+      "transcript_text": "[Hwei] ...and what's most important is to... as long as you are feeling you, uh, and as long as you're living authentically, home is where you are. Home is not the snapshot that you're left alone with. Home is also not like j-You, you don't necessarily feel like 100% fitting in, uh, into anything. But I am pretty sure, like, a lot of locals will also share that, uh, maybe they also don't feel like they fit into the place that they have been, like, growing up in. Mm-hmm. So I think essentially having this, having this experience just teaches to realize that, to realize that home is really where you are.",
+      "notes": "Profound insight on belonging for expats (and everyone): 'Home is where you are' when living authentically, rather than a fixed place or past snapshot."
+    },
+    {
+      "start": "00:18:25,000",
+      "end": "00:19:43,060",
+      "transcript_text": "[Hwei] Um, what I see is intention really matters, and what problems are you solving and for who. Um, humans have to come up with this first and foremost, and then the tech comes in to, you know, make it, make it happen in reality.",
+      "notes": "Expert insight on tech development: The critical importance of defining intention, problem, and target audience before applying technology, emphasizing human-first solutions."
+    },
+    {
+      "start": "00:24:40,000",
+      "end": "00:25:04,830",
+      "transcript_text": "[Hwei] But for me, it's kind of like something that I told, told a lot of our members, our community members, is when you look back at the things that you do, even as a freelancer, content creator or whatnot, um, it's okay to feel cringe, but you don't really want to feel shame.",
+      "notes": "Actionable advice for values-driven work: 'It's okay to feel cringe, but you don't really want to feel shame' – a principle for choosing projects, especially for freelancers."
+    },
+    {
+      "start": "00:29:40,000",
+      "end": "00:32:13,530",
+      "transcript_text": "[Hwei] And, um, from simple things like using ChatGPT as a, as a consumer, as a user, and you're asking it to, to translate apple to Italian- Yeah ... and, and it's like using, um, I don't know, atomic bomb to, to- [laughs] ... kill a mosquito, right? I've, I've- Yeah. [laughs] ... heard someone saying that. [laughs] [laughs] Because we, we... I mean, we can think about it, but, um, the normal people using ChatGPT doesn't realize that it's, it's a huge technology, right? There are data centers and, uh, transformers and all, uh... incredible technology behind it that transfer for every simple, uh, conversation that you have- Mm-hmm ... with ChatGPT, right? Mm-hmm. While for many, many things, it's not needed that, that so intelligent technology, you know, what I mean? Yeah, but I would say that's a big distinction between- Mm-hmm ... um, between the predictive modeling models with, uh, GenAI or LM models because predictive modeling is largely discriminative models. And then the LM, like the things that, you know, ChatGPT or whoever's coined a term like AI- Mm-hmm ... the big umbrella term, they are largely generative. And so they have different usage. So in, in, in terms of, like, what you said, it's-... you know, I, I want to do translation. Then a generative model can do that very well because, um, you can, you can put, like, a, like a, you know, good prompt and then it's going to come up with an equivalent version of, like, the translation. But then in predictive modeling projects, what it needs is not creativity. What this needs is not generating new stuff, but to reliably, based on past data points, to accurately predict things. So if you take time series forecasting as an example, uh, maybe they have very sparse data, they don't need a model, like an LM, to tell, \"Hey, can you help me detect anomalies at which point in time when this happens?\" Because a generative model is most likely to make things up. Mm-hmm. But a predictive model or discriminative model, it's going to train the model based on the past data and then if the quality is good and if the model is... ha- has been trained successfully, it can then accurately predict in time, uh, what would be the... what would the anomal- a mono- [laughs] anomaly be. Anomaly. Mm-hmm. Yeah. So they are for kind of, like, different usage and that is why I think there are certain use cases for, um, LMs. There are certain use cases that, um, the discriminative machine learning models or statistical models will still be in, in demand because they are inherently for different, different things.",
+      "notes": "Expert insight on AI/ML: Explaining the critical distinction between generative (LLMs) and discriminative (predictive) models, using the 'atomic bomb to kill a mosquito' metaphor to highlight appropriate tool selection."
+    },
+    {
+      "start": "00:32:33,490",
+      "end": "00:33:04,000",
+      "transcript_text": "[Hwei] Um, I think right now I would still focus on becoming a s- problem solver for worthy problems. Okay. So for every project that comes, um, it's important for me to, to satisfy, like, to be convinced of the for what and for who. So if you, if you come with me that says, \"Hey, we, we, we want a water pollutant monitoring system-\" Mm-hmm \"... to do this and it's going to be used by, uh, used by this and this person.\" If I feel convinced of this, like, okay, like goes aligns with my values, then I'm going to say yes.",
+      "notes": "Actionable principle for career: Focus on being a 'problem solver for worthy problems' by always clarifying 'for what and for whom' to ensure alignment with values."
+    },
+    {
+      "start": "00:43:18,000",
+      "end": "00:43:55,942",
+      "transcript_text": "[Hwei] Um, what I think I needed at that time is to, is to essentially see that I can do it, and I appreciate any kinds of guidance. That i- if anybody who has w- walked the talk, like walked this path before, to see my blind spot, to give me some advice that I could apply for myself. Um, this is why. Like, this is mainly why. Um, the rel- the, the, the relevance of the program itself paired with thinking that I need some, I need somebody experienced who was on this journey doing very successfully and I can resonate with to help me to go through this process.",
+      "notes": "Insight into seeking mentorship: The value of finding a guide who 'walks the talk,' can see your blind spots, and offers applicable advice for your specific journey."
+    },
+    {
+      "start": "00:44:13,842",
+      "end": "00:44:46,000",
+      "transcript_text": "[Hwei] Yes. I told Dave, uh, in a later interview, I said, \"Uh, Dave, I didn't have confidence. I outsourced my confidence to you, and thanks to you, I'm here.\" [laughs] \"I'm in the game.\" [laughs]",
+      "notes": "Memorable quote and insight on mentorship: 'I outsourced my confidence to you' – a powerful way to describe relying on a mentor for belief and support."
+    },
+    {
+      "start": "00:46:04,962",
+      "end": "00:46:54,872",
+      "transcript_text": "[Hwei] I think my role is just to remind everybody what they know already within themself. I just reinforce that, \"Nicola, based on what we talk, I think you are this and this person. Um, if this is your goal, I help you hold the, the, your, your ideal self in my mind. And in my mind, every goal that you told me that you're going to achieve, I consider it, I consider it done already. And now I'm just walking this process with you. Uh, but in my mind, it's already done, and I'm just waiting for one day in the future that you'll come back to tell me that says, 'Hui, I'm already in my ideal self.' And, and I'll be just like, \"You know, I knew it. I knew it a long time ago.\" [laughs]",
+      "notes": "Powerful coaching philosophy: Reminding individuals of their inner knowledge, holding their ideal self in mind, and treating their goals as already achieved to foster belief."
+    },
+    {
+      "start": "00:47:47,382",
+      "end": "00:48:50,000",
+      "transcript_text": "[Hwei] I think it's mostly the humility to see a different perspective of the story. What do you mean? A lot of people... um, so in my experience, I feel that I cannot help those people who cannot believe in another version of narration. So what they want is, \"I'm stuck here. Don't convince me otherwise.\" And then they try to... they're not receptive to the other things. So I would say, first of all, the humility to accept that reality has different narration, and you just have to... rather, rather than seeing it as good or bad-... see it as pros and cons, and then see yourself as one avatar in the sandbox. And says, \"I'm here. This is where I want to go. What is beneficial for me to take?\"",
+      "notes": "Critical insight for personal growth: The 'humility to see a different perspective' and accept that reality has multiple narrations, crucial for overcoming being 'stuck'."
+    },
+    {
+      "start": "00:49:42,214",
+      "end": "00:50:13,494",
+      "transcript_text": "[Hwei] Oh, so this is one. Second would be accountability. Okay. This is what we do every week, Nicolas. [laughs] [laughs] I know that part well. [laughs] Yeah. Okay. But- Accountability. Do they follow up? Mm-hmm. Do they follow through, um, with, with the things that they should be doing, they said they would do? Yeah. So- Because action moves the needle, right?",
+      "notes": "Actionable tip for progress: 'Accountability' is key because 'action moves the needle' – emphasizing the necessity of following through on commitments."
+    },
+    {
+      "start": "00:57:07,000",
+      "end": "00:57:55,506",
+      "transcript_text": "[Hwei] And so the moral of the story is, um, righteousness is not my goal in coaching. Um, the intention to making somebody, um, seeing the potential in somebody, that this person is not a mushroom, is a human, and he has the place that he needs to go. Um, I don't have to be right. I just have to try my best to have the intention to get this person into where they want to go.",
+      "notes": "Memorable coaching philosophy from the 'Mushroom Man' story: 'Righteousness is not my goal in coaching. I don't have to be right; I just have the intention to get this person into where they want to go.'"
+    },
+    {
+      "start": "01:05:00,000",
+      "end": "01:06:49,937",
+      "transcript_text": "[Hwei] ...but maybe out of security you feel like this log is so important for you, it has saved your life, so you just hug it to walk it. But who knows your next quest is to climb the mountain? Like, you cannot... Since the log has saved you already, you should let it go because your next quest is climbing a mountain. That log is not going to serve you. Mm. And so that main guiding principle is kinda like, say, everything is as is, as happened. Um, for example, our podcast now is as happened. It's going to end in, I don't know, like 20 minutes' time. And I should not cling on it. I should not think about, \"Oh, damn, I should change something about it.\" Like, also in freelancing- Yes ... it's like, uh, in freelancing you have to have a level of grace, uh, and compassion to yourself for the courage to come out. If you always say that, \"I have to be perfect. I cannot make any mistakes,\" sorry, you live in a classroom. You're not living in the real world. Hmm. Um, if you're living in the real world and you don't want to get to insanity, [laughs] just try to do a small experiment, see what it comes back. And if it is not the outcome that you want, just pivot and do better next time. So, like, don't hug the log when you have to climb the mountain. Yes, the log has saved you. It has served you in the past, but time to move on.",
+      "notes": "Powerful mental model: The 'hug the log' metaphor, illustrating the importance of letting go of past methods or securities that no longer serve your current goals and growth."
+    },
+    {
+      "start": "01:10:00,000",
+      "end": "01:12:06,490",
+      "transcript_text": "[Hwei] ...But I forgot to examine myself, like if that advice is made for me or not. Like, do I see myself in this, or do I have a level of understanding that this thing fits me or not? Um, and the process of doing that is then to, to find the truth slowly. And that book, The Way of Integrity, it's basically, like, explaining or practicing or making you realize what are the ways that you can find your own integrity. And so you have this inner truth as your anchor, and everything has to filter through this, and then you get a sense of clarity, um, when dealing with a lot of noise. I see. So it's, like, helping you to, um, filter the advice and whatever, [clears throat] whatever people tell you instead of following, uh, everyone in all... in every direction. Yeah. Yeah. It's more like there are two kinds of heart. Um, there are two kinds of hardness, um, that, that we face. Um, one kind of heart is if you're a fish, then if you want to swim to the ocean, and then, you know, like, it's a different environment, you just have to push on, right? Like, you have a, you know... You'll be stronger as a different f- as a stronger fish, you'll maybe swim faster or anything. But another kind of heart is you don't know who you are, you don't even know you're a fish, and then you are trying to compete with monkeys climbing the tree, and then you'll be stuck thinking, \"Why are the other monkeys just seem so, so light and easy and so effortless in climbing the trees?\" Because you don't even know, like... And, and you're kinda out of breath. [laughs] You're not as good as they are. You're not achieving the height that they are, but you're half dying. Uh, that's because you don't realize that you're a fish, like, this is not your lane. Like, go back to the water, like, and, and, you know, swim towards the ocean.",
+      "notes": "Powerful 'fish vs. monkey' metaphor: The crucial insight to 'honor your own truth,' examine if advice fits you, and avoid trying to thrive in a 'lane' that isn't yours."
+    },
+    {
+      "start": "01:12:20,000",
+      "end": "01:13:16,794",
+      "transcript_text": "[Hwei] Three times that I have to be almost bedridden. [laughs] I'm in a lot of pain, uh, to realize, uh, I'm not supposed to do certain things. And usually, that comes in terms of, um, the career choice, um, and the environment, and, uh, my attitude trying to climbing the trees, uh, while not knowing myself. So yeah, I have had three burnouts in the past 10 years. And the first one was, um, during my software engineering time, and the second one was during my PhD time. Uh, no.... during my, uh, data science consultant time, and then third time was during my PhD time.",
+      "notes": "Vulnerable sharing of the high cost of misalignment: Hwei recounts suffering three burnouts, almost bedridden, from pursuing career choices and environments not aligned with her true self."
+    },
+    {
+      "start": "01:13:42,454",
+      "end": "01:14:40,000",
+      "transcript_text": "[Hwei] I realized that I, I never think about checking in with myself if, if being in an environment or doing a certain thing will make me respect myself more or less. So I didn't... so it's more like I keep looking out and then I try doing things and I try to come up with a good result, good performance. Um, but then I don't know what I'm made of. Mm. Um, so it's kind of like... uh, it's kind of like I am trying my very best just trying to survive instead of thriving. And that comes in many, many ways. Maybe it is with the pace of the project. Maybe it's with the nature of the project. Maybe it's with the nature of the environment of what is demanded of you. Um, and, and these kind of, uh, self-awareness came, uh, after taking me three excruciating physical pain, um, to, to realize that maybe I should look at what I'm made of. [laughs] Yeah.",
+      "notes": "Critical self-awareness lesson post-burnout: The importance of checking in if an environment or task helps you 'respect myself more or less' and distinguishing 'surviving' from 'thriving'."
+    },
+    {
+      "start": "01:16:15,000",
+      "end": "01:17:55,654",
+      "transcript_text": "[Hwei] At, at first I would say it is, um, little discomfort here and there. And that might come in terms of emotions, that might comes in terms of sensations. Um, and then, uh, the next thing would be you are trying to overcome them- Mm-hmm ... but you feel that you are slowly giving up on yourself or betraying yourself. Like you're, you're so kind of like betraying your own truth, um, in order to get better, if that make any sense. Um, and then you keep giving in. So you slowly find yourself- Mm ... grinding more like, more like you... more like you feel like you grind yourself off, that nothing is left. Like you're, you're le- you are slowly losing your life force instead of, um... instead of feeling like I'm still myself doing this. Mm. Yeah. It, it's going to feel like, \"I keep running and running and running, but for what?\" And maybe your logical brain is going to convince you, \"Ah, it's for this, you know, this, this, um, nice achievement, and it's for me to prove to myself that I can do this.\" Um, but yeah, um, this is going to... this is kind of like a slippery slope where you, you betray yourself again and again and again. Yeah.",
+      "notes": "Actionable guide to identifying burnout: Recognizing subtle signals like discomfort, betraying your truth, grinding until nothing is left, and losing life force, despite external justifications."
+    },
+    {
+      "start": "01:21:31,634",
+      "end": "01:23:27,294",
+      "transcript_text": "[Hwei] I misunderstood myself. Mm-hmm. Um, only recently, two to three years ago, that I changed my perspective on my existence in the world. So, only up until two to three years ago, I used to think that my existence is to be of use by others, is to lose my shapes and forms and then putting myself down to the dust, and to just serve others, and that is love. Mm-hmm. And that is contribution. That was my thinking- Mm-hmm ... back then. Um, and yeah. Well, since this last two to three years, I've changed a lot. [laughs] I'm living a much better life right now, uh, and continue to do better. But yeah, um, that, that, that shift in perspective that I am my own person. I have my shapes and forms and boundaries. This is where I end, this is where others start. [laughs] Uh, I can have my own preference. Uh, I exist in the world, therefore I have the right to interact with the world as me. Mm-hmm. Um, that might sound crazy for a lot of people hearing this right now, but this is seriously, if I want to be totally honest, I only s- started embodying that two to three years ago.",
+      "notes": "Profound personal revelation on self-worth: Shifting from believing one's existence is solely 'to be of use by others' to embodying one's own personhood, boundaries, and right to exist authentically."
+    }
+  ]
+}

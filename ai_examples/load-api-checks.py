@@ -6,10 +6,10 @@ import os
 load_dotenv()
 
 # Get API key
-API_KEY = os.environ.get("OPENAI_API_KEY")
+API_KEY = os.environ.get("GEMINI_API_KEY")
 
 if not API_KEY:
-    print("Please set OPENAI_API_KEY in .env file")
+    print("Please set GEMINI_API_KEY in .env file")
     exit(1)
 
 # Use the API

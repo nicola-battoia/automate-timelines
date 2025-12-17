@@ -67,6 +67,8 @@ response = google_client.models.generate_content(
 recipe = Recipe.model_validate_json(response.text)
 print(recipe)
 
+recipe.ingredients[0].name
+
 from google import genai
 from google.genai import types
 
