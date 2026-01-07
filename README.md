@@ -16,6 +16,8 @@ High-quality videos, full control, fast and free.
 
 If you're up for it, let's get going.
 
+Follow the YouTube Video tutorial of this project: https://youtu.be/VHUiI1Sixv8?si=nXoT_ETUCR9WGdmd
+
 # Main Steps of the Workflow
 
 1. Starting point: transcript of your long-form video with timestamps
