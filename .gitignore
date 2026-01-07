@@ -94,4 +94,4 @@ config_original.py
 .venv/
 
 # Local archive
-@archive/
+archive/

@@ -1,0 +1,100 @@
+{
+  "clips": [
+    {
+      "start": "00:08:41,346",
+      "end": "00:09:43,716",
+      "transcript_text": "[Hwei] ...it really, um, grows me as a person. I feel like... I, I feel like I've, I've grown a lot in these last 10 years. [Nicola] Really? Okay. And you, you think it- [Hwei] Yeah [Nicola] ... uh, that Germany help you to, to, to grow personally? In, in which way? [Hwei] Mm. Yeah. I would say fundamentally, uh, because, you know, like, I, I've basically uprooted myself in one culture, one country, one environment, and I'm being put into, like, such a different environment. And so I think the greatest things that Germany has made space for me is to... is to know who I am as a person, what I prefer, what my thoughts and preferences are, and what do I want. And then I can go towards that. And so I would say in general, like this, um, individual- individuation, uh, this is what, uh, Germany has given me space to grow into.",
+      "notes": "Hwei shares a valuable insight on how changing her environment by moving to Germany fostered self-discovery and 'individuation,' helping her deeply understand her true preferences and desires as a person."
+    },
+    {
+      "start": "00:11:07,826",
+      "end": "00:12:45,039",
+      "transcript_text": "[Hwei] ...if you are an expat, um, you feel like the version of home that you... that, that you were familiar with but you leave, um, will just be a snapshot in the past because, I mean, Malaysia has grown so much in these recent years. And so I think as an expat, no matter where you go, um, you feel like you never belong in the place that, um, you grow into but you're also never home anymore because home has, has also evolved. But I don't think that is... I don't think there's any issue with that because- [Nicola] Mm-hmm [Hwei] ... this is the path that all of us expats have chosen and what's most important is to... as long as you are feeling you, uh, and as long as you're living authentically, home is where you are. Home is not the snapshot that you're left alone with. Home is also not like j-You, you don't necessarily feel like 100% fitting in, uh, into anything. But I am pretty sure, like, a lot of locals will also share that, uh, maybe they also don't feel like they fit into the place that they have been, like, growing up in. [Nicola] Mm-hmm. [Hwei] So I think essentially having this, having this experience just teaches to realize that, to realize that home is really where you are.",
+      "notes": "Hwei provides a deeply resonant insight for expats and anyone feeling rootless: home is defined by authenticity and self-presence, not a fixed physical location or past snapshot. 'Home is really where you are.'"
+    },
+    {
+      "start": "00:15:15,740",
+      "end": "00:16:54,180",
+      "transcript_text": "[Hwei] If, if- ...it is needing more time for all the non-deterministic situations, non-deterministic scenarios in real life. Um, so I feel that, yeah. [laughs] [Nicola] It takes much more- [Hwei] If, if- [Nicola] ...time than, than people expect, right? [Hwei] Yeah, but I think it's also the, the, the, the perception, the audience perception of it. [Nicola] Mm-hmm. [Hwei] Because humanoid robotics, it can, it can be borderline like uncanny, you know? [Nicola] Yeah. [Hwei] And so, [laughs] and so, mm, the, the mode of presentation has to be a little bit careful because- [Nicola] Mm-hmm [Hwei] ... if you, if you present things like, \"Hey, you have a person that is maneuvering the robot,\" which means, like, what about the privacy side? I, I, uh- [Nicola] Yeah. [Hwei] [laughs] Sorry. [Nicola] That, that's definitely- [Hwei] Mm-hmm [Nicola] ... unexpected. [laughs] [Hwei] [laughs] Yeah. But I think that is the safest way for the team- [Nicola] Uh-huh [Hwei] ... to actually s- um, in a, in a more controllable way ensuring the accuracy of- [Nicola] Mm-hmm [Hwei] ... the humanoid robot. And so I would give it some grace, but I also totally understand how uncanny it can feel when, when us just put ourself in the shoes of the consumer, of the user, and then extrapolate this presentation into what might be in the future. Um, so yeah, if you're, if anybody is thinking about, you know, \"Shit, the future is doom,\" [laughs] I can totally understand. Like, this is just a, I think the handling of the presentation into what the audience might feel like that, that, that, that can be more considerate.",
+      "notes": "Hwei offers expert insight into the slow progress and public perception challenges of humanoid robotics, stressing the crucial need for careful presentation to avoid fear and the 'uncanny valley' with new technologies."
+    },
+    {
+      "start": "00:19:07,290",
+      "end": "00:20:13,850",
+      "transcript_text": "[Hwei] ...for us who are the practitioners of the field, of the tech, I see a lot of possibilities. I see a lot of values to be done, um, especially in the work that I do for clients right now. Um, what I see is intention really matters, and what problems are you solving and for who. Um, humans have to come up with this first and foremost, and then the tech comes in to, you know, make it, make it happen in reality. And so I think what we can control right now is whoever is needing the solution and whoever, like us, is executing or implementing these solutions, figuring out for what and for who, it's kinda our due diligence. Um, and when it's done right, I do see a lot of possibilities, uh, with the current LLM advancements.",
+      "notes": "Hwei provides a crucial mental model for tech development: 'intention really matters, and what problems are you solving and for who.' She stresses that defining the 'for what and for whom' is practitioners' due diligence."
+    },
+    {
+      "start": "00:24:45,190",
+      "end": "00:25:00,030",
+      "transcript_text": "[Hwei] something that I told, told a lot of our members, our community members, is when you look back at the things that you do, even as a freelancer, content creator or whatnot, um, it's okay to feel cringe, but you don't really want to feel shame.",
+      "notes": "Hwei shares a powerful mental model for personal and professional work: it's 'okay to feel cringe' about past efforts, but always strive to avoid work that evokes 'shame,' guiding one towards value alignment."
+    },
+    {
+      "start": "00:26:22,810",
+      "end": "00:27:23,840",
+      "transcript_text": "[Hwei] ...the pollutants monitoring of the Rhinewater, uh, system. [Nicola] Mm-hmm. Okay. [Hwei] So basically, like, um, basically, like, part of Germany and the Netherlands share the same water system. And then, um, I help build sort of like a predictive modeling tool to kind of like say, \"Hey, can we...\" You know, it's all sparse data, so... And then data is kind of like inconsistent and everything, so a lot of processing is involved. But that tool now managed to, uh, kind of like predict pollutants in time to say like, \"Hey, when a pollutant is being detected abnormally at upstream rivers, then by this and this time, it, it's going to flow to the border to the Netherlands,\" and things like this. [Nicola] Mm-hmm. [Hwei] And so this is something that when being used correctly can really benefit maybe the lives of a region of people. Like, I don't know... I don't know the future usage of this tool, but the implementation of it, the intention behind developing these kind of tools, uh, f- to me-",
+      "notes": "Hwei showcases a impactful project: developing a predictive modeling tool for Rhinewater pollutant monitoring, which predicts the flow of pollutants, demonstrating how AI can solve critical real-world problems and benefit human lives."
+    },
+    {
+      "start": "00:30:44,480",
+      "end": "00:32:13,530",
+      "transcript_text": "[Hwei] But then in predictive modeling projects, what it needs is not creativity. What this needs is not generating new stuff, but to reliably, based on past data points, to accurately predict things. So if you take time series forecasting as an example, uh, maybe they have very sparse data, they don't need a model, like an LM, to tell, \"Hey, can you help me detect anomalies at which point in time when this happens?\" Because a generative model is most likely to make things up. [Nicola] Mm-hmm. [Hwei] But a predictive model or discriminative model, it's going to train the model based on the past data and then if the quality is good and if the model is... ha- has been trained successfully, it can then accurately predict in time, uh, what would be the... what would the anomal- a mono- [laughs] anomaly be. [Nicola] Anomaly. Mm-hmm. [Hwei] Yeah. [Nicola] Yeah. [Hwei] So they are for kind of, like, different usage and that is why I think there are certain use cases for, um, LMs. There are certain use cases that, um, the discriminative machine learning models or statistical models will still be in, in demand because they are inherently for different, different things.",
+      "notes": "Hwei clearly distinguishes generative AI (creative, can 'make things up') from discriminative predictive models (reliable, accurate predictions based on past data), explaining why both types are essential for different use cases and problem-solving."
+    },
+    {
+      "start": "00:32:41,950",
+      "end": "00:33:53,690",
+      "transcript_text": "[Hwei] Um, I think right now I would still focus on becoming a s- problem solver for worthy problems. [Nicola] Okay. [Hwei] So for every project that comes, um, it's important for me to, to satisfy, like, to be convinced of the for what and for who. So if you, if you come with me that says, \"Hey, we, we, we want a water pollutant monitoring system-\" [Nicola] Mm-hmm [Hwei] \"...to do this and it's going to be used by, uh, used by this and this person.\" If I feel convinced of this, like, okay, like goes aligns with my values, then I'm going to say yes. Because to me, based on my previous experience in academia, in industry, I know where to look for solutions. And so it's like right now, the tools that I have, eh, in my toolbox is machine learning, deep learning, statistics, LMs, AI engineering. And so for all of those things paired with software engineering, you can basically look for any solution. You can, you can come up with any solutions. But what I think is, um,",
+      "notes": "Hwei outlines her guiding principle of being a problem-solver for 'worthy problems,' emphasizing that she will only take on projects where the 'for what and for who' aligns with her values, leveraging her diverse technical toolbox."
+    },
+    {
+      "start": "00:44:13,842",
+      "end": "00:45:33,000",
+      "transcript_text": "[Hwei] [laughs] Yes. I told Dave, uh, in a later interview, I said, \"Uh, Dave, I didn't have confidence. I outsourced my confidence to you, and thanks to you, I'm here.\" [Nicola] [laughs] [Hwei] \"I'm in the game.\" [laughs] And then- [Nicola] I, I, I think, uh, you, you told me that phrase the first time that we met. [Hwei] Oh. [Nicola] I wrote it down and I [laughs] I, I always remembered it. [laughs] [Hwei] [laughs] Yeah, and I'm trying to do that to all the community members now. [Nicola] Yeah. [Hwei] Like, I'm like, \"I know what you need, um, based on, base- based on the fact that I'm also in the game.\" [Nicola] Mm-hmm. [Hwei] Um, and so if you, if you can leave the rest to us, and then just say, \"I want to go here,\" we'll help you get there.",
+      "notes": "Hwei shares a powerful mental model: she 'outsourced confidence' to her mentor and now applies this by telling her mentees, 'If you can leave the rest to us, and then just say, I want to go here, we'll help you get there.'"
+    },
+    {
+      "start": "00:47:59,972",
+      "end": "00:49:15,000",
+      "transcript_text": "[Hwei] I cannot help those people who cannot believe in another version of narration. So what they want is, \"I'm stuck here. Don't convince me otherwise.\" And then they try to... they're not receptive to the other things. So I would say, first of all, the humility to accept that reality has different narration, and you just have to... rather, rather than seeing it as good or bad-... see it as pros and cons, and then see yourself as one avatar in the sandbox. And says, \"I'm here. This is where I want to go. What is beneficial for me to take?\" And people with narra- a certain narration, they are very s- you know, very convinced of something- [Nicola] Mm-hmm [Hwei] ...when I see that it, this convincing reality does not serve them. Uh, and if they, if they are not ready to accept other possibilities, other narration that says, \"Hey, maybe you can look into here and that,\" um, I, I think if they are very, if, if they decide to stay in this narration, there's nothing that I can do.",
+      "notes": "Hwei identifies humility and openness to alternative perspectives as crucial for coachability, explaining she cannot help those unwilling to consider new 'narrations' of reality that might better serve their goals."
+    },
+    {
+      "start": "00:56:07,000",
+      "end": "00:57:55,506",
+      "transcript_text": "[Hwei] ...one day a person comes along and just take another umbrella and just sit next to him. And then that mushroom guy said, \"Hey, what are you doing here?\" And then that guy just says like, \"I'm also a mushroom.\" [laughs] And then that guy says, \"Huh. Oh, we're mushroom friends now.\" And after, you know, sitting, sitting with that guy for, for some time, that, that guy just started to stand and walk. And then the mushroom man just freaked out. [laughs] And then that mushroom is like, \"Hey, you're a mushroom. How can you do this?\" And then that guy just said, \"You don't know? It's 2025, mushrooms can walk.\" And then that guy says, \"Huh. Interesting. Are you... Okay, mushrooms can walk?\" And he's like, \"Of course, all mushrooms can walk this year, starting this year.\" And then that mushroom guy just stand up and walked. And so the moral of the story is, um, righteousness is not my goal in coaching. Um, the intention to making somebody, um, seeing the potential in somebody, that this person is not a mushroom, is a human, and he has the place that he needs to go. Um, I don't have to be right. I just have to try my best to have the intention to get this person into where they want to go.",
+      "notes": "Hwei shares the memorable 'mushroom man' story to illustrate her coaching philosophy: her goal isn't to be 'right,' but to meet people where they are and gently expand their perception of what's possible, guiding them towards their potential."
+    },
+    {
+      "start": "00:58:31,526",
+      "end": "00:59:27,185",
+      "transcript_text": "[Hwei] Accountability helps you make progress. And there can be many reasons why, mm, you cannot do what you wanted to do. You might be lacking skills, you might be lacking some tools, you might be lacking the permission that only you can give to yourself. And another people just have to remind you that, um, the power is not outside, the power is inside. [Nicola] Mm-hmm. [Hwei] And these are the things that, I think in life, we just rely on the kindness of another person to help you move forward. And that is how we, that is how we choose to interact with the world. To, to be willing to accept the goodness from other people and then pass it forward.",
+      "notes": "Hwei explains that accountability drives progress by helping individuals overcome internal barriers like lacking self-permission, emphasizing that true power for change comes from within, often supported by the kindness of others."
+    },
+    {
+      "start": "01:04:47,000",
+      "end": "01:05:43,000",
+      "transcript_text": "[Hwei] ...if you are drowning and then you happen to hug a log, like a big piece of wood, and then that has saved your life. Um, but then since you're now safe, you are, you're not drowning anymore, you have come to the land, but maybe out of security you feel like this log is so important for you, it has saved your life, so you just hug it to walk it. But who knows your next quest is to climb the mountain? Like, you cannot... Since the log has saved you already, you should let it go because your next quest is climbing a mountain. That log is not going to serve you.",
+      "notes": "Hwei uses the powerful 'don't hug the log' metaphor to illustrate the importance of letting go of past securities and tools that no longer serve your current goals, emphasizing fluidity and continuous growth."
+    },
+    {
+      "start": "01:10:48,000",
+      "end": "01:12:06,490",
+      "transcript_text": "[Hwei] ...It's more like there are two kinds of heart. Um, there are two kinds of hardness, um, that, that we face. Um, one kind of heart is if you're a fish, then if you want to swim to the ocean, and then, you know, like, it's a different environment, you just have to push on, right? Like, you have a, you know... You'll be stronger as a different f- as a stronger fish, you'll maybe swim faster or anything. But another kind of heart is you don't know who you are, you don't even know you're a fish, and then you are trying to compete with monkeys climbing the tree, and then you'll be stuck thinking, \"Why are the other monkeys just seem so, so light and easy and so effortless in climbing the trees?\" Because you don't even know, like... And, and you're kinda out of breath. [laughs] You're not as good as they are. You're not achieving the height that they are, but you're half dying. Uh, that's because you don't realize that you're a fish, like, this is not your lane. Like, go back to the water, like, and, and, you know, swim towards the ocean.",
+      "notes": "Hwei uses the memorable 'fish trying to climb a tree with monkeys' metaphor to stress the importance of knowing your true nature and finding your own lane to avoid unnecessary struggle and achieve genuine growth."
+    },
+    {
+      "start": "01:15:08,000",
+      "end": "01:15:55,154",
+      "transcript_text": "[Nicola] So you, you feel you were ignoring maybe earlier signals, right? You, you had to get physical pain- [Hwei] I'm ignoring all the subtle and obvious signals- [Nicola] Mm-hmm [Hwei] ...that until my body literally can't move anymore for me to say, \"Stop.\" [Nicola] Okay. [Hwei] Otherwise, I'll still keep moving. Like otherwise I wouldn't have learned this lesson. So my body was compassionate enough to take a breakdown to remind myself that, hey, this is not you. Like this is... you're not... e- you're, you're, you're a different vehicle being put on different purpose.",
+      "notes": "Hwei candidly shares her experience with burnouts, realizing she ignored subtle internal signals until physical pain forced her to stop, emphasizing the vital lesson of listening to one's body to avoid self-betrayal."
+    },
+    {
+      "start": "01:21:49,000",
+      "end": "01:22:45,000",
+      "transcript_text": "[Hwei] Only up until two to three years ago, I used to think that my existence is to be of use by others, is to lose my shapes and forms and then putting myself down to the dust, and to just serve others, and that is love. [Nicola] Mm-hmm. [Hwei] And that is contribution. That was my thinking- [Nicola] Mm-hmm [Hwei] ...back then. Um, and yeah. Well, since this last two to three years, I've changed a lot. [laughs] I'm living a much better life right now, uh, and continue to do better. But yeah, um, that, that, that shift in perspective that I am my own person. I have my shapes and forms and boundaries. This is where I end, this is where others start. [laughs] Uh, I can have my own preference. Uh, I exist in the world, therefore I have the right to interact with the world as me.",
+      "notes": "Hwei describes her profound personal transformation, realizing her existence is for herself, not solely to serve others, and the importance of embodying her own boundaries, preferences, and right to authentic interaction."
+    }
+  ]
+}

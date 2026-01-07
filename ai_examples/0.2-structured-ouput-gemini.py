@@ -3,6 +3,10 @@ from google.genai import types
 from pydantic import BaseModel, Field
 from typing import List, Optional
 
+# --------------------------------------------------------------
+# Step 1: Define the response format in a Pydantic model
+# --------------------------------------------------------------
+
 
 class Ingredient(BaseModel):
     name: str = Field(description="Name of the ingredient.")
@@ -18,14 +22,13 @@ class Recipe(BaseModel):
     instructions: List[str]
 
 
+# --------------------------------------------------------------
+# Step 2: Call the model
+# --------------------------------------------------------------
+
 # gemini-2.5-flash
-# gemini-3-pro-preview
-# config=types.GenerateContentConfig(
-#     thinking_config=types.ThinkingConfig(thinking_level="low")
-# ),
 
-
-GOOGLE_MODEL_NAME = "gemini-3-pro-preview"
+GOOGLE_MODEL_NAME = "gemini-2.5-flash"
 
 google_client = genai.Client()
 
@@ -53,32 +56,36 @@ response = google_client.models.generate_content(
     },
 )
 
-# --- Response 2: Using types.GenerateContentConfig for config ---
-response = google_client.models.generate_content(
-    model=GOOGLE_MODEL_NAME,
-    contents=prompt,
-    config=types.GenerateContentConfig(
-        thinking_config=types.ThinkingConfig(thinking_level="low"),
-        response_mime_type="application/json",
-        response_json_schema=Recipe.model_json_schema(),
-    ),
-)
-
 recipe = Recipe.model_validate_json(response.text)
 print(recipe)
 
+recipe.recipe_name
+recipe.prep_time_minutes
+recipe.instructions
+recipe.ingredients
 recipe.ingredients[0].name
+recipe.ingredients[0].quantity
 
-from google import genai
-from google.genai import types
-
-google_client = genai.Client()
+# --------------------------------------------------------------
+# Step 2: Call a thinking model
+# --------------------------------------------------------------
 
 response = google_client.models.generate_content(
     model="gemini-3-pro-preview",
     contents="How does AI work?",
     config=types.GenerateContentConfig(
         thinking_config=types.ThinkingConfig(thinking_level="low")
+    ),
+)
+
+# --- Response 2: Using types.GenerateContentConfig for config ---
+response = google_client.models.generate_content(
+    model="gemini-3-pro-preview",
+    contents=prompt,
+    config=types.GenerateContentConfig(
+        thinking_config=types.ThinkingConfig(thinking_level="low"),
+        response_mime_type="application/json",
+        response_json_schema=Recipe.model_json_schema(),
     ),
 )
 

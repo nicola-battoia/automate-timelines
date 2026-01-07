@@ -8,7 +8,7 @@ This module contains all the data classes used for:
 """
 
 from typing import List
-from pydantic import BaseModel, Field, RootModel, field_validator, model_validator
+from pydantic import BaseModel, Field, field_validator, model_validator
 
 from utils.utils import timestamp_to_seconds
 
